@@ -1,0 +1,75 @@
+# Course Handbook Configuration
+#
+# In this file you can customize your workshop website.
+#
+# Some defaults are set for a Galaxy-based workshop using GTN materials
+# and an asynchronous format (video training sessions and support on chat)
+title: Galaxy Training Event
+
+# About the workshop
+workshop:
+  title: "Title of your Workshop"
+  logo: "assets/images/logos/00_GTNLogo300.png"
+  contacts:
+    - name: Saskia Hiltemann
+      email: saskiahiltemann@gmail.com
+    - name: Helena Rasche
+      email: helenarasche@gmail.com
+  description: |  # short description of the workshop for the home page. You can also edit program.md directly
+    This is the course handbook for workshop X. In this workshop you will learn all about Y.
+    We will use the [Galaxy data analysis platform](https://galaxyproject.org), and the [GTN
+    training materials](https://training.galaxyproject.og). You can edit this description in `_config.yaml` or `home.md`
+  date_start: 2021-07-24  # start date of the event
+  date_end: 2021-07-26    # optional; only needed if more than one day
+  audience: Anybody interested about learning about NGS analysis in Galaxy
+  format: async           # async|hybrid|virtual|live
+  registration_form:      # link to registration form for participants
+  feedback_form:          # link to the feedback form participants should fill after the event
+  galaxy: yes             # yes|no is this a Galaxy/GTN-based event
+
+
+# Training materials used. Defaults to GTN materials
+materials:
+  home: "https://training.galaxyproject.org/training-material/"
+  url_prefix: "https://training.galaxyproject.org/training-material/"
+  logo: "/assets/images/logos/00_GTNLogo300.png"
+
+
+# Support platform defaults, can be overridden in training_sessions.yaml
+support:
+  platform: Slack
+  link: "https://gtnsmrgsbord.slack.com/"
+  join_link:
+  icebreaker_channel: "#social"
+  feedback_channel: "#feedback"
+
+# videos
+video:
+  platform: YouTube
+  url_prefix: "https://youtu.be/" # this will be prepended to the video ids you put in the schedule
+
+
+# social
+twitter_username: gxy-training
+github_username:  shiltemann
+
+# analytics
+# will suffix analytics to any url to traning materials
+# e.g. ?utm_source=galaxy-workshops&utm_medium=website&utm_campaign=my-workshop
+analytics_source: "galaxy-workshop"
+analytics_campaign: "galaxy-workshop-template"
+
+
+# website configuration
+baseurl: "/workshop" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+image_dir: /assets/images/
+logo_dir: /assets/images/logos/
+
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
