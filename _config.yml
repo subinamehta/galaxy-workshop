@@ -18,7 +18,7 @@ workshop:
   description: |  # short description of the workshop for the home page. You can also edit program.md directly
     This is the course handbook for workshop X. In this workshop you will learn all about Y.
     We will use the [Galaxy data analysis platform](https://galaxyproject.org), and the [GTN
-    training materials](https://training.galaxyproject.og). You can edit this description in `_config.yaml` or `home.md`
+    training materials](https://training.galaxyproject.org). You can edit this description in `_config.yaml` or `home.md`
   date_start: 2021-07-24  # start date of the event
   date_end: 2021-07-26    # optional; only needed if more than one day
   audience: Anybody interested about learning about NGS analysis in Galaxy

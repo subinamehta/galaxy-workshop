@@ -8,8 +8,6 @@ layout: page
 
 {{site.workshop.description}}
 
-In June/July 2021, we will organize a global 5-day [Galaxy](https://galaxyproject.org) Training event as part of the [Galaxy Community Conference (GCC2021)](https://www.vibconferences.be/events/gcc2021-virtual-edition)
-
 {% if site.workshop.format == 'async' %}
 This will be an **online**, *asynchronous* event. All training sessions are pre-recorded, so you can work through them **at your own pace**, and manage your own time. Experienced instructors will be available to answer all your questions via chat on {{site.workshop.support_platform}}.
 {% endif %}
@@ -30,8 +28,7 @@ Please see the full program below for more details on the training
 **Who:** {{site.workshop.audience}} <br>
 {% endif %}
 **Format:** Virtual and asynchronous. All training session are pre-recorded, you can work through these at your own pace, with instructors available online for support <br>
-{}**Support:** <br>
-**Contact:** {% for contact in site.workshop.contacts %}{%unless forloop.first%}, {%endunless%}[{{contact.name}}](mailto:{{contact.email}}){% endfor %}
+**Support:** {% for contact in site.workshop.contacts %}{%unless forloop.first%}, {%endunless%}[{{contact.name}}](mailto:{{contact.email}}){% endfor %}
 
 
 ## Registration
@@ -46,7 +43,7 @@ Welcome! We will have 3 tracks during this GCC Training Week. A short overview o
 
 ## Science Track
 
-<a href="{% link program.md %}"><button type="button" class="btn btn-success btn-info">Full program here</button></a>
+<a href="{{ site.baseurl }}{% link program.md %}"><button type="button" class="btn btn-success btn-info">Full program here</button></a>
 
 
 {% include table_curriculum.html training_sessions=site.data.training_sessions %}

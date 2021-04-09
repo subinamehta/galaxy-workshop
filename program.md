@@ -6,7 +6,7 @@ track: science
 
 Welcome everybody, and thank you for joining this course!
 
-<a href="{{site.baseurl}}/workshop"><button type="button" class="btn btn-warning btn-lg">Welcome! This page is not ready yet, training will start June 28, 2021.</button></a>
+<a href="{{site.baseurl}}"><button type="button" class="btn btn-warning btn-lg">Welcome! This page is not ready yet, training will start June 28, 2021.</button></a>
 
 Everything you need for this course can be found on this webpage. More information including
 links to all training materials can be found by clicking on each session
@@ -16,11 +16,11 @@ links to all training materials can be found by clicking on each session
 
 
 <br/>
-**Note:** Problems viewing this page? Try the [simple view]({{site.baseurl}}/science-simpleview) instead.
+**Note:** Problems viewing this page? Try the [simple view]({{site.baseurl}}{% link program-simple.md %}) instead.
 
 
 
-{% for day in site.data.training_sessions_science %}
+{% for day in site.data.training_sessions %}
  {% assign daynum = day[0] %}
 
 {% if day[1].subday %}
