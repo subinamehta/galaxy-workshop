@@ -33,7 +33,7 @@ Please see the full program below for more details on the training
 
 ## Registration
 
-Please sign up the Galaxy Community Conference to join this event. Registration can be done via the  **[VIB Conference Website]({{site.registration_form}})**.
+Please sign up the Galaxy Community Conference to join this event. Registration can be done via the  **[VIB Conference Website]({{site.workshop.registration_form}})**.
 
 
 ## Program

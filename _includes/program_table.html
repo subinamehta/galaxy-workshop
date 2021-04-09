@@ -30,12 +30,12 @@
      {% unless include.selfstudy %}{% unless session.type == 'icebreaker' %}{% unless session.type == 'setup' %}{% unless session.type == 'wrapup' %}
 
 
-     <td> <a href="{{site.video_prefix}}/{{ session.video.link }}">Video</a> </td>
+     <td> <a href="{{site.video.prefix}}/{{ session.video.link }}">Video</a> </td>
      <td> {{session.video.length | downcase }} </td>
      {% endunless %}{% endunless %}{% endunless %}{% endunless %}
      <td>
       {% if session.material %}{% for m in session.material %}
-       <a href="{% unless m.external %}{{site.gtn_url}}{% endunless %}{{m.link}}{{site.analytics_suffix}}">{{ m.type }}</a>
+        <a href="{% unless m.external %}{{site.materials.url_prefix}}{% endunless %}{{m.link}}{% include analytics.html %}">{{ m.type }}</a>
       {% endfor %}{% endif %}
 </td>
      <td> {% if session.faq %} <a href="{{session.faq}}">link</a> {% endif %} </td>
