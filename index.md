@@ -40,9 +40,6 @@ Please sign up the Galaxy Community Conference to join this event. Registration 
 
 Welcome! We will have 3 tracks during this GCC Training Week. A short overview of the program for each of these sessions can also be found below.
 
-
-## Science Track
-
 <a href="{{ site.baseurl }}{% link program.md %}"><button type="button" class="btn btn-success btn-info">Full program here</button></a>
 
 
