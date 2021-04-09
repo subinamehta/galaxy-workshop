@@ -10,6 +10,7 @@ title: Galaxy Training Event
 workshop:
   title: "Title of your Workshop"
   logo: "assets/images/logos/00_GTNLogo300.png"
+  code_of_conduct_url: "https://galaxyproject.org/community/coc/"
   contacts:
     - name: Saskia Hiltemann
       email: saskiahiltemann@gmail.com
