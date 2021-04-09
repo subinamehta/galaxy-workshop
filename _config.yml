@@ -61,7 +61,7 @@ analytics_campaign: "galaxy-workshop-template"
 
 
 # website configuration
-baseurl: "/workshop" # the subpath of your site, e.g. /blog
+baseurl: "/galaxy-workshop-template" # the subpath of your site. If you are serving this on github pages, it should be the same as your repository name.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 image_dir: /assets/images/
 logo_dir: /assets/images/logos/
