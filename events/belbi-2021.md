@@ -42,8 +42,6 @@ schedule:
         - link: sequence-analysis-quality-control-tutorial
         - link: sequence-analysis-mapping-slides
         - link: sequence-analysis-mapping-tutorial
-        - link: assembly-general-introduction-slides
-        - link: assembly-general-introduction-tutorial
 
     rna-seq:
       title: "Introduction to RNA-Seq analysis with Galaxy and R"
