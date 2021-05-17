@@ -2,49 +2,17 @@
 layout: default
 ---
 
-# {{site.workshop.title}}
+# Gallantries Asynchronous Workshop/E-learning Platform
 
-![Workshop logo]({{site.workshop.logo}}){: style="float: right"}
-
-{{site.workshop.description}}
-
-{% if site.workshop.format == 'async' %}
-This will be an **online**, *asynchronous* event. All training sessions are pre-recorded, so you can work through them **at your own pace**, and manage your own time. Experienced instructors will be available to answer all your questions via chat on {{site.workshop.support_platform}}.
-{% endif %}
-
-Please see the full program below for more details on the training
+![Gallantries logo](https://gallantries.github.io/assets/images/gallantries-logo-inverted.svg){: style="float: right" width="200px"}
 
 
-## Practical Information
+This is a work in progress but we expect to provide here two things:
 
-{%- if site.workshop.date_end -%}
-{% capture date %}{{site.workshop.date_start | date: '%d %B'}}-{{site.workshop.date_end | date_to_long_string }}{% endcapture %}
-{% else %}
-{% capture date %}{{site.workshop.date_start | date_to_long_string }}{% endcapture %}
-{% endif %}
+1. A library of training materials (GTN materials + videos + captions)
+2. A platform for hosting asynchronous events based on these materials.
 
-**When:** {{date}}  <br>
-{%- if site.workshop.audience -%}
-**Who:** {{site.workshop.audience}} <br>
-{% endif %}
-**Format:** Virtual and asynchronous. All training session are pre-recorded, you can work through these at your own pace, with instructors available online for support <br>
-**Support:** {% for contact in site.workshop.contacts %}{%unless forloop.first%}, {%endunless%}[{{contact.name}}](mailto:{{contact.email}}){% endfor %}
-
-
-## Registration
-
-Please sign up the Galaxy Community Conference to join this event. Registration can be done via the  **[VIB Conference Website]({{site.workshop.registration_form}})**.
-
-
-## Program
-
-Welcome! We will have 3 tracks during this GCC Training Week. A short overview of the program for each of these sessions can also be found below.
-
-<a href="{{ site.baseurl }}{% link program.md %}"><button type="button" class="btn btn-success btn-info">Full program here</button></a>
-
-
-{% include table_curriculum.html training_sessions=site.data.training_sessions %}
-
+More information in the future.
 
 ## Acknowledgements
 

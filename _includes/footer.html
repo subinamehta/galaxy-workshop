@@ -3,32 +3,17 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-          <p></p>
+    <div class="row">
+        <div class="col-md-4">
+            <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        </div>
+        <div class="col-md-4">
           <p>Everyone participating is expected to abide by the <a href="{{ site.workshop.code_of_conduct_url }}">Code of Conduct</a></p>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.workshop.description | markdownify -}}</p>
-      </div>
+        </div>
+        <div class="col-md-4">
+            <img src="{{ site.baseurl }}/assets/images/logos/zz_eu1_logosbeneficaireserasmusright_en.jpg" />
+            This project (2020-1-NL01-KA203-064717) is funded with the support of the Erasmus+ programme of the European Union.
+        </div>
     </div>
 
   </div>
