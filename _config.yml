@@ -58,11 +58,10 @@ github_username:  shiltemann
 # will suffix analytics to any url to traning materials
 # e.g. ?utm_source=galaxy-workshops&utm_medium=website&utm_campaign=my-workshop
 analytics_source: "galaxy-workshop"
-analytics_campaign: "galaxy-workshop-template"
-
+analytics_campaign: "galaxy-workshop"
 
 # website configuration
-baseurl: "/galaxy-workshop-template" # the subpath of your site. If you are serving this on github pages, it should be the same as your repository name.
+baseurl: "/galaxy-workshop" # the subpath of your site. If you are serving this on github pages, it should be the same as your repository name.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 image_dir: /assets/images/
 logo_dir: /assets/images/logos/
