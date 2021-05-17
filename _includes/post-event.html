@@ -1,4 +1,4 @@
-
+{% if page.feedback_form %}
 <!-- feedback -->
 <div class="card" style="width: 100%">
  <div class="row no-gutters">
@@ -11,16 +11,18 @@
     <p class="card-text">
      <br/><strong> Please take a moment to fill out this feedback survey </strong>. This helps use improve this event in the future.
     </p>
-    <p>Survey (~5 minutes): <a href="{{site.workshop.feedback_form}}">Click here!</a></p>
+    <p>Survey (~5 minutes): <a href="{{page.feedback_form}}">Click here!</a></p>
    </div>
   </div>
  </div>
 </div>
 
 <br/><br/>
+{% endif %}
 
 
 
+{% if page.certificates %}
 <!-- Certificates -->
 <div class="card" style="width: 100%">
  <div class="row no-gutters">
@@ -41,8 +43,7 @@
 </div>
 
 <br/><br/>
-
-
+{% endif %}
 
 
 <!-- GCC 2021 promo -->

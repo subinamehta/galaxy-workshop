@@ -12,30 +12,25 @@ description:
 date_start: 2021-06-21
 format: async
 registration_form:
-feedback_form:
-
+feedback_form: https://example.com
+certificates: false
 
 schedule:
     intro:
       title: Welcome & Practical Information
       sessions:
-        - link: intro
-
+        #- link: intro
         - name: "Get set up for the course"
           type: setup
-
         - link: meetnjoin
 
     day1:
       title: "Introduction to Galaxy"
       description: "Today we start by introducing the Galaxy Platform"
       sessions:
-
         - name: "Icebreaker: Introduce yourself in Slack!"
           type: icebreaker
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
-          example: "Hi! My name is Saskia and I am joining from The Netherlands, I am currently in my hammock enjoying the sun."
-
         - link: firstanalysis
 
     day1b:
@@ -89,16 +84,7 @@ schedule:
         - name: "Wrap up & Socialize"
           type: wrapup
 
-        - name: "Useful links: Stay involved in the Galaxy Community!"
-          description: "This short video gives an overview of the worldwide Galaxy community, and different ways you can get involved!"
-          speaker: galaxycommunity
-          video:
-            link: -1MPdxmRs8U
-            length: 5M
-            captions: [shiltemann]
-          material: *communitymaterial
-
-        - name: "Feedback Survey, Certificates & GCC2021"
+        - name: "Post-event Tasks"
           type: post-event
 
     day6:
@@ -109,6 +95,4 @@ schedule:
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 ---
 
-Welcome everybody, and thank you for joining this course! Everything you need for this course can be found on this webpage. More information including links to all training materials can be found by clicking on each session.
-
-<a href="{{ site.support.join_link }}"><button type="button" class="btn btn-info btn-lg">GTN Slack space</button></a>
+This course will familiarise you with the Galaxy Platform as a part of the Belgrade Bioinformatics Conference.

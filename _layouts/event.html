@@ -4,6 +4,18 @@ layout: page
 
 {{ content }}
 
+{% if page.registration_form %}
+<div>
+<a href="{{ page.registration_form }}"><button type="button" class="btn btn-warning btn-lg">Click Here to Register</button></a>
+</div>
+{% endif %}
+
+<p>
+Thank you for joining this course! Everything you need for this course can be found on this webpage. More information including links to all training materials can be found by clicking on each session.
+</p>
+
+<a href="{{ site.support.join_link }}"><button type="button" class="btn btn-info btn-lg">GTN Slack space</button></a>
+
 {% for day in page.schedule %}
  {% assign daynum = day[0] %}
 
@@ -93,14 +105,14 @@ layout: page
 
 
 <br/><br/><br/>
-# Acknowledgements
+<h1 id="acknowledgements">Acknowledgements</h1>
 
 This Global Galaxy course is only possible thanks to a Global network of instructors and institutes.
 
-## Presenters & Instructors & Facilitators & Community Caption Contributors
+<h2 id="hof">Presenters & Instructors & Facilitators & Community Caption Contributors</h2>
 
 {% include hof.html %}
 
-## Institutions
+<h2 id="institutions">Institutions</h2>
 
 {% include institutions.html %}
