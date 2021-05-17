@@ -2,109 +2,113 @@
 layout: event
 title: Galaxy Training @ BelBI2021
 site_title: Belgrade Bioinformatics Conference - BelBI2021
+code_of_conduct_url: "https://galaxyproject.org/community/coc/"
+contacts:
+  - name: Branislava Gemovic
+    email: gemovic@vin.bg.ac.rs
+  - name: Nevena Veljkovic
+    email: nevena.veljkovic@gmail.com
+description:
+date_start: 2021-06-21
+format: async
+registration_form:
+feedback_form:
+
+
+schedule:
+    intro:
+      title: Welcome & Practical Information
+      sessions:
+        - link: intro
+
+        - name: "Get set up for the course"
+          type: setup
+
+        - link: meetnjoin
+
+    day1:
+      title: "Introduction to Galaxy"
+      description: "Today we start by introducing the Galaxy Platform"
+      sessions:
+
+        - name: "Icebreaker: Introduce yourself in Slack!"
+          type: icebreaker
+          prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
+          example: "Hi! My name is Saskia and I am joining from The Netherlands, I am currently in my hammock enjoying the sun."
+
+        - link: firstanalysis
+
+    day1b:
+      title: "Introduction to NGS"
+      description: "Here we show you how to analyze your NGS data using Galaxy."
+      sessions:
+        - link: introduction-galaxy-intro-ngs-data-managment
+        - link: sequence-analysis-quality-control-slides
+        - link: sequence-analysis-quality-control-tutorial
+        - link: sequence-analysis-mapping-slides
+        - link: sequence-analysis-mapping-tutorial
+        - link: assembly-general-introduction-slides
+        - link: assembly-general-introduction-tutorial
+
+
+    day2:
+      title: "Introduction to RNA-Seq analysis with Galaxy and R"
+      description: "Here we dive into (bulk) RNA-seq analysis. We will walk you through an end-to-end analysis and Galaxy, and show you how to perform downstream analysis on the results using Rstudio in Galaxy."
+      sessions:
+        - link: transcriptomics-introduction
+        - link: transcriptomics-ref-based
+        - link: starting-rstudio
+        - link: introduction-r-basics
+        - link: introduction-r-advanced
+        - link: transcriptomics-rna-seq-counts-to-viz-in-r
+
+        - name: "Wrap up & Socialize"
+          type: wrapup
+
+    day3:
+      title: "Visualisation"
+      description: "These tutorials go briefly into the visualisation aspect of Galaxy and how to use that in your workflows"
+      sessions:
+        - link: visualisation-circos-slides
+        - link: visualisation-circos-tutorial
+        - link: visualisation-jbrowse
+
+    day3:
+      title: "Clinical Applications"
+      description: "These lectures cover either clinical applications, or tools which are commonly used in clinical settings."
+      sessions:
+        - link: metagenomics-mothur-miseq-sop-short-slides
+        - link: metagenomics-mothur-miseq-sop-short-tutorial
+        - link: slides-clinical-nanopore-microbiomics
+        - link: metagenomics-plasmid-metagenomics-nanopore
+
+    day5d:
+      title: "All done?"
+      description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks for joining!!"
+      sessions:
+        - name: "Wrap up & Socialize"
+          type: wrapup
+
+        - name: "Useful links: Stay involved in the Galaxy Community!"
+          description: "This short video gives an overview of the worldwide Galaxy community, and different ways you can get involved!"
+          speaker: galaxycommunity
+          video:
+            link: -1MPdxmRs8U
+            length: 5M
+            captions: [shiltemann]
+          material: *communitymaterial
+
+        - name: "Feedback Survey, Certificates & GCC2021"
+          type: post-event
+
+    day6:
+      title: "After the Course"
+      description: |
+        All these materials will remain online, so you can continue working on them for as
+        long as you want. The only difference will be that you should ask your questions
+        on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 ---
 
 Welcome everybody, and thank you for joining this course! Everything you need for this course can be found on this webpage. More information including links to all training materials can be found by clicking on each session.
 
-<a href="https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-oknf714k-BqDlVgL76396SfYiJ2xtXQ"><button type="button" class="btn btn-info btn-lg">GTN Slack space</button></a>
-
-{% for day in site.data.belbi2021 %}
- {% assign daynum = day[0] %}
-
-{% if day[1].subday %}
-<h4 class="daystart" style="margin-top:2em;"> {{day[1].title}} </h4>
-{% else %}
-<h2 id="{{ day[0] }}" class="daystart" style="margin-top:2em;"> {{day[1].title}} </h2>
-{% endif %}
-<p> {{day[1].description}} </p>
-<div class="accordion" id="accordion{{daynum}}">
-
-{% for f_session in day[1].sessions %}
-  {% if f_session.link %}
-    {% assign session = site.data.materials[f_session.link] %}
-  {% else %}
-    {% assign session = f_session %}
-  {% endif %}
-
- <div class="accordion-item">
-  <h2 class="accordion-header" id="heading{{daynum}}{{forloop.index0}}">
-   <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{daynum}}{{forloop.index0}}" aria-expanded="true" aria-controls="collapse{{daynum}}{{forloop.index0}}">
-        {{session.name}}
-   </button>
-  </h2>
-  <div id="collapse{{daynum}}{{forloop.index0}}" class="accordion-collapse collapse {% if session.show  %}show{% endif %}" aria-labelledby="heading{{daynum}}{{forlop.index0}}" data-bs-parent="#accordion{{daynum}}">
-   <div class="accordion-body">
-
-   <!-- icebreaker -->
-   {% if session.type == 'icebreaker' %}{% include icebreaker.html prompt=session.prompt example=session.example %}{% endif %}
-
-
-   <!-- setup -->
-   {% if session.type == 'setup' %}
-    {% include setup.html %}
-   {% endif %}
-
-   <!-- wrapup -->
-   {% if session.type == 'wrapup' %}
-    {% include wrapup.html %}
-   {% endif %}
-
-    <!-- wrapup -->
-   {% if session.type == 'post-event' %}
-    {% include post-event.html %}
-   {% endif %}
-
-
-   <!-- session description
-   {% if session.description %}
-   <h3>Description</h3>
-   <p> {{ session.description }} </p>
-   {% endif %}
-   -->
-
-   <!-- speaker and video -->
-   {% if session.videos %}
-   <h3 class="session-section"> Video {{session.type | default: "Tutorial" }} </h3>
-   {% include video-session.html session=session %}
-   {% else %}
-   {% unless session.type == 'icebreaker' %}{% unless session.type == 'setup' %}{% unless session.type == 'wrapup' %}{% unless session.type == 'post-event' %}
-   <h3 class="session-section"> Self-Study Tutorial </h3>
-   {{session.description}}
-
-   {% include selfstudy-session.html session=session %}
-   {% endunless %}{% endunless %}{% endunless %}{% endunless %}
-   {% endif %}
-
-   <!-- supported servers -->
-   {% include server_support.html material=session.material %}
-
-   <!-- session links  -->
-   {% unless session.type == 'icebreaker' %}{% unless session.type == 'setup' %}{% unless session.type == 'wrapup' %}{% unless session.type == 'post-event' %}
-   <h3 class="session-section">Supporting Materials </h3>
-   {% include session_materials.html session=session %}
-   {% endunless %}{% endunless %}{% endunless %}{% endunless %}
-
-   <!-- end session links -->
-
-   </div><!-- end accordion body -->
-  </div><!-- end collapse -->
- </div><!-- end accordion item (training session) -->
- {% endfor %}
-
-</div><!-- end accordion (day) -->
-
-{% endfor %}
-
-
-<br/><br/><br/>
-# Acknowledgements
-
-This Global Galaxy course is only possible thanks to a Global network of instructors and institutes.
-
-## Presenters & Instructors & Facilitators & Community Caption Contributors
-
-{% include hof.html %}
-
-## Institutions
-
-{% include institutions.html %}
+<a href="{{ site.support.join_link }}"><button type="button" class="btn btn-info btn-lg">GTN Slack space</button></a>
