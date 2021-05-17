@@ -4,30 +4,7 @@
 #
 # Some defaults are set for a Galaxy-based workshop using GTN materials
 # and an asynchronous format (video training sessions and support on chat)
-title: Galaxy Training Event
-
-# About the workshop
-workshop:
-  title: "Title of your Workshop"
-  logo: "assets/images/logos/00_GTNLogo300.png"
-  code_of_conduct_url: "https://galaxyproject.org/community/coc/"
-  contacts:
-    - name: Saskia Hiltemann
-      email: saskiahiltemann@gmail.com
-    - name: Helena Rasche
-      email: helenarasche@gmail.com
-  description: |  # short description of the workshop for the home page. You can also edit program.md directly
-    This is the course handbook for workshop X. In this workshop you will learn all about Y.
-    We will use the [Galaxy data analysis platform](https://galaxyproject.org), and the [GTN
-    training materials](https://training.galaxyproject.org). You can edit this description in `_config.yaml` or `home.md`
-  date_start: 2021-07-24  # start date of the event
-  date_end: 2021-07-26    # optional; only needed if more than one day
-  audience: Anybody interested about learning about NGS analysis in Galaxy
-  format: async           # async|hybrid|virtual|live
-  registration_form:      # link to registration form for participants
-  feedback_form:          # link to the feedback form participants should fill after the event
-  galaxy: yes             # yes|no is this a Galaxy/GTN-based event
-
+title: Gallantries & GTN Training Library
 
 # Training materials used. Defaults to GTN materials
 materials:
