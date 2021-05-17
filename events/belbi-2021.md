@@ -24,7 +24,7 @@ schedule:
           type: setup
         - link: meetnjoin
 
-    day1:
+    galaxy-intro:
       title: "Introduction to Galaxy"
       description: "Today we start by introducing the Galaxy Platform"
       sessions:
@@ -33,7 +33,7 @@ schedule:
           prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
         - link: firstanalysis
 
-    day1b:
+    ngs:
       title: "Introduction to NGS"
       description: "Here we show you how to analyze your NGS data using Galaxy."
       sessions:
@@ -45,8 +45,7 @@ schedule:
         - link: assembly-general-introduction-slides
         - link: assembly-general-introduction-tutorial
 
-
-    day2:
+    rna-seq:
       title: "Introduction to RNA-Seq analysis with Galaxy and R"
       description: "Here we dive into (bulk) RNA-seq analysis. We will walk you through an end-to-end analysis and Galaxy, and show you how to perform downstream analysis on the results using Rstudio in Galaxy."
       sessions:
@@ -60,7 +59,7 @@ schedule:
         - name: "Wrap up & Socialize"
           type: wrapup
 
-    day3:
+    viz:
       title: "Visualisation"
       description: "These tutorials go briefly into the visualisation aspect of Galaxy and how to use that in your workflows"
       sessions:
@@ -68,16 +67,7 @@ schedule:
         - link: visualisation-circos-tutorial
         - link: visualisation-jbrowse
 
-    day3:
-      title: "Clinical Applications"
-      description: "These lectures cover either clinical applications, or tools which are commonly used in clinical settings."
-      sessions:
-        - link: metagenomics-mothur-miseq-sop-short-slides
-        - link: metagenomics-mothur-miseq-sop-short-tutorial
-        - link: slides-clinical-nanopore-microbiomics
-        - link: metagenomics-plasmid-metagenomics-nanopore
-
-    day5d:
+    done:
       title: "All done?"
       description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks for joining!!"
       sessions:
@@ -87,7 +77,7 @@ schedule:
         - name: "Post-event Tasks"
           type: post-event
 
-    day6:
+    post-course:
       title: "After the Course"
       description: |
         All these materials will remain online, so you can continue working on them for as
