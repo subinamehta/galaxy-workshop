@@ -25,11 +25,11 @@
      {% endif %}
 
      <!-- support -->
-     <li><a href="{{include.session.support.link }}{% include analytics.html %}">Ask an instructor</a> - Have question about the training? Did you run into a problem? Just wanna chat? Ask away on {{ site.support.platform }}! {% if session.support_channel %} (Channel: <a href="{{include.session.support.link}}{% include analytics.html %}">{{session.support_channel}}</a> ){%endif%} </li>
+     <li><a href="{{include.session.support_link }}{% include analytics.html %}">Ask an instructor</a> - Have question about the training? Did you run into a problem? Just wanna chat? Ask away on {{ site.support.platform }}! {% if session.support_channel %} (Channel: <a href="{{include.session.support_link}}{% include analytics.html %}">{{session.support_channel}}</a> ){%endif%} </li>
 
 
      <!-- feedback -->
-     <li><strong>Finished the session?</strong> - Let us know that you've finished it, and what you thought of it! On Slack: {% if session.support_channel %} (Channel: <a href="{{include.session.support.link}}{% include analytics.html %}">{{session.support_channel}}</a> ){%endif%}. Thanks!</li>
+     <li><strong>Finished the session?</strong> - Let us know that you've finished it, and what you thought of it! On Slack: {% if session.support_channel %} (Channel: <a href="{{include.session.support_link}}{% include analytics.html %}">{{session.support_channel}}</a> ){%endif%}. Thanks!</li>
 
      <!-- don't forget to like and subscribe! -->
 	 <li><strong>Enjoyed it?</strong> - Like the video on YouTube, Tweet, and follow the GTN on Twitter! <a href="https://twitter.com/{{ site.twitter_username }}{% include analytics.html %}">@{{ site.twitter_username }}</a> </li>

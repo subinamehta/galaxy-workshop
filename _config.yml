@@ -18,7 +18,9 @@ support:
   platform: Slack
   link: "https://gtnsmrgsbord.slack.com/"
   join_link: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-qlcyf4z9-oWwkRDYEoyoSGyp4abalJw"
+  icebreaker_link: "https://gtnsmrgsbord.slack.com/archives/C01EDBVMHBQ"
   icebreaker_channel: "#social"
+  feedback_link: "https://gtnsmrgsbord.slack.com/archives/C01NDF5SFH6"
   feedback_channel: "#feedback"
 
 # videos
