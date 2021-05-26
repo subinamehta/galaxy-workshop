@@ -14,6 +14,9 @@ assembly-assembly-with-preprocessing:
   name: 'Assembly: Unicycler assembly of SARS-CoV-2 genome'
   type: Tutorial
   tags: [assembly, SARS-CoV-2]
+  support_channel: "#5-h_unicycler-assembly-sars-cov2-genome"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01GJLDS01K"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vRcBWHbIIo6t_vXtZiaW_6t2qIUYwjiptC2MRVUG5KC31rwPg8fO9yCma22HqIV6Hu1T3wJXaV-GwxU/pub"
   videos:
   - captions:
     - mtekman
@@ -41,6 +44,9 @@ assembly-general-introduction-slides:
     length: 25M
     link: -EX_G1griZE
     speaker: slugger70
+  support_channel: "#1-5_assembly"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01EKMD8VC7"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTed-1_nZK1liUdm5IZn_Qas7LcJE700WwsMAgT282Q1jx0Nkk4lZzzN47P9aS1suUAeh0ljIUYgXpG/pub"
 assembly-general-introduction-tutorial:
   description: |
       In this tutorial, you will assemble a chloroplast genome using a
@@ -52,6 +58,9 @@ assembly-general-introduction-tutorial:
   name: 'Genome Assembly: Hands-on!'
   type: Tutorial
   tags: [assembly]
+  support_channel: "#1-5_assembly"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01EKMD8VC7"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTed-1_nZK1liUdm5IZn_Qas7LcJE700WwsMAgT282Q1jx0Nkk4lZzzN47P9aS1suUAeh0ljIUYgXpG/pub"
   videos:
   - captions:
     - annasyme
@@ -75,6 +84,9 @@ climate-fates-slides:
     title: Functionally Assembled Terrestrial Ecosystem Simulator (FATES)
     type: Slides
   name: 'Climate: Functionally Assembled Terrestrial Ecosystem Simulator (FATES): Lecture'
+  support_channel: "#5-f_climate-fates"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M63SFH34"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS5ucF3H8v1V43JPtw35V-pgGfhTbrHtjjN6X0BddzWispwuRElPYw7sWN1e8R360mdHyC1NcOSqxiy/pub"
   type: Lecture
   tags: [climate]
   videos:
@@ -99,6 +111,9 @@ climate-fates-tutorial:
     title: Functionally Assembled Terrestrial Ecosystem Simulator (FATES)
     type: Tutorial
   name: 'Climate: Functionally Assembled Terrestrial Ecosystem Simulator (FATES): Hands-on!'
+  support_channel: "#5-f_climate-fates"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M63SFH34"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS5ucF3H8v1V43JPtw35V-pgGfhTbrHtjjN6X0BddzWispwuRElPYw7sWN1e8R360mdHyC1NcOSqxiy/pub"
   type: Tutorial
   tags: [climate]
   videos:
@@ -121,6 +136,9 @@ computational-chemistry-cheminformatics-tutorial:
     title: Protein-ligand docking
     type: Tutorial
   name: 'Cheminformatics: Protein-ligand docking'
+  support_channel: "#5-m_cheminformatics"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01MC9SK344"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTqwxMLs0LfAJY77y9M2DFv9VixyFdtwU65AYpQoPn_0YmMEhOOp3jxhJ1tALWz3Vc2qp9Acctz2Lp3/pub"
   tags: [computational-chemistry]
 computational-chemistry-md-simulation-gromacs-tutorial:
   description: |
@@ -135,6 +153,9 @@ computational-chemistry-md-simulation-gromacs-tutorial:
     title: Running molecular dynamics simulations using GROMACS
     type: Tutorial
   name: 'Cheminformatics: Running molecular dynamics simulations using GROMACS'
+  support_channel: "#5-m_cheminformatics"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01MC9SK344"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTqwxMLs0LfAJY77y9M2DFv9VixyFdtwU65AYpQoPn_0YmMEhOOp3jxhJ1tALWz3Vc2qp9Acctz2Lp3/pub"
   tags: [computational-chemistry]
 demo-ont-minion:
   description: |
@@ -142,6 +163,9 @@ demo-ont-minion:
       genome using the Oxford Nanopore MinION sequencer.
   name: 'Wetlab Demo: Genomic DNA sequencing by Oxford Nanopore MinIon'
   type: Demo
+  support_channel: "#5-a_antibiotic-resistance-detection-nanopore"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01F1GJ7JJX"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vQlG_Onq011MQqyIu4D_erDqiLKAMLnduhHr5cDWwbXVqlU9VZhmm4OT_zphKqb8TEZprAFo8rdPXjO/pub"
   videos:
   - captions:
     - shiltemann
@@ -164,6 +188,9 @@ ecology-PAMPA-toolsuite-tutorial-tutorial:
     type: Tutorial
   name: 'Ecology: Compute and analyze biodiversity metrics with PAMPA toolsuite'
   tags: [gallantries, ecology]
+  support_channel: "#5-d_ecology_pampa-toolsuite"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01FG38RR7Y"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vT-Qmqw2zxaaFZXqbNaxMkcgl-0HjU6LvU0K0O51cCyCv_HjJdGk_2VPvMRghCW0sUKF-58_SuDQ1fn/pub"
   type: Tutorial
 epigenetics-atac-seq-tutorial:
   description: |
@@ -185,6 +212,9 @@ epigenetics-atac-seq-tutorial:
     title: ATAC-Seq data analysis
     type: Tutorial
   name: 'Epigenetics: ATAC-Seq data analysis'
+  support_channel: "#5-k_atac-seq"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01LRHRC6A3"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vQnEmZyZF3rLhU3mA-g5L8DVaTW8GHYTikxYnuvQG7sCT66owCIc-4KLLGw9S2nIo1XPPtV9Ledtm3n/pub"
   tags: [epigenetics]
   type: Tutorial
 firstanalysis:
@@ -192,6 +222,9 @@ firstanalysis:
       In this tutorial, we will walk you through your first (toy) analysis in
       Galaxy. This tutorial is aimed at familiarizing you with the Galaxy
       platform, and some basic NGS concepts.
+  support_channel: "#1-1_galaxy-intro"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01ES914GCU"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vQ1SZCsxEcRXp39J2BcFAjXyC3B20sWzI7IVgBgwe2pcC9b0cza417jzBPYJVqCRNbU0dD4rv_y6u6P/pub"
   material:
   - external: true
     link: https://docs.google.com/presentation/d/1rOGp4o_Dc-QIHS4YT4HizdfXTVhJB1HwPPZkSDuMhig/edit#slide=id.gbc9627d000_0_346
@@ -225,6 +258,9 @@ genome-annotation-annotation-with-prokka-slides:
     narrated: true
     type: Slides
   name: 'Genome Annotation: Annotation of a prokaryotic genome: Slides'
+  support_channel: "#5-g_annotation-prokaryotic-genome"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01GTTD1BE0"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSK-RjeRJC38_FSM9zC6SrfkvIz1W4uEMQkN95qk5OemvANuPF3aNEogVEvF6JEXeMomo-oMwi32Gv2/pub"
   type: Lecture
   tags: [gallantries, genome-annotation, prokaryote]
 genome-annotation-annotation-with-prokka-tutorial:
@@ -234,6 +270,9 @@ genome-annotation-annotation-with-prokka-tutorial:
       genes, i.e. tRNA, rRNA) present on on a sequence. Prokka can be used to
       annotate bacterial, archaeal and viral genomes quickly, generating
       standard output files in GenBank, EMBL and gff formats.
+  support_channel: "#5-g_annotation-prokaryotic-genome"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01GTTD1BE0"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSK-RjeRJC38_FSM9zC6SrfkvIz1W4uEMQkN95qk5OemvANuPF3aNEogVEvF6JEXeMomo-oMwi32Gv2/pub"
   material:
   - link: topics/genome-annotation/tutorials/annotation-with-prokka/tutorial.html
     type: Tutorial
@@ -250,6 +289,9 @@ genome-annotation-annotation-with-prokka-tutorial:
 intro:
   description: Start here; we will go over all the important things to know to get
     the most out of this workshop
+  support_channel: "#general"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01ES8R0RNG"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTfNT2qS2Yb7qTAcnOFrMWwE_aPPUuYJJ0hdjw5gqV_JtMUWQ3NSkr6qAdrmF2EUGBBzTL8wFiILz8B/pub"
   material:
   - external: true
     link: https://shiltemann.github.io/presentations/2020-12-18-smorgasbord
@@ -269,6 +311,9 @@ introduction-galaxy-intro-ngs-data-managment:
       In this demo video, we will show how to perform an NGS data analysis,
       using a SARS-CoV-2 example dataset. If you would like to run the full
       tutorial yourself, please find the link below (duration 1h-1.5h).
+  support_channel: "#1-2_ngs-intro"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01EXB3BKN1"
+  faq: "https://docs.google.com/document/u/2/d/12w_KCVN7z9DKLSxX6aCRfr8__nfANoIxfLJeYM4UGQA/pub"
   material:
   - link: topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.html
     type: Tutorial
@@ -291,6 +336,9 @@ introduction-r-advanced:
     title: Advanced R in Galaxy
     type: Tutorial
   name: Advanced R in Galaxy
+  support_channel: "#2-3_advanced_r"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01LKGNPE5V"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vQuOJPPP2nosMG1gh1TuAFu479F4u2kGCCsICHuKvQE7lJGZCreVbXMQrhEORu3O1fV2hX_DZDE_Isk/pub"
   tags: [gallantries, introduction, R]
   type: Tutorial
   videos:
@@ -312,6 +360,9 @@ introduction-r-basics:
     type: Tutorial
   name: Introduction to R
   type: Tutorial
+  support_channel: "#2-2_intro-to-r"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JXPZM2"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vQuOJPPP2nosMG1gh1TuAFu479F4u2kGCCsICHuKvQE7lJGZCreVbXMQrhEORu3O1fV2hX_DZDE_Isk/pub"
   tags: [gallantries, introduction, R]
   videos:
   - captions:
@@ -410,6 +461,9 @@ metagenomics-mothur-miseq-sop-short-slides:
     type: Tutorial
   name: 'Metagenomics: 16S Microbial Analysis with mothur (Lecture)'
   type: Lecture
+  support_channel: "#5-b_16s-microbial-analysis"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01FDV16V25"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vRPPYdMfIA9R_w5y__jV9qdKbijJyOJiclx-2ACKFkAH8aIdlU3pY84xhivWEOmeEn_XQv8StFcjDLP/pub"
   tags: [gallantries, metagenomics, 16S, microbial]
   videos:
   - captions:
@@ -426,6 +480,9 @@ metagenomics-mothur-miseq-sop-short-tutorial:
   - link: topics/metagenomics/tutorials/mothur-miseq-sop-short/tutorial.html
     type: Tutorial
   name: 'Metagenomics: 16S Microbial Analysis with mothur (Hands-on!)'
+  support_channel: "#5-b_16s-microbial-analysis"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01FDV16V25"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vRPPYdMfIA9R_w5y__jV9qdKbijJyOJiclx-2ACKFkAH8aIdlU3pY84xhivWEOmeEn_XQv8StFcjDLP/pub"
   type: Tutorial
   tags: [gallantries, metagenomics, 16S, microbial]
   videos:
@@ -445,6 +502,9 @@ metagenomics-plasmid-metagenomics-nanopore:
     type: Tutorial
   name: 'Metagenomics: Antibiotic Resistance Detection with Nanopore Data'
   type: Tutorial
+  support_channel: "#5-a_antibiotic-resistance-detection-nanopore"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01F1GJ7JJX"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vQlG_Onq011MQqyIu4D_erDqiLKAMLnduhHr5cDWwbXVqlU9VZhmm4OT_zphKqb8TEZprAFo8rdPXjO/pub"
   tags: [gallantries, metagenomics, resistance, nanopore]
   videos:
   - captions:
@@ -465,6 +525,9 @@ proteogenomics-intro:
     link: https://drive.google.com/file/d/1rqzf6Mrk9cMuQ2531tM6RpltPLrDCrgh/view?usp=sharing
     type: Slides
   name: Introduction to Proteogenomics
+  support_channel: "#4-2_protegenomics"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01ETNTP6HL"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTjQFq5wdkZeEFiQq-E8DkOTlLI9PChgWrwekHjPYBqndlb6kuAoXDiuiJaX5N09r63dWTyLPnnL8BK/pub"
   type: Lecture
   tags: [proteomics]
   videos:
@@ -482,6 +545,9 @@ proteomics-biomarker_selection-tutorial:
       tutorial we introduce successively the tools of this pipeline, and guide
       you to execute them in order to complete the entire pipeline on a
       concrete example.
+  support_channel: "#5-j_proteore-biomarkers-discovery"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01FP2AHUV9"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vQVj92upQT2Z4B6ZF6kmhrbnHesbkS--e5ge14iRbxDsxRHuOb52XJE8DI584asA0t2GJIjS_qliPZu/pub"
   material:
   - link: topics/proteomics/tutorials/biomarker_selection/tutorial.html
     title: Biomarker candidate identification
@@ -499,6 +565,9 @@ proteomics-introduction:
       statistical modelling
     type: Slides
   name: Introduction to mass spectrometry based proteomics data analysis
+  support_channel: "#4-0_introduction-to-ms-proteomics"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01MQEDM39P"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSYkfAT8PgEygCcqVhjzhioS23I1Tod0V2l6q60fbMkl6t21y09I62BYFrlWaSMO8p5_Y2JwilHSP5m/pub"
   tags: [proteomics]
   type: Lecture
   videos:
@@ -523,6 +592,9 @@ proteomics-maxquant-msstats-dda-lfq:
     title: MaxQuant and MSstats for the analysis of label-free data
     type: Tutorial
   name: Maxquant + MSstats on a clinical cohort
+  support_channel: "#4-1_maxquant-and-msstats"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01F0LY58R1"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vS4GuHPJrRcpGmNCXBTJ9wyUp6X33Xe6Ou8N_q0Ko5AJ-_rUy7ZsAu-x6R9yf7iRZLxK-t_e-O4Xoc6/pub"
   tags: [proteomics]
   type: Tutorial
   videos:
@@ -542,6 +614,9 @@ proteomics-metaproteomics:
   - link: topics/proteomics/tutorials/metaproteomics/tutorial.html
     type: Tutorial
   name: Metaproteomics
+  support_channel: "#4-3_metaproteomics"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01FD4276P3"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTX6JQG4oAKXvQSJU52thudorwANPtzIedTiTQU1NbXQYYfrNkBheN-gHu0O91bCOIk5wQBpH1mIk7v/pub"
   tags: [proteomics]
   type: Tutorial
   videos:
@@ -563,6 +638,9 @@ proteomics-proteogenomics-dbcreation:
   - link: topics/proteomics/tutorials/proteogenomics-dbcreation/tutorial.html
     type: Tutorial
   name: 'Proteogenomics 1: Database Creation'
+  support_channel: "#4-2_protegenomics"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01ETNTP6HL"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTjQFq5wdkZeEFiQq-E8DkOTlLI9PChgWrwekHjPYBqndlb6kuAoXDiuiJaX5N09r63dWTyLPnnL8BK/pub"
   tags: [proteomics]
   type: Tutorial
   videos:
@@ -588,6 +666,9 @@ proteomics-proteogenomics-dbsearch:
     link: https://docs.google.com/presentation/d/1gAOJ7WQI1CEc3VeSm_fcvjg_GTxTCZ1N/edit#slide=id.p2
     type: Slides
   name: 'Proteogenomics 2: Database search'
+  support_channel: "#4-2_protegenomics"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01ETNTP6HL"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTjQFq5wdkZeEFiQq-E8DkOTlLI9PChgWrwekHjPYBqndlb6kuAoXDiuiJaX5N09r63dWTyLPnnL8BK/pub"
   tags: [proteomics]
   type: Demo
   videos:
@@ -610,6 +691,9 @@ proteomics-proteogenomics-novel-peptide-analysis:
     type: Tutorial
   name: 'Proteogenomics 3: Novel peptide analysis'
   tags: [proteomics]
+  support_channel: "#4-2_protegenomics"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01ETNTP6HL"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTjQFq5wdkZeEFiQq-E8DkOTlLI9PChgWrwekHjPYBqndlb6kuAoXDiuiJaX5N09r63dWTyLPnnL8BK/pub"
   type: Demo
   videos:
   - captions:
@@ -627,6 +711,9 @@ proteomics-proteome_annotation-tutorial:
     title: Annotating a protein list identified by LC-MS/MS experiments
     type: Tutorial
   name: 'Proteomics: ProteoRE tool for Functional Analysis of a Protein List'
+  support_channel: "#5-i_proteore-protein-list-annotation"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01EYBNQRL5"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vT7_ulDI8Mf4BpE8JPmvXYVqk1UmMGEFJ6Cj2ZvlxwLfP8riaaVicPtGR5HeFDAEmKMjaXPcub6cL1w/pub"
   tags: [proteomics]
   type: Tutorial
   videos:
@@ -645,6 +732,9 @@ sequence-analysis-mapping-slides:
     title: Mapping
     type: Slides
   name: 'Mapping: Introduction'
+  support_channel: "#1-4_mapping"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JHCFT6"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vReZf8DGTSf6DlgBzg_g4_PhiH7glzRNTXGxK2_xM3aAFL5A3x0FdawNCrna3NkZ_vj986u7nhWh3Bb/pub"
   type: Lecture
   tags: [gallantries, sequence-analysis, mapping]
   videos:
@@ -664,6 +754,9 @@ sequence-analysis-mapping-tutorial:
     type: Tutorial
   name: 'Mapping: Hands-on!'
   type: Tutorial
+  support_channel: "#1-4_mapping"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JHCFT6"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vReZf8DGTSf6DlgBzg_g4_PhiH7glzRNTXGxK2_xM3aAFL5A3x0FdawNCrna3NkZ_vj986u7nhWh3Bb/pub"
   tags: [gallantries, sequence-analysis, mapping]
   videos:
   - captions:
@@ -682,6 +775,9 @@ sequence-analysis-quality-control-slides:
     type: Slides
   name: 'Quality Control: Intro'
   type: Lecture
+  support_channel: "#1-3_quality-control"
+  support_link: https://gtnsmrgsbord.slack.com/archives/C01FQ92MB7A
+  faq: "https://docs.google.com/document/d/e/2PACX-1vRXhvMQNVRc41Xsg7NLeCLSefaWMEhKgkENmqQqAJUfZAk782616svDQPBQhMKeOqMhiKSZDbmFqsfO/pub"
   tags: [gallantries, sequence-analysis, quality-control, ngs, illumina]
   videos:
   - captions:
@@ -700,6 +796,9 @@ sequence-analysis-quality-control-tutorial:
   - link: topics/sequence-analysis/tutorials/quality-control/tutorial.html
     type: Tutorial
   name: 'Quality Control: Hands-on!'
+  support_channel: "#1-3_quality-control"
+  support_link: https://gtnsmrgsbord.slack.com/archives/C01FQ92MB7A
+  faq: "https://docs.google.com/document/d/e/2PACX-1vRXhvMQNVRc41Xsg7NLeCLSefaWMEhKgkENmqQqAJUfZAk782616svDQPBQhMKeOqMhiKSZDbmFqsfO/pub"
   tags: [gallantries, sequence-analysis, quality-control, ngs, illumina]
   type: Tutorial
   videos:
@@ -720,6 +819,9 @@ shortintro:
     title: A Slightly Longer Introduction to Galaxy
     type: Slides
   name: A Very Short Introduction to Galaxy
+  support_channel: "#1-1_galaxy-intro"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01ES914GCU"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vQ1SZCsxEcRXp39J2BcFAjXyC3B20sWzI7IVgBgwe2pcC9b0cza417jzBPYJVqCRNbU0dD4rv_y6u6P/pub"
   type: Lecture/Demo
   tags: [introduction]
   videos:
@@ -735,6 +837,9 @@ slides-clinical-nanopore-microbiomics:
       lecture, Astrid Heikema discusses how her group at the Erasmus Medical
       Center uses Nanopore for sequencing of bacterial Genomes.
   name: 'Clinical Microbiomics: Nanopore Whole Bacterial Genome Sequencing'
+  support_channel: "#5-a_antibiotic-resistance-detection-nanopore"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01F1GJ7JJX"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vQlG_Onq011MQqyIu4D_erDqiLKAMLnduhHr5cDWwbXVqlU9VZhmm4OT_zphKqb8TEZprAFo8rdPXjO/pub"
   type: Lecture
   tags: [gallantries, nanopore, microbial, clinical]
   videos:
@@ -751,6 +856,9 @@ starting-rstudio:
       working on a different Galaxy server, you can use [RStudio Cloud](https://rstudio.cloud/)
   name: Starting Rstudio in Galaxy
   type: Demo
+  support_channel: "#2-2_intro-to-r"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JXPZM2"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vQuOJPPP2nosMG1gh1TuAFu479F4u2kGCCsICHuKvQE7lJGZCreVbXMQrhEORu3O1fV2hX_DZDE_Isk/pub"
   tags: [gallantries, R]
   videos:
   - captions:
@@ -768,6 +876,9 @@ transcriptomics-introduction:
     title: Introduction to Transcriptomics
     type: Slides
   name: Introduction to RNA-Seq
+  support_channel: "#2-1_ref-based-rna-seq"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01F0L6UW03"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTOAKhYdmiiTucIarwlehmnPaxi0MXDmuCPdyZwB27xvBJPksDOLCOYMGdtEZAoz4WGxHGdDcBDdlM9/pub"
   type: Lecture
   tags: [gallantries, transcriptomics, rna-seq]
   videos:
@@ -788,6 +899,9 @@ transcriptomics-ref-based:
     title: Reference-based RNA-Seq data analysis
     type: Tutorial
   name: Reference-based RNA-seq Analysis
+  support_channel: "#2-1_ref-based-rna-seq"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01F0L6UW03"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTOAKhYdmiiTucIarwlehmnPaxi0MXDmuCPdyZwB27xvBJPksDOLCOYMGdtEZAoz4WGxHGdDcBDdlM9/pub"
   type: Tutorial
   tags: [gallantries, transcriptomics, rna-seq]
   videos:
@@ -806,6 +920,9 @@ transcriptomics-rna-seq-counts-to-viz-in-r:
     title: RNA Seq Counts to Viz in R
     type: Tutorial
   name: 'Visualisation: RNASeq postprocessing with R'
+  support_channel: "#2-4_visualisation-with-r"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01FD3AFLN5"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTRNzQHT9qyPr9kdWOM1l8HiD0A1xCRMW7bYnUCcLYmF5yJFytYSOVrq_JFtRvqnat-_41JBkQray2F/pub"
   type: Tutorial
   tags: [gallantries, transcriptomics, rna-seq, viz, R]
   videos:
@@ -830,6 +947,9 @@ transcriptomics-scrna-intro-slides:
     title: An introduction to scRNA-Seq data analysis
     type: Slides
   name: An introduction to scRNA-seq data analysis
+  support_channel: "#3-0_single-cell-rnaseq"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
   type: Lecture
   tags: [transcriptomics, single-cell]
   videos:
@@ -851,6 +971,9 @@ transcriptomics-scrna-preprocessing-tenx:
     title: Pre-processing of 10X Single-Cell RNA Datasets
     type: Tutorial
   name: Pre-processing of 10X Single-Cell RNA Datasets
+  support_channel: "#3-2_preprocessing-10x-single-cell-rna-datasets"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01EXBPPBK7"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTuCzmNJlZSbS9-lIdfLgt8T7IJb7jWZ3gedtjNB4aKJ7pAi3apYS4NgfaCRh0_r5QbF4Pwl15Z0-mk/pub"
   tags: [transcriptomics, single-cell]
   type: Demo
   videos:
@@ -873,6 +996,9 @@ transcriptomics-scrna-scanpy-pbmc3k:
     title: Clustering 3K PBMCs with Scanpy
     type: Tutorial
   name: Clustering 3K PBMCs with Scanpy
+  support_channel: "#3-3_clustering-3k-pbmcs-with-scanpy"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01FQ9RLLF2"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTdqGjslXMxUjyjqwkNtidsXFl6SRULFKFug_2TYBl-dYXIDEnXb59nMyZ5qJc6bXI-fP5cPLfkXbHV/pub"
   tags: [transcriptomics]
   type: Demo
   videos:
@@ -893,6 +1019,9 @@ transcriptomics-scrna-umis-tutorial:
     type: Tutorial
   name: Understanding Barcodes
   tags: [transcriptomics, single-cell]
+  support_channel: "#3-1_understanding-barcodes"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01EXBNDKT7"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vRWe-8VHsJ4vbO8rwXemPDKUabWrKy1NRnxOKfIzEgj8RQ0tfG0W1kyUx30gVyWND_h4s12MtsV58Sh/pub"
   type: Demo
   videos:
   - captions:
@@ -913,6 +1042,9 @@ variant-analysis-m-tuberculosis-intro:
     type: Slides
   name: 'Variant Analysis: M. Tuberculosis Variant Analysis (Lecture)'
   tags: [variant-analysis, clinical]
+  support_channel: "#5-n_tuberculosis-variant-analysis"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01FD2WJU01"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTr2X-W-2-gronZbeEqj8OGTLyLqaUW2_7mCsHHgVMAVsOQt2faSNk5IaizQlYE_0vWU26v79Oqhyy3/pub"
   type: Lecture
   videos:
   - captions:
@@ -937,6 +1069,9 @@ variant-analysis-tb-variant-analysis:
   name: 'Variant Analysis: M. Tuberculosis Variant Analysis (Hands-on!)'
   tags: [variant-analysis, clinical]
   type: Tutorial
+  support_channel: "#5-n_tuberculosis-variant-analysis"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01FD2WJU01"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vTr2X-W-2-gronZbeEqj8OGTLyLqaUW2_7mCsHHgVMAVsOQt2faSNk5IaizQlYE_0vWU26v79Oqhyy3/pub"
   videos:
   - captions:
     - pvanheus
@@ -956,6 +1091,9 @@ visualisation-circos-slides:
     type: Tutorial
   name: 'Circos Visualisation in Galaxy: Intro'
   type: Lecture
+  support_channel: "#5-c_circos-visualisation"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01ELJ6QTQF"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSx65Dr5sFCvzvJoRGVMU9i4NJZTkpQktvTEER3T_Pd8PSrR_x9GsUBYBAEnS6-qStu7F-bI_nj2mgT/pub"
   tags: [gallantries, visualisation, circos]
   videos:
   - captions:
@@ -975,6 +1113,9 @@ visualisation-circos-tutorial:
     type: Tutorial
   name: 'Circos Visualisation in Galaxy: Hands-on!'
   type: Tutorial
+  support_channel: "#5-c_circos-visualisation"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01ELJ6QTQF"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSx65Dr5sFCvzvJoRGVMU9i4NJZTkpQktvTEER3T_Pd8PSrR_x9GsUBYBAEnS6-qStu7F-bI_nj2mgT/pub"
   tags: [gallantries, visualisation, circos, clinical]
   videos:
   - captions:
@@ -1000,3 +1141,6 @@ visualisation-jbrowse:
     type: Tutorial
   name: Genomic Data Visualization with JBrowse
   tags: [gallantries, visualisation, genomics, genome-annotation]
+  support_channel: "#5-e_jbrowse"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01FP1QR49H"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vRm1swqoqbrCWXKc2ncvDahm_RvbRCAn0oCPuJmQxorUgk38nI4Y_qtAGiECk53q5xr5wx-vNE5xJje/pub"
