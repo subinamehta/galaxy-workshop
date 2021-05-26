@@ -14,7 +14,7 @@ layout: page
 
 {% if page.registration_form %}
 <div>
-<a href="{{ page.registration_form }}"><button type="button" class="btn btn-warning btn-lg">Click Here to Register</button></a>
+<a href="{{ page.registration_form }}" class="btn btn-warning btn-lg">Click Here to Register</a>
 </div>
 {% endif %}
 
@@ -43,12 +43,13 @@ Thank you for joining this course! Everything you need for this course can be fo
   {% endif %}
 
  <div class="accordion-item">
-  <h2 class="accordion-header" id="heading{{daynum}}{{forloop.index0}}">
+	 {% capture accordianid %}heading{{daynum}}{{forloop.index0}}{% endcapture %}
+	 <h2 class="accordion-header" id="{{ accordianid }}">
    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{daynum}}{{forloop.index0}}" aria-expanded="true" aria-controls="collapse{{daynum}}{{forloop.index0}}">
         {{session.name}}
    </button>
   </h2>
-  <div id="collapse{{daynum}}{{forloop.index0}}" class="accordion-collapse collapse {% if session.show  %}show{% endif %}" aria-labelledby="heading{{daynum}}{{forlop.index0}}" data-bs-parent="#accordion{{daynum}}">
+  <div id="collapse{{daynum}}{{forloop.index0}}" class="accordion-collapse collapse {% if session.show  %}show{% endif %}" aria-labelledby="{{ accordianid }}" data-bs-parent="#accordion{{daynum}}">
    <div class="accordion-body">
 
    <!-- icebreaker -->
