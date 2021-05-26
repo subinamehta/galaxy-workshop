@@ -10,7 +10,7 @@ title: Gallantries & GTN Training Library
 materials:
   home: "https://training.galaxyproject.org/training-material/"
   url_prefix: "https://training.galaxyproject.org/training-material/"
-  logo: "/assets/images/logos/00_GTNLogo300.png"
+  logo: "/assets/images/logos/Galaxy Training Network.png"
 
 
 # Support platform defaults, can be overridden in training_sessions.yaml

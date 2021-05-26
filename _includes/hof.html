@@ -18,9 +18,11 @@
 			</div>
 			<div class="affil">
 			{% assign affil = instructor.affiliation %}
+			{% if affil %}
 				<a href="{{ site.data.affiliations[affil].link }}">
 					{{ site.data.affiliations[affil].name }}
 				</a>
+			{% endif %}
 			</div>
 		</div>
 		{% endif %}

@@ -13,9 +13,11 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
+		{% if page.layout != 'event' %}
         <li class="nav-item">
 		   <a class="nav-link active" aria-current="page" href="events">Events</a>
         </li>
+		{% endif %}
 	    <!-- Want to add more pages to the top menu bar? add them here.
         <li class="nav-item">
            <a class="nav-link {% if page.track == "instructors" %}active" aria-current="page"{% else %}"{% endif %} href="for-instructors.html">Instructors</a>
