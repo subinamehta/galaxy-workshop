@@ -1,0 +1,115 @@
+---
+layout: default
+---
+
+{% assign session = site.data['materials'][page.session] %}
+
+<h1>{{ session.name }}</h1>
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+	<div class="text-muted">Type: {{ session.type }}</div>
+	<div>
+	{% for t in session.tags %}
+		<span class="badge bg-primary">{{t}}</span>
+	{% endfor %}
+	</div>
+</div>
+<p>{{ session.description | markdownify }}</p>
+
+<h2>Materials</h2>
+<ul>
+	{% for m in session.material %}
+	<li>
+		<strong>{{m.type }}: </strong>
+		<a href="{% unless m.external %}{{site.materials.url_prefix}}{% endunless %}{{m.link}}{% include analytics.html %}">{{m.title | default: m.type }} </a>
+	</li>
+	{% endfor %}
+</ul>
+
+<h2>Support</h2>
+<ul>
+	{% if session.faq %}
+	<li>
+		<a href="{{ session.faq }}">FAQ Document</a>
+	</li>
+	{% endif %}
+	{% if session.support_channel %}
+	<li>
+		<a href="{{ session.support_link }}">{{ session.support_channel }}</a>
+	</li>
+	{% endif %}
+</ul>
+
+<h2>Videos</h2>
+
+<div class="accordion" id="accordion0">
+{% for video in session.videos %}
+	<div class="accordion-item">
+		<h2 class="accordion-header" id="accordian-header-0">
+		<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{daynum}}{{forloop.index0}}" aria-expanded="true" aria-controls="collapse{{daynum}}{{forloop.index0}}">
+			<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
+				<span>{{ video.event_name }}</span>
+				<div>
+					<span class="badge bg-primary">{{ site.data.events[video.event_name].date }}</span>
+					<span class="badge bg-secondary">Galaxy Version: {{ site.data.events[video.event_name].galaxy_version }}</span>
+				</div>
+			</div>
+		</button>
+		</h2>
+		<div id="collapse{{daynum}}{{forloop.index0}}" class="accordion-collapse collapse {% if session.show  %}show{% endif %}" aria-labelledby="accordian-header-0" data-bs-parent="#accordion{{daynum}}">
+			<div class="accordion-body">
+				<!-- icebreaker -->
+				{% if session.type == 'icebreaker' %}{% include icebreaker.html prompt=session.prompt example=session.example %}{% endif %}
+
+
+				<!-- setup -->
+				{% if session.type == 'setup' %}
+				{% include setup.html %}
+				{% endif %}
+
+				<!-- wrapup -->
+				{% if session.type == 'wrapup' %}
+				{% include wrapup.html %}
+				{% endif %}
+
+				<!-- wrapup -->
+				{% if session.type == 'post-event' %}
+				{% include post-event.html %}
+				{% endif %}
+
+
+				<!-- session description
+				{% if session.description %}
+				<h3>Description</h3>
+				<p> {{ session.description }} </p>
+				{% endif %}
+				-->
+
+				<!-- speaker and video -->
+				{% if session.videos %}
+				<h3 class="session-section"> Video {{session.type | default: "Tutorial" }} </h3>
+				{% include video-session.html session=session %}
+				{% else %}
+				{% unless session.type == 'icebreaker' %}{% unless session.type == 'setup' %}{% unless session.type == 'wrapup' %}{% unless session.type == 'post-event' %}
+				<h3 class="session-section"> Self-Study Tutorial </h3>
+				{{session.description}}
+
+				{% include selfstudy-session.html session=session %}
+				{% endunless %}{% endunless %}{% endunless %}{% endunless %}
+				{% endif %}
+
+				<!-- supported servers -->
+				{% include server_support.html material=session.material %}
+
+				<!-- session links  -->
+				{% unless session.type == 'icebreaker' %}{% unless session.type == 'setup' %}{% unless session.type == 'wrapup' %}{% unless session.type == 'post-event' %}
+				<h3 class="session-section">Supporting Materials </h3>
+				{% include session_materials.html session=session %}
+				{% endunless %}{% endunless %}{% endunless %}{% endunless %}
+
+				<!-- end session links -->
+
+			</div><!-- end accordion body -->
+		</div><!-- end collapse -->
+	</div><!-- end accordion item (training session) -->
+{% endfor %}
+</div>

@@ -1,29 +1,8 @@
 assembly-assembly-with-preprocessing:
-  description: |
-      This tutorial guides you through the preprocessing of sequencing data of
-      bronchoalveolar lavage fluid (BALF) samples obtained from early COVID-19
-      patients in China. Since such samples are expected to be contaminated
-      signficantly with human sequenced reads, the goal is to enrich the data
-      for SARS-CoV-2 reads by identifying and discarding reads of human origin
-      before trying to assemble the viral genome sequence.
-  material:
-  - link: topics/assembly/tutorials/assembly-with-preprocessing/slides.html
-    type: Slides
-  - link: topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html
-    type: Tutorial
-  name: 'Assembly: Unicycler assembly of SARS-CoV-2 genome'
-  type: Tutorial
   tags: [assembly, SARS-CoV-2]
   support_channel: "#5-h_unicycler-assembly-sars-cov2-genome"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01GJLDS01K"
   faq: "https://docs.google.com/document/d/e/2PACX-1vRcBWHbIIo6t_vXtZiaW_6t2qIUYwjiptC2MRVUG5KC31rwPg8fO9yCma22HqIV6Hu1T3wJXaV-GwxU/pub"
-  videos:
-  - captions:
-    - mtekman
-    date: '2021-02-15'
-    length: 25M
-    link: jNFLYhjgJPs
-    speaker: gallardoalba
 assembly-general-introduction-slides:
   description: |
       When there is no reference genome available for your organism, you will
@@ -40,7 +19,7 @@ assembly-general-introduction-slides:
   - captions:
     - shiltemann
     - hexylena
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 25M
     link: -EX_G1griZE
     speaker: slugger70
@@ -64,7 +43,7 @@ assembly-general-introduction-tutorial:
   videos:
   - captions:
     - annasyme
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 35M
     link: eyfCyINTD_E
     speaker: annasyme
@@ -92,7 +71,7 @@ climate-fates-slides:
   videos:
   - captions:
     - annefou
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 8M
     link: Z57C7MQG95s
     speaker: awspolly
@@ -119,7 +98,7 @@ climate-fates-tutorial:
   videos:
   - captions:
     - s3by01
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 1H20M
     link: 0LsEx11eLiI
     speaker: annefou
@@ -169,7 +148,7 @@ demo-ont-minion:
   videos:
   - captions:
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 20M
     link: bZfEyd87xCE
     speaker: miaomiaozhou88
@@ -241,7 +220,7 @@ firstanalysis:
   videos:
   - captions:
     - tnabtaf
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 1H30M
     link: 1UPCrQxGwcU
     speaker: tnabtaf
@@ -281,7 +260,7 @@ genome-annotation-annotation-with-prokka-tutorial:
   videos:
   - captions:
     - abretaud
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 20M
     link: B8pIQZPf21Y
     speaker: abretaud
@@ -302,7 +281,7 @@ intro:
   videos:
   - captions:
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 25M
     link: YXEnyIvYEKo
     speaker: shiltemann
@@ -323,7 +302,7 @@ introduction-galaxy-intro-ngs-data-managment:
   videos:
   - captions:
     - nekrut
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 15M
     link: 9mIL0tIfZ_o
     speaker: nekrut
@@ -345,7 +324,7 @@ introduction-r-advanced:
   - captions:
     - ksuderman
     - nagoue
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 1H
     link: _hWBGdlICqg
     speaker: fpsom
@@ -369,7 +348,7 @@ introduction-r-basics:
     - s3by01
     - annefou
     - kxk302
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 50M
     link: MKkQDh5Nguc
     speaker: fpsom
@@ -447,7 +426,7 @@ meetnjoin:
   videos:
   - captions:
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 5M
     link: -1MPdxmRs8U
     speaker: galaxycommunity
@@ -468,7 +447,7 @@ metagenomics-mothur-miseq-sop-short-slides:
   videos:
   - captions:
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 15M
     link: 9OY1mklWuK0
     speaker: shiltemann
@@ -488,7 +467,7 @@ metagenomics-mothur-miseq-sop-short-tutorial:
   videos:
   - captions:
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 1H40M
     link: mto4Nl-q7Kk
     speaker: shiltemann
@@ -509,7 +488,7 @@ metagenomics-plasmid-metagenomics-nanopore:
   videos:
   - captions:
     - bebatut
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 45M
     link: ECIl8ZU1Wko
     speaker: willemdek11
@@ -533,7 +512,7 @@ proteogenomics-intro:
   videos:
   - captions:
     - emmaleith
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 20M
     link: WpH101OPrG0
     speaker: timothygriffin
@@ -573,7 +552,7 @@ proteomics-introduction:
   videos:
   - captions:
     - foellmelanie
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 20M
     link: 2C96AvrFT38
     speaker: awspolly
@@ -600,7 +579,7 @@ proteomics-maxquant-msstats-dda-lfq:
   videos:
   - captions:
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 1H15M
     link: ad3E4VaTp7M
     speaker: foellmelanie
@@ -622,7 +601,7 @@ proteomics-metaproteomics:
   videos:
   - captions:
     - emmaleith
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 1H
     link: 3_yaPp-RCFw
     speaker: pratikdjagtap
@@ -646,7 +625,7 @@ proteomics-proteogenomics-dbcreation:
   videos:
   - captions:
     - emmaleith
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 40M
     link: b_kZf8mXHdo
     speaker: jj-umn
@@ -674,7 +653,7 @@ proteomics-proteogenomics-dbsearch:
   videos:
   - captions:
     - emmaleith
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 30M
     link: q1OjmTcbvBA
     speaker: andrewr
@@ -698,7 +677,7 @@ proteomics-proteogenomics-novel-peptide-analysis:
   videos:
   - captions:
     - subinamehta
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 40M
     link: Ku274KwFh1Y
     speaker: subinamehta
@@ -719,7 +698,7 @@ proteomics-proteome_annotation-tutorial:
   videos:
   - captions:
     - combesf
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 30M
     link: qG7GZc6BeGY
     speaker: yvesvdb
@@ -740,7 +719,7 @@ sequence-analysis-mapping-slides:
   videos:
   - captions:
     - blankenberg
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 10M
     link: 7FhHb8EV3EU
     speaker: pvanheus
@@ -761,7 +740,7 @@ sequence-analysis-mapping-tutorial:
   videos:
   - captions:
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 20M
     link: 1wm-62E2NkY
     speaker: pvanheus
@@ -784,7 +763,7 @@ sequence-analysis-quality-control-slides:
     - ennovytje
     - nagoue
     - hexylena
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 40M
     link: BWonTPS4zB8
     speaker: heylf
@@ -806,7 +785,7 @@ sequence-analysis-quality-control-tutorial:
     - bebatut
     - nagoue
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 1H10M
     link: QJRlX2hWDKM
     speaker: heylf
@@ -827,7 +806,7 @@ shortintro:
   videos:
   - captions:
     - nekrut
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 10M
     link: VZoz3k5EehI
     speaker: nekrut
@@ -845,7 +824,7 @@ slides-clinical-nanopore-microbiomics:
   videos:
   - captions:
     - hexylena
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 30M
     link: icXMqMut6PY
     speaker: aheikema
@@ -863,7 +842,7 @@ starting-rstudio:
   videos:
   - captions:
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 20M
     link: vN14K74nFZc
     speaker: fpsom
@@ -885,7 +864,7 @@ transcriptomics-introduction:
   - captions:
     - nagoue
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 30M
     link: qKkS_tztw_Q
     speaker: fpsom
@@ -908,7 +887,7 @@ transcriptomics-ref-based:
   - captions:
     - hexylena
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 2H30M
     link: j4onRSN650A
     speaker: bebatut
@@ -930,7 +909,7 @@ transcriptomics-rna-seq-counts-to-viz-in-r:
     - hexylena
     - shiltemann
     - fpsom
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 30M
     link: rJWgnLgA2BE
     speaker: fpsom
@@ -955,7 +934,7 @@ transcriptomics-scrna-intro-slides:
   videos:
   - captions:
     - mtekman
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 20M
     link: D3qvYWZMFa0
     speaker: awspolly
@@ -979,7 +958,7 @@ transcriptomics-scrna-preprocessing-tenx:
   videos:
   - captions:
     - khanteymoori
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 5M
     link: vNBNFkF0L4U
     speaker: nomadscientist
@@ -1004,7 +983,7 @@ transcriptomics-scrna-scanpy-pbmc3k:
   videos:
   - captions:
     - hrhotz
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 45M
     link: nefB35Bi1l4
     speaker: nomadscientist
@@ -1026,7 +1005,7 @@ transcriptomics-scrna-umis-tutorial:
   videos:
   - captions:
     - khanteymoori
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 10M
     link: AJ17BicjmYU
     speaker: nomadscientist
@@ -1049,7 +1028,7 @@ variant-analysis-m-tuberculosis-intro:
   videos:
   - captions:
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 20M
     link: yCC9EmLuyJg
     speaker: pvanheus
@@ -1077,7 +1056,7 @@ variant-analysis-tb-variant-analysis:
     - pvanheus
     - nagoue
     - hexylena
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 40M
     link: G1DmquX6Wh8
     speaker: pvanheus
@@ -1099,7 +1078,7 @@ visualisation-circos-slides:
   - captions:
     - assuntad23
     - shiltemann
-    date: '2021-02-15'
+    event_name: Smörgåsbord
     length: 6M
     link: KCtI5KLp05k
     speaker: hexylena
@@ -1123,7 +1102,16 @@ visualisation-circos-tutorial:
     - hexylena
     - shiltemann
     - khanteymoori
-    date: '2021-02-15'
+    event_name: Smörgåsbord
+    length: 50M
+    link: tbqeUP67w-Y
+    speaker: hexylena
+  - captions:
+    - beatrizserrano
+    - hexylena
+    - shiltemann
+    - khanteymoori
+    event_name: GCC2021
     length: 50M
     link: tbqeUP67w-Y
     speaker: hexylena
