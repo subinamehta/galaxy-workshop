@@ -3,6 +3,7 @@ layout: event
 title: Galaxy Training @ BelBI2021
 site_title: Belgrade Bioinformatics Conference - BelBI2021
 code_of_conduct_url: "https://galaxyproject.org/community/coc/"
+event_state: wip # Or 'running' or 'done'
 contacts:
   - name: Branislava Gemovic
     email: gemovic@vin.bg.ac.rs

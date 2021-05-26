@@ -2,6 +2,14 @@
 layout: page
 ---
 
+{% if page.event_state == "wip" %}
+<div class="alert alert-primary">Welcome! The schedule is still under development but you can view the preliminary schedule below.</div>
+{% elsif page.event_state == "running" %}
+<div class="alert alert-success">Welcome! The course has started!</div>
+{% elsif page.event_state == "done" %}
+<div class="alert alert-danger">Welcome! The course has ended, but you can still work through the materials on your own.</div>
+{% endif %}
+
 {{ content }}
 
 {% if page.registration_form %}

@@ -17,7 +17,7 @@ materials:
 support:
   platform: Slack
   link: "https://gtnsmrgsbord.slack.com/"
-  join_link:
+  join_link: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-qlcyf4z9-oWwkRDYEoyoSGyp4abalJw"
   icebreaker_channel: "#social"
   feedback_channel: "#feedback"
 
@@ -25,7 +25,6 @@ support:
 video:
   platform: YouTube
   url_prefix: "https://youtu.be/" # this will be prepended to the video ids you put in the schedule
-
 
 # social
 twitter_username: gxy-training
