@@ -222,7 +222,7 @@ firstanalysis:
       In this tutorial, we will walk you through your first (toy) analysis in
       Galaxy. This tutorial is aimed at familiarizing you with the Galaxy
       platform, and some basic NGS concepts.
-  support_channel: "#1-1_galaxy-intro"
+  support_channel: "#galaxy-introduction"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01ES914GCU"
   faq: "https://docs.google.com/document/d/e/2PACX-1vQ1SZCsxEcRXp39J2BcFAjXyC3B20sWzI7IVgBgwe2pcC9b0cza417jzBPYJVqCRNbU0dD4rv_y6u6P/pub"
   material:
@@ -311,7 +311,7 @@ introduction-galaxy-intro-ngs-data-managment:
       In this demo video, we will show how to perform an NGS data analysis,
       using a SARS-CoV-2 example dataset. If you would like to run the full
       tutorial yourself, please find the link below (duration 1h-1.5h).
-  support_channel: "#1-2_ngs-intro"
+  support_channel: "#ngs_data-logistics"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01EXB3BKN1"
   faq: "https://docs.google.com/document/u/2/d/12w_KCVN7z9DKLSxX6aCRfr8__nfANoIxfLJeYM4UGQA/pub"
   material:
@@ -336,7 +336,7 @@ introduction-r-advanced:
     title: Advanced R in Galaxy
     type: Tutorial
   name: Advanced R in Galaxy
-  support_channel: "#2-3_advanced_r"
+  support_channel: "#transcriptomics_advanced_r"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01LKGNPE5V"
   faq: "https://docs.google.com/document/d/e/2PACX-1vQuOJPPP2nosMG1gh1TuAFu479F4u2kGCCsICHuKvQE7lJGZCreVbXMQrhEORu3O1fV2hX_DZDE_Isk/pub"
   tags: [gallantries, introduction, R]
@@ -360,7 +360,7 @@ introduction-r-basics:
     type: Tutorial
   name: Introduction to R
   type: Tutorial
-  support_channel: "#2-2_intro-to-r"
+  support_channel: "#transcriptomics_intro-to-r"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JXPZM2"
   faq: "https://docs.google.com/document/d/e/2PACX-1vQuOJPPP2nosMG1gh1TuAFu479F4u2kGCCsICHuKvQE7lJGZCreVbXMQrhEORu3O1fV2hX_DZDE_Isk/pub"
   tags: [gallantries, introduction, R]
@@ -732,7 +732,7 @@ sequence-analysis-mapping-slides:
     title: Mapping
     type: Slides
   name: 'Mapping: Introduction'
-  support_channel: "#1-4_mapping"
+  support_channel: "#ngs_mapping"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JHCFT6"
   faq: "https://docs.google.com/document/d/e/2PACX-1vReZf8DGTSf6DlgBzg_g4_PhiH7glzRNTXGxK2_xM3aAFL5A3x0FdawNCrna3NkZ_vj986u7nhWh3Bb/pub"
   type: Lecture
@@ -754,7 +754,7 @@ sequence-analysis-mapping-tutorial:
     type: Tutorial
   name: 'Mapping: Hands-on!'
   type: Tutorial
-  support_channel: "#1-4_mapping"
+  support_channel: "#ngs_mapping"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JHCFT6"
   faq: "https://docs.google.com/document/d/e/2PACX-1vReZf8DGTSf6DlgBzg_g4_PhiH7glzRNTXGxK2_xM3aAFL5A3x0FdawNCrna3NkZ_vj986u7nhWh3Bb/pub"
   tags: [gallantries, sequence-analysis, mapping]
@@ -775,7 +775,7 @@ sequence-analysis-quality-control-slides:
     type: Slides
   name: 'Quality Control: Intro'
   type: Lecture
-  support_channel: "#1-3_quality-control"
+  support_channel: "#ngs_quality-control"
   support_link: https://gtnsmrgsbord.slack.com/archives/C01FQ92MB7A
   faq: "https://docs.google.com/document/d/e/2PACX-1vRXhvMQNVRc41Xsg7NLeCLSefaWMEhKgkENmqQqAJUfZAk782616svDQPBQhMKeOqMhiKSZDbmFqsfO/pub"
   tags: [gallantries, sequence-analysis, quality-control, ngs, illumina]
@@ -796,7 +796,7 @@ sequence-analysis-quality-control-tutorial:
   - link: topics/sequence-analysis/tutorials/quality-control/tutorial.html
     type: Tutorial
   name: 'Quality Control: Hands-on!'
-  support_channel: "#1-3_quality-control"
+  support_channel: "#ngs_quality-control"
   support_link: https://gtnsmrgsbord.slack.com/archives/C01FQ92MB7A
   faq: "https://docs.google.com/document/d/e/2PACX-1vRXhvMQNVRc41Xsg7NLeCLSefaWMEhKgkENmqQqAJUfZAk782616svDQPBQhMKeOqMhiKSZDbmFqsfO/pub"
   tags: [gallantries, sequence-analysis, quality-control, ngs, illumina]
@@ -819,7 +819,7 @@ shortintro:
     title: A Slightly Longer Introduction to Galaxy
     type: Slides
   name: A Very Short Introduction to Galaxy
-  support_channel: "#1-1_galaxy-intro"
+  support_channel: "#galaxy-introduction"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01ES914GCU"
   faq: "https://docs.google.com/document/d/e/2PACX-1vQ1SZCsxEcRXp39J2BcFAjXyC3B20sWzI7IVgBgwe2pcC9b0cza417jzBPYJVqCRNbU0dD4rv_y6u6P/pub"
   type: Lecture/Demo
@@ -856,7 +856,7 @@ starting-rstudio:
       working on a different Galaxy server, you can use [RStudio Cloud](https://rstudio.cloud/)
   name: Starting Rstudio in Galaxy
   type: Demo
-  support_channel: "#2-2_intro-to-r"
+  support_channel: "#transcriptomics_intro-to-r"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JXPZM2"
   faq: "https://docs.google.com/document/d/e/2PACX-1vQuOJPPP2nosMG1gh1TuAFu479F4u2kGCCsICHuKvQE7lJGZCreVbXMQrhEORu3O1fV2hX_DZDE_Isk/pub"
   tags: [gallantries, R]
@@ -876,7 +876,7 @@ transcriptomics-introduction:
     title: Introduction to Transcriptomics
     type: Slides
   name: Introduction to RNA-Seq
-  support_channel: "#2-1_ref-based-rna-seq"
+  support_channel: "#transcriptomics_ref-based-rna-seq"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01F0L6UW03"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTOAKhYdmiiTucIarwlehmnPaxi0MXDmuCPdyZwB27xvBJPksDOLCOYMGdtEZAoz4WGxHGdDcBDdlM9/pub"
   type: Lecture
@@ -899,7 +899,7 @@ transcriptomics-ref-based:
     title: Reference-based RNA-Seq data analysis
     type: Tutorial
   name: Reference-based RNA-seq Analysis
-  support_channel: "#2-1_ref-based-rna-seq"
+  support_channel: "#transcriptomics_ref-based-rna-seq"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01F0L6UW03"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTOAKhYdmiiTucIarwlehmnPaxi0MXDmuCPdyZwB27xvBJPksDOLCOYMGdtEZAoz4WGxHGdDcBDdlM9/pub"
   type: Tutorial
@@ -920,7 +920,7 @@ transcriptomics-rna-seq-counts-to-viz-in-r:
     title: RNA Seq Counts to Viz in R
     type: Tutorial
   name: 'Visualisation: RNASeq postprocessing with R'
-  support_channel: "#2-4_visualisation-with-r"
+  support_channel: "#transcriptomics_visualisation-with-r"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01FD3AFLN5"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTRNzQHT9qyPr9kdWOM1l8HiD0A1xCRMW7bYnUCcLYmF5yJFytYSOVrq_JFtRvqnat-_41JBkQray2F/pub"
   type: Tutorial
@@ -1091,7 +1091,7 @@ visualisation-circos-slides:
     type: Tutorial
   name: 'Circos Visualisation in Galaxy: Intro'
   type: Lecture
-  support_channel: "#5-c_circos-visualisation"
+  support_channel: "#visualisation_circos"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01ELJ6QTQF"
   faq: "https://docs.google.com/document/d/e/2PACX-1vSx65Dr5sFCvzvJoRGVMU9i4NJZTkpQktvTEER3T_Pd8PSrR_x9GsUBYBAEnS6-qStu7F-bI_nj2mgT/pub"
   tags: [gallantries, visualisation, circos]
@@ -1113,7 +1113,7 @@ visualisation-circos-tutorial:
     type: Tutorial
   name: 'Circos Visualisation in Galaxy: Hands-on!'
   type: Tutorial
-  support_channel: "#5-c_circos-visualisation"
+  support_channel: "#visualisation_circos"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01ELJ6QTQF"
   faq: "https://docs.google.com/document/d/e/2PACX-1vSx65Dr5sFCvzvJoRGVMU9i4NJZTkpQktvTEER3T_Pd8PSrR_x9GsUBYBAEnS6-qStu7F-bI_nj2mgT/pub"
   tags: [gallantries, visualisation, circos, clinical]
@@ -1141,6 +1141,6 @@ visualisation-jbrowse:
     type: Tutorial
   name: Genomic Data Visualization with JBrowse
   tags: [gallantries, visualisation, genomics, genome-annotation]
-  support_channel: "#5-e_jbrowse"
+  support_channel: "#visualisation_jbrowse"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01FP1QR49H"
   faq: "https://docs.google.com/document/d/e/2PACX-1vRm1swqoqbrCWXKc2ncvDahm_RvbRCAn0oCPuJmQxorUgk38nI4Y_qtAGiECk53q5xr5wx-vNE5xJje/pub"
