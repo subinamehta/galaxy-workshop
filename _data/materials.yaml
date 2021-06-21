@@ -44,7 +44,7 @@ assembly-general-introduction-slides:
     length: 25M
     link: -EX_G1griZE
     speaker: slugger70
-  support_channel: "#1-5_assembly"
+  support_channel: "#ngs_assembly"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01EKMD8VC7"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTed-1_nZK1liUdm5IZn_Qas7LcJE700WwsMAgT282Q1jx0Nkk4lZzzN47P9aS1suUAeh0ljIUYgXpG/pub"
 assembly-general-introduction-tutorial:
@@ -58,7 +58,7 @@ assembly-general-introduction-tutorial:
   name: 'Genome Assembly: Hands-on!'
   type: Tutorial
   tags: [assembly]
-  support_channel: "#1-5_assembly"
+  support_channel: "#ngs_assembly"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01EKMD8VC7"
   faq: "https://docs.google.com/document/d/e/2PACX-1vTed-1_nZK1liUdm5IZn_Qas7LcJE700WwsMAgT282Q1jx0Nkk4lZzzN47P9aS1suUAeh0ljIUYgXpG/pub"
   videos:
