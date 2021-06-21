@@ -115,7 +115,7 @@ galaxyintro:
         - type: Slides
           link: topics/introduction/videos/
           title: A Slightly Longer Introduction to Galaxy
-      support_channel: "#1-1_galaxy-intro"
+      support_channel: "#galaxy-introduction"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01ES914GCU"
       faq: "https://docs.google.com/document/d/e/2PACX-1vQ1SZCsxEcRXp39J2BcFAjXyC3B20sWzI7IVgBgwe2pcC9b0cza417jzBPYJVqCRNbU0dD4rv_y6u6P/pub"
 
@@ -153,7 +153,7 @@ galaxyintro:
         - type: Tutorial
           link: topics/galaxy-interface/tutorials/history-to-workflow/tutorial.html
           title: Extracting Workflows from Histories
-      support_channel: "#1-1_galaxy-intro"
+      support_channel: "#galaxy-introduction"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01ES914GCU"
       faq: "https://docs.google.com/document/d/e/2PACX-1vQ1SZCsxEcRXp39J2BcFAjXyC3B20sWzI7IVgBgwe2pcC9b0cza417jzBPYJVqCRNbU0dD4rv_y6u6P/pub"
 
@@ -173,7 +173,7 @@ ngsintro:
       material:
         - type: Tutorial
           link: topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.html
-      support_channel: "#1-2_ngs-intro"
+      support_channel: "#ngs-data-logistics"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01EXB3BKN1"
       faq: "https://docs.google.com/document/u/2/d/12w_KCVN7z9DKLSxX6aCRfr8__nfANoIxfLJeYM4UGQA/pub"
 
@@ -191,7 +191,7 @@ ngsintro:
         - type: Slides
           link: topics/sequence-analysis/tutorials/quality-control/slides.html
           title: Introduction to Quality Control
-      support_channel: "#1-3_quality-control"
+      support_channel: "#ngs_quality-control"
       support_link: https://gtnsmrgsbord.slack.com/archives/C01FQ92MB7A
       faq: "https://docs.google.com/document/d/e/2PACX-1vRXhvMQNVRc41Xsg7NLeCLSefaWMEhKgkENmqQqAJUfZAk782616svDQPBQhMKeOqMhiKSZDbmFqsfO/pub"
 
@@ -209,7 +209,7 @@ ngsintro:
       material:
         - type: Tutorial
           link: "topics/sequence-analysis/tutorials/quality-control/tutorial.html"
-      support_channel: "#1-3_quality-control"
+      support_channel: "#ngs_quality-control"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01FQ92MB7A"
       faq: "https://docs.google.com/document/d/e/2PACX-1vRXhvMQNVRc41Xsg7NLeCLSefaWMEhKgkENmqQqAJUfZAk782616svDQPBQhMKeOqMhiKSZDbmFqsfO/pub"
 
@@ -228,7 +228,7 @@ ngsintro:
         - type: Slides
           link: topics/sequence-analysis/tutorials/mapping/slides.html
           title: Mapping
-      support_channel: "#1-4_mapping"
+      support_channel: "#ngs_mapping"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JHCFT6"
       faq: "https://docs.google.com/document/d/e/2PACX-1vReZf8DGTSf6DlgBzg_g4_PhiH7glzRNTXGxK2_xM3aAFL5A3x0FdawNCrna3NkZ_vj986u7nhWh3Bb/pub"
 
@@ -247,7 +247,7 @@ ngsintro:
         - type: Tutorial
           link: topics/sequence-analysis/tutorials/mapping/tutorial.html
           title: Mapping
-      support_channel: "#1-4_mapping"
+      support_channel: "#ngs_mapping"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JHCFT6"
       faq: "https://docs.google.com/document/d/e/2PACX-1vReZf8DGTSf6DlgBzg_g4_PhiH7glzRNTXGxK2_xM3aAFL5A3x0FdawNCrna3NkZ_vj986u7nhWh3Bb/pub"
 
@@ -267,7 +267,7 @@ ngsintro:
         - type: Slides
           link: topics/assembly/tutorials/general-introduction/slides.html
           title: An Introduction to Genome Assembly
-      support_channel: "#1-5_assembly"
+      support_channel: "#ngs_assembly"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01EKMD8VC7"
       faq: "https://docs.google.com/document/d/e/2PACX-1vTed-1_nZK1liUdm5IZn_Qas7LcJE700WwsMAgT282Q1jx0Nkk4lZzzN47P9aS1suUAeh0ljIUYgXpG/pub"
 
@@ -286,7 +286,7 @@ ngsintro:
         - type: Tutorial
           link: topics/assembly/tutorials/chloroplast-assembly/tutorial.html
           title: Chloroplast genome assembly
-      support_channel: "#1-5_assembly"
+      support_channel: "#ngs_assembly"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01EKMD8VC7"
       faq: "https://docs.google.com/document/d/e/2PACX-1vTed-1_nZK1liUdm5IZn_Qas7LcJE700WwsMAgT282Q1jx0Nkk4lZzzN47P9aS1suUAeh0ljIUYgXpG/pub"
 
@@ -308,7 +308,7 @@ ngsadvanced:
           link: topics/assembly/tutorials/assembly-with-preprocessing/slides.html
         - type: Tutorial
           link: topics/assembly/tutorials/assembly-with-preprocessing/tutorial.html
-      support_channel: "#5-h_unicycler-assembly-sars-cov2-genome"
+      support_channel: "#ngs_advanced_unicycler-assembly-sars-cov2-genome"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01GJLDS01K"
       faq: "https://docs.google.com/document/d/e/2PACX-1vRcBWHbIIo6t_vXtZiaW_6t2qIUYwjiptC2MRVUG5KC31rwPg8fO9yCma22HqIV6Hu1T3wJXaV-GwxU/pub"
 
@@ -405,7 +405,7 @@ rnabasics:
         - type: Slides
           link: topics/transcriptomics/slides/introduction.html
           title: Introduction to Transcriptomics
-      support_channel: "#2-1_ref-based-rna-seq"
+      support_channel: "#transcriptomics_ref-based-rna-seq"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01F0L6UW03"
       faq: "https://docs.google.com/document/d/e/2PACX-1vTOAKhYdmiiTucIarwlehmnPaxi0MXDmuCPdyZwB27xvBJPksDOLCOYMGdtEZAoz4WGxHGdDcBDdlM9/pub"
 
@@ -421,7 +421,7 @@ rnabasics:
         - type: Tutorial
           link: topics/transcriptomics/tutorials/ref-based/tutorial.html
           title: Reference-based RNA-Seq data analysis
-      support_channel: "#2-1_ref-based-rna-seq"
+      support_channel: "#transcriptomics_ref-based-rna-seq"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01F0L6UW03"
       faq: "https://docs.google.com/document/d/e/2PACX-1vTOAKhYdmiiTucIarwlehmnPaxi0MXDmuCPdyZwB27xvBJPksDOLCOYMGdtEZAoz4WGxHGdDcBDdlM9/pub"
 
@@ -462,7 +462,7 @@ rnaseqandr:
         link: vN14K74nFZc
         length: 20M
         captions: [shiltemann]
-      support_channel: "#2-2_intro-to-r"
+      support_channel: "#transcriptomics_intro-to-r"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JXPZM2"
       faq: "https://docs.google.com/document/d/e/2PACX-1vQuOJPPP2nosMG1gh1TuAFu479F4u2kGCCsICHuKvQE7lJGZCreVbXMQrhEORu3O1fV2hX_DZDE_Isk/pub"
 
@@ -479,7 +479,7 @@ rnaseqandr:
         - type: Tutorial
           link: topics/introduction/tutorials/r-basics/tutorial.html
           title: R basics in Galaxy
-      support_channel: "#2-2_intro-to-r"
+      support_channel: "#transcriptomics_intro-to-r"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01F6JXPZM2"
       faq: "https://docs.google.com/document/d/e/2PACX-1vQuOJPPP2nosMG1gh1TuAFu479F4u2kGCCsICHuKvQE7lJGZCreVbXMQrhEORu3O1fV2hX_DZDE_Isk/pub"
 
@@ -496,7 +496,7 @@ rnaseqandr:
         - type: Tutorial
           link: topics/introduction/tutorials/r-advanced/tutorial.html
           title: Advanced R in Galaxy
-      support_channel: "#2-3_advanced_r"
+      support_channel: "#transcriptomics_advanced_r"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01LKGNPE5V"
       faq: "https://docs.google.com/document/d/e/2PACX-1vQuOJPPP2nosMG1gh1TuAFu479F4u2kGCCsICHuKvQE7lJGZCreVbXMQrhEORu3O1fV2hX_DZDE_Isk/pub"
 
@@ -513,7 +513,7 @@ rnaseqandr:
         - type: Tutorial
           link: topics/transcriptomics/tutorials/rna-seq-counts-to-viz-in-r/tutorial.html
           title: RNA Seq Counts to Viz in R
-      support_channel: "#2-4_visualisation-with-r"
+      support_channel: "#transcriptomics_visualisation-with-r"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01FD3AFLN5"
       faq: "https://docs.google.com/document/d/e/2PACX-1vTRNzQHT9qyPr9kdWOM1l8HiD0A1xCRMW7bYnUCcLYmF5yJFytYSOVrq_JFtRvqnat-_41JBkQray2F/pub"
 
@@ -1013,7 +1013,7 @@ viz:
         - type: Tutorial
           link: topics/visualisation/tutorials/circos/tutorial.html
           title: Visualisation with Circos
-      support_channel: "#5-c_circos-visualisation"
+      support_channel: "#visualisation_circos"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01ELJ6QTQF"
       faq: "https://docs.google.com/document/d/e/2PACX-1vSx65Dr5sFCvzvJoRGVMU9i4NJZTkpQktvTEER3T_Pd8PSrR_x9GsUBYBAEnS6-qStu7F-bI_nj2mgT/pub"
 
@@ -1048,7 +1048,7 @@ viz:
         - type: Tutorial
           link: topics/visualisation/tutorials/jbrowse/tutorial.html
 
-      support_channel: "#5-e_jbrowse"
+      support_channel: "#visualisation_jbrowse"
       support_link: "https://gtnsmrgsbord.slack.com/archives/C01FP1QR49H"
       faq: "https://docs.google.com/document/d/e/2PACX-1vRm1swqoqbrCWXKc2ncvDahm_RvbRCAn0oCPuJmQxorUgk38nI4Y_qtAGiECk53q5xr5wx-vNE5xJje/pub"
 
