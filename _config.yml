@@ -43,6 +43,7 @@ baseurl: "/galaxy-workshop" # the subpath of your site. If you are serving this 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 image_dir: /assets/images/
 logo_dir: /assets/images/logos/
+logo_dir_affil: /assets/images/institutions/
 
 
 # Build settings
