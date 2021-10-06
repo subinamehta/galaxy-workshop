@@ -15,7 +15,7 @@ format: async
 registration_form:
 feedback_form: https://example.com
 certificates: false
-
+lang: en
 schedule:
     intro:
       title: Welcome & Practical Information

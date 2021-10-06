@@ -1,3 +1,4 @@
+{% assign locale = site.data.lang[page.lang] %}
 
 <div class="card" style="width: 100%">
  <div class="row no-gutters">
@@ -6,16 +7,15 @@
   </div>
   <div class="col-sm-7">
    <div class="card-body">
-    <h5 class="card-title">Register for a Galaxy Account</h5>
+    <h5 class="card-title">{{ locale['register'] }}</h5>
     <p class="card-text">
-     <br/><strong> Create an account on one of the following Galaxy servers: </strong>
+     <br/><strong>{{ locale['create'] }}</strong>
      <ul>
       <li><a href="https://usegalaxy.eu">🌍 UseGalaxy.eu (Europe)</a></li>
       <li><a href="https://usegalaxy.org.au">🌏 UseGalaxy.org.au (Australia) </a></li>
       <li><a href="https://usegalaxy.org">🌎 UseGalaxy.org (USA)</a></li>
      </ul>
-     You can just pick the one nearest to you.
-     Every tutorial will list which of these servers you can use for it.
+    {{ locale['create-pick'] }}
     </p>
    </div>
   </div>
@@ -35,16 +35,18 @@
   </div>
   <div class="col-sm-7">
    <div class="card-body">
-    <h5 class="card-title">Sign up for TIaaS</h5>
+    <h5 class="card-title">{{ locale['register-tiaas'] }}</h5>
     <p class="card-text">
-     <br/><strong> Training Infrastructure as a Service (TIaaS) helps Galaxy workshops run smoothly. </strong>
-     Click the link to join the event
+     <br/><strong>{{ locale['tiaas-about'] }}</strong>
+     {{ locale['tiaas-click'] }}
      <ul>
-      <li><a href="https://usegalaxy.eu/join-training/{{ page.tiaas_keyword }}/">🌍 UseGalaxy.eu (Europe)</a></li>
-      <li><a href="https://usegalaxy.org.au/join-training/{{ page.tiaas_keyword }}/">🌏 UseGalaxy.org.au (Australia)</a></li>
-      <li><a href="https://usegalaxy.org/join-training/{{ page.tiaas_keyword }}/">🌎 UseGalaxy.org (USA)</a></li>
+      {% for server in page.tiaas_servers %}
+      <li><a href="https://{{ site.data.tiaas[server]['domain'] }}/join-training/{{ page.tiaas_keyword }}/">{{ site.data.tiaas[server]['text'] }}</a></li>
+      {% endfor %}
+      {% unless page.tiaas %}
+      {% endunless %}
      </ul>
-     This lets us monitor how tools are doing, and can speed up your jobs!
+     {{ locale['tiaas-why'] }}
     </p>
    </div>
   </div>
@@ -65,14 +67,14 @@
   </div>
   <div class="col-sm-7">
    <div class="card-body">
-    <h5 class="card-title">Join Slack Chat!</h5>
+    <h5 class="card-title">{{ locale['slack-join'] }}</h5>
     <p class="card-text">
      <br/>
-     <strong> Slack is where you can ask all your questions </strong>
+     <strong>{{ locale['slack-what'] }}</strong>
      <ul>
-      <li><a href="{{site.support.join_link}}">Invite link</a></li>
+      <li><a href="{{site.support.join_link}}">{{ locale['slack-link'] }}</a></li>
      </ul>
-     You will find different channels here, one for each training session where you can ask your questions, as well as some more general channels for socializing, general discussions, feedback and more.
+     {{ locale['slack-why'] }}
     </p>
    </div>
   </div>

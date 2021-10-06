@@ -40,6 +40,14 @@ awspolly:
     name: These slides are narrated by AWS Polly.
     photo: polly.png
 
+awspolly/es:
+    name: Estas diapositivas están narradas por AWS Polly.
+    photo: polly.png
+
+awspolly/escat:
+    name: Estas diapositivas están narradas por AWS Polly.
+    photo: polly.png
+
 beatrizserrano:
     name: Beatriz Serrano-Solano
     affiliation: freiburguni

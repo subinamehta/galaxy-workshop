@@ -11,6 +11,9 @@ format: async
 registration_form:
 feedback_form:
 certificates: true
+lang: es-cat
+tiaas_keyword: gtñ
+tiaas_servers: [eu]
 
 schedule:
     day1:
@@ -21,39 +24,34 @@ schedule:
         - link: meetnjoin
 
     galaxy-intro:
-      title: "Introduction to Galaxy"
-      description: "Today we start by introducing the Galaxy Platform"
+      title: "Introducción a Galaxy"
+      description: "Hoy comenzamos presentando la plataforma Galaxy"
       sessions:
-        - name: "Icebreaker: Introduce yourself in Slack!"
+        - name: "Rompehielos: ¡Preséntate en Slack!"
           type: icebreaker
           prompt: "Preséntese, díganos desde dónde se une y una cosa sobre su entorno (por ejemplo, está nevando afuera, hay una ardilla en mi porche, mi gato está en mi teclado)"
         - link: introduction/galaxy-intro-short/slides/cat
         - link: introduction/galaxy-intro-short/tutorial/cat
 
     ngs:
-      title: Single Cell
-      description: "Here we show you how to analyze your NGS data using Galaxy."
+      title: Unicelular
+      description: "Aquí le mostramos cómo analizar sus datos NGS usando Galaxy."
       sessions:
         - link: transcriptomics/scrna-intro/slides/cat
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial/cat
         - link: transcriptomics/scrna-seq-basic-pipeline/tutorial/cat
 
     done:
-      title: "All done?"
-      description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks for joining!!"
+      title: ¿Todo listo?
+      description: "¡No dudes en pasar el rato en Slack y hablar con nosotros y con el resto de la comunidad Galaxy! ¡¡Gracias por unirte!!"
       sessions:
-        - name: "Wrap up & Socialize"
-          type: wrapup
-
-        - name: "Post-event Tasks"
-          type: post-event
 
     post-course:
-      title: "After the Course"
+      title: Después del curso
       description: |
-        All these materials will remain online, so you can continue working on them for as
-        long as you want. The only difference will be that you should ask your questions
-        on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
+        Todos estos materiales permanecerán en línea, por lo que podrá seguir trabajando en ellos durante un tiempo
+        tanto tiempo como quieras. La única diferencia será que debes hacer tus preguntas.
+        en el <a href="https://gitter.im/Galaxy-Training-Network/Lobby">canal GTN Gitter</a>, en lugar de Slack.
 ---
 
-Welcome to the GTÑ Experiment!
+Bienvenido al experimento GTÑ!

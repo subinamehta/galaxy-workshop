@@ -1,0 +1,62 @@
+event-wip: Welcome! The schedule is still under development but you can view the preliminary schedule below.
+event-running: Welcome! The course has started!
+event-done: Welcome! The course has ended, but you can still work through the materials on your own.
+
+thanks-join: Thank you for joining this course! Everything you need for this course can be found on this webpage. More information including links to all training materials can be found by clicking on each session.
+
+click-here: Click Here to Register
+acknowledgements: Acknowledgements
+thanks-to: This Global Galaxy course is only possible thanks to a Global network of instructors and institutes.
+thanks-humans: Presenters & Instructors & Facilitators & Community Caption Contributors
+thanks-institutions: Institutions
+self-study: Self-Study Tutorial
+video: Video
+supporting: Supporting Materials
+
+# _includes/session_materials.html
+watch-on: Watch it on
+faq: FAQ Document
+faq-question: Have a question about this training? Check here to see if it has already been answered
+
+ask-an-instructor: Ask an instructor
+ask-them-on: Have question about the training? Did you run into a problem? Just wanna chat? Ask away on
+channel: Channel
+finished-text: Let us know that you've finished it, and what you thought of it!
+finished: Finished the session?
+on-slack: On slack!
+thanks: Thanks!
+enjoyed: Enjoyed it?
+enjoyed-actions: Like the video on YouTube, Tweet, and follow the GTN on Twitter!
+
+# _includes/setup.html
+register: Register for a Galaxy Account
+create: "Create an account on one of the following Galaxy servers:"
+create-pick: You can just pick the one nearest to you. Every tutorial will list which of these servers you can use for it.
+
+register-tiaas: Sign up for TIaaS
+tiaas-about: Training Infrastructure as a Service (TIaaS) helps Galaxy workshops run smoothly.
+tiaas-click: Click the link to join the event
+tiaas-why: This lets us monitor how tools are doing, and can speed up your jobs!
+
+slack-join: Join Slack Chat!
+slack-what:  Slack is where you can ask all your questions
+slack-link: Invite link
+slack-why: You will find different channels here, one for each training session where you can ask your questions, as well as some more general channels for socializing, general discussions, feedback and more.
+
+# _includes/icebreaker.html
+ice: Icebreaker
+ice-hi: Come say Hi in Slack! Let us know you are joining today and are getting started!
+ice-post: Post your answers on Slack in
+ice-friendly: And of course please feel free to respond to anybody here, this channel is for socializing and getting to know each other :)
+note: Note
+ice-daily: Please do this every day if you would like to receive a certificate of attendance
+
+# _includes/video-session.html
+video-length: Video Length
+video-subs: Subtitles By
+video-subs-missing: We apologize for lack of captions on this video. If you are reliant on captions, please check back here soon.
+instructors: Instructors
+description: Description
+
+# _includes/instructor_card.html
+polly-explain: This helps us keep the video slides up-to-date more easily.

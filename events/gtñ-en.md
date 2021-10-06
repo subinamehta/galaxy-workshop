@@ -11,6 +11,9 @@ format: async
 registration_form:
 feedback_form:
 certificates: true
+lang: en
+tiaas_keyword: gtñ
+tiaas_servers: [eu]
 
 schedule:
     day1:
@@ -42,11 +45,6 @@ schedule:
       title: "All done?"
       description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks for joining!!"
       sessions:
-        - name: "Wrap up & Socialize"
-          type: wrapup
-
-        - name: "Post-event Tasks"
-          type: post-event
 
     post-course:
       title: "After the Course"

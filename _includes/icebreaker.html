@@ -1,4 +1,5 @@
-<p> Come say Hi in Slack! Let us know you are joining today and are getting started! </p>
+{% assign locale = site.data.lang[page.lang] %}
+<p>{{ locale['ice-hi'] }}</p>
 
 
 <div class="card" style="width: 100%">
@@ -8,12 +9,12 @@
   </div>
   <div class="col-sm-7">
    <div class="card-body">
-    <h5 class="card-title">Icebreaker</h5>
+    <h5 class="card-title">{{ locale['ice'] }}</h5>
     <p class="card-text">
      <br/><strong> {{ include.prompt }} </strong><br/>
     </p>
     <p class="card-text">
-     Post your answers in <a href="{{site.support.icebreaker_link}}"> {{ site.support.icebreaker_channel }}</a> on Slack!
+     {{ locale['ice-post'] }} <a href="{{site.support.icebreaker_link}}"> {{ site.support.icebreaker_channel }}</a>!
     </p>
    </div>
   </div>
@@ -21,11 +22,11 @@
 </div>
 <br/>
 <p class="card-text">
-     And of course please feel free to respond to anybody here, this channel is for socializing and getting to know each other :)
-    </p>
+	{{ locale['ice-friendly'] }}
+</p>
 <br/>
 {% if page.certificates %}
-<p class="text-muted"><strong>Note:</strong> Please do this every day if you would like to receive a certificate of attendance</p>
+<p class="text-muted"><strong>{{ locale['note'] }}:</strong> {{ locale['ice-daily'] }}</p>
 {% endif %}
 
 

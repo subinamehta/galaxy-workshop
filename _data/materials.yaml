@@ -1283,7 +1283,7 @@ transcriptomics/scrna-intro/slides/es:
     event_name: Smörgåsbord
     length: 20M
     link: D3qvYWZMFa0
-    speaker: awspolly
+    speaker: awspolly/es
 
 transcriptomics/droplet-quantification-preprocessing/tutorial/es:
   name: Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin
@@ -1350,7 +1350,7 @@ introduction/galaxy-intro-short/slides/cat:
     event_name: GTÑ
     length: TODO
     link: TODO # https://training.galaxyproject.org/training-material/videos/watch.html?v=introduction/tutorials/galaxy-intro-short/slides
-    speaker: awspolly
+    speaker: awspolly/escat
 
 introduction/galaxy-intro-short/tutorial/cat:
   description: |
@@ -1398,10 +1398,10 @@ transcriptomics/scrna-intro/slides/cat:
     event_name: Smörgåsbord
     length: 20M
     link: D3qvYWZMFa0
-    speaker: awspolly
+    speaker: awspolly/escat
 
 transcriptomics/droplet-quantification-preprocessing/tutorial/cat:
-  name: 'Generating a single cell matrix using Alevin'
+  name: Generando una matriz de una sola célula usando Alevin
   description: |
       Este tutorial lo llevará de archivos FASTQ sin procesar a una matriz de
       datos de genes de celda x en formato AnnData. ¿Qué es una matriz de datos
@@ -1419,7 +1419,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial/cat:
   videos: []
 
 transcriptomics/scrna-seq-basic-pipeline/tutorial/cat:
-  name: Filter, Plot and Explore Single-cell RNA-seq Data
+  name: Filtrar, trazar y explorar datos de secuencia de ARN de una sola célula
   description: |
       Ha hecho todo el trabajo para crear una matriz de una sola célula, con
       recuentos de genes y recuentos de mitocondrias y cubos de metadatos

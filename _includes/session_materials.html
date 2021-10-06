@@ -1,3 +1,4 @@
+{% assign locale = site.data.lang[page.lang] %}
 
 <div class="card" style="margin-top: 2em; border: none;">
  <div class="row no-gutters">
@@ -16,23 +17,23 @@
 
      <!-- video -->
      {% if session.video %}
-     <li><strong>Video: </strong><a href="{{site.video.url_prefix}}/{{include.session.video.link}}{% include analytics.html %}">Watch it on {{site.video.platform}}</a></li>
+	 <li><strong>{{ locale['video'] }}: </strong><a href="{{site.video.url_prefix}}/{{include.session.video.link}}{% include analytics.html %}">{{ locale['watch-on'] }} {{site.video.platform}}</a></li>
      {% endif %}
 
      <!-- FAQ -->
      {% if include.session.faq %}
-     <li><a href="{{session.faq}}{% include analytics.html %}">FAQ Document</a> - Have a question about this training? Check here to see if it has already been answered</li>
+     <li><a href="{{session.faq}}{% include analytics.html %}">{{ locale['faq'] }}</a> - {{ locale['faq-question'] }}</li>
      {% endif %}
 
      <!-- support -->
-     <li><a href="{{include.session.support_link }}{% include analytics.html %}">Ask an instructor</a> - Have question about the training? Did you run into a problem? Just wanna chat? Ask away on {{ site.support.platform }}! {% if session.support_channel %} (Channel: <a href="{{include.session.support_link}}{% include analytics.html %}">{{session.support_channel}}</a> ){%endif%} </li>
+	 <li><a href="{{include.session.support_link }}{% include analytics.html %}">{{ locale['ask-an-instructor'] }}</a> - {{ locale['ask-them-on'] }} {{ site.support.platform }}! {% if session.support_channel %} ({{ locale['channel'] }}: <a href="{{include.session.support_link}}{% include analytics.html %}">{{session.support_channel}}</a> ){%endif%} </li>
 
 
      <!-- feedback -->
-     <li><strong>Finished the session?</strong> - Let us know that you've finished it, and what you thought of it! On Slack: {% if session.support_channel %} (Channel: <a href="{{include.session.support_link}}{% include analytics.html %}">{{session.support_channel}}</a> ){%endif%}. Thanks!</li>
+	 <li><strong>{{ locale['finished'] }}</strong> - {{ locale['finished-text'] }} {{ locale['on-slack'] }}: {% if session.support_channel %} ({{ locale['channel'] }}: <a href="{{include.session.support_link}}{% include analytics.html %}">{{session.support_channel}}</a> ){%endif%}. {{ locale['thanks'] }}</li>
 
      <!-- don't forget to like and subscribe! -->
-	 <li><strong>Enjoyed it?</strong> - Like the video on YouTube, Tweet, and follow the GTN on Twitter! <a href="https://twitter.com/{{ site.twitter_username }}{% include analytics.html %}">@{{ site.twitter_username }}</a> </li>
+	 <li><strong>{{ locale['enjoyed'] }}</strong> - {{ locale['enjoyed-actions'] }} <a href="https://twitter.com/{{ site.twitter_username }}{% include analytics.html %}">@{{ site.twitter_username }}</a> </li>
 
     </ul>
    </div><!-- end card body -->

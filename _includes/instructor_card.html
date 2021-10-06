@@ -5,6 +5,7 @@
 {% assign affiliation-url = site.data.affiliations[aff].link %}
 {% assign affiliation-logo = site.data.affiliations[aff].logo %}
 {% assign affiliation-mouseover = site.data.affiliations[aff].mouseover %}
+{% assign locale = site.data.lang[page.lang] %}
 
 <div class="card speaker" style="width:200px">
   <div class="card-body"><center><h3 class="card-title">Speaker</h3></center></div>
@@ -19,7 +20,7 @@
     {% if affiliation-url %}
     <p class="card-text"><a href="{{affiliation-url}}"><span title="{{affiliation-mouseover}}">{{affiliation}}</span></a>
     {% endif %}
-    {% if include.who == 'awspolly' %} This helps us keep the video slides up-to-date more easily. {% endif %}
+    {% if include.who == 'awspolly' %} {{ locale['polly-explain'] }} {% endif %}
     </p>
     {% if affiliation-logo  %}
     <div class="logo"><img src="{{site.baseurl}}/{{site.logo_dir_affil}}/{{affiliation-logo}}" alt="{{affiliation}}"/></div>

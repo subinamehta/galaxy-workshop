@@ -1,25 +1,27 @@
 ---
 layout: page
 ---
+{% assign locale = site.data.lang[page.lang] %}
 
 {% if page.event_state == "wip" %}
-<div class="alert alert-primary">Welcome! The schedule is still under development but you can view the preliminary schedule below.</div>
+<div class="alert alert-primary">{{ locale['event-wip'] }}</div>
 {% elsif page.event_state == "running" %}
-<div class="alert alert-success">Welcome! The course has started!</div>
+<div class="alert alert-success">{{ locale['event-running'] }}</div>
 {% elsif page.event_state == "done" %}
-<div class="alert alert-danger">Welcome! The course has ended, but you can still work through the materials on your own.</div>
+<div class="alert alert-danger">{{ locale['event-done'] }}</div>
 {% endif %}
 
 {{ content }}
 
 {% if page.registration_form %}
 <div>
-<a href="{{ page.registration_form }}" class="btn btn-warning btn-lg">Click Here to Register</a>
+<a href="{{ page.registration_form }}" class="btn btn-warning btn-lg">{{ locale['click-here'] }}</a>
+
 </div>
 {% endif %}
 
 <p>
-Thank you for joining this course! Everything you need for this course can be found on this webpage. More information including links to all training materials can be found by clicking on each session.
+{{ locale['thanks-join'] }}
 </p>
 
 <a href="{{ site.support.join_link }}" class="btn btn-info btn-lg">GTN Slack space</a>
@@ -81,11 +83,11 @@ Thank you for joining this course! Everything you need for this course can be fo
 
    <!-- speaker and video -->
    {% if session.videos %}
-   <h3 class="session-section"> Video {{session.type | default: "Tutorial" }} </h3>
+   <h3 class="session-section"> {{ locale['video'] }} {{session.type | default: "Tutorial" }} </h3>
    {% include video-session.html session=session %}
    {% else %}
    {% unless session.type == 'icebreaker' %}{% unless session.type == 'setup' %}{% unless session.type == 'wrapup' %}{% unless session.type == 'post-event' %}
-   <h3 class="session-section"> Self-Study Tutorial </h3>
+   <h3 class="session-section"> {{ locale['self-study'] }} </h3>
    {{session.description}}
 
    {% include selfstudy-session.html session=session %}
@@ -97,7 +99,7 @@ Thank you for joining this course! Everything you need for this course can be fo
 
    <!-- session links  -->
    {% unless session.type == 'icebreaker' %}{% unless session.type == 'setup' %}{% unless session.type == 'wrapup' %}{% unless session.type == 'post-event' %}
-   <h3 class="session-section">Supporting Materials </h3>
+   <h3 class="session-section">{{ locale['supporting'] }}</h3>
    {% include session_materials.html session=session %}
    {% endunless %}{% endunless %}{% endunless %}{% endunless %}
 
@@ -114,14 +116,14 @@ Thank you for joining this course! Everything you need for this course can be fo
 
 
 <br/><br/><br/>
-<h1 id="acknowledgements">Acknowledgements</h1>
+<h1 id="acknowledgements">{{ locale['acknowledgements'] }}</h1>
 
-This Global Galaxy course is only possible thanks to a Global network of instructors and institutes.
+{{ locale['thanks-to'] }}
 
-<h2 id="hof">Presenters & Instructors & Facilitators & Community Caption Contributors</h2>
+<h2 id="hof">{{ locale['thanks-humans'] }}</h2>
 
 {% include hof.html %}
 
-<h2 id="institutions">Institutions</h2>
+<h2 id="institutions">{{ locale['thanks-institutions'] }}</h2>
 
 {% include institutions.html %}
