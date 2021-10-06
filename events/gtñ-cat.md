@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Single cell analysis using Galaxy
+title: Análisis de una sola celda con Galaxy
 site_title: GTÑ
 code_of_conduct_url: "https://galaxyproject.org/community/coc/"
 event_state: 'wip' # 'wip', 'running' or 'done'
@@ -14,9 +14,9 @@ certificates: true
 
 schedule:
     day1:
-      title: Welcome & Practical Information
+      title: Bienvenida e información práctica
       sessions:
-        - name: "Get set up for the course"
+        - name: "Prepárate para el curso"
           type: setup
         - link: meetnjoin
 
@@ -26,17 +26,17 @@ schedule:
       sessions:
         - name: "Icebreaker: Introduce yourself in Slack!"
           type: icebreaker
-          prompt: "Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)"
-        - link: introduction/galaxy-intro-short/slides
-        - link: introduction/galaxy-intro-short/tutorial
+          prompt: "Preséntese, díganos desde dónde se une y una cosa sobre su entorno (por ejemplo, está nevando afuera, hay una ardilla en mi porche, mi gato está en mi teclado)"
+        - link: introduction/galaxy-intro-short/slides/cat
+        - link: introduction/galaxy-intro-short/tutorial/cat
 
     ngs:
       title: Single Cell
       description: "Here we show you how to analyze your NGS data using Galaxy."
       sessions:
-        - link: transcriptomics-scrna-intro-slides
-        - link: transcriptomics/droplet-quantification-preprocessing/tutorial
-        - link: transcriptomics/scrna-seq-basic-pipeline/tutorial
+        - link: transcriptomics-scrna-intro-slides/cat
+        - link: transcriptomics/droplet-quantification-preprocessing/tutorial/cat
+        - link: transcriptomics/scrna-seq-basic-pipeline/tutorial/cat
 
     done:
       title: "All done?"

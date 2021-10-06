@@ -1218,6 +1218,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial:
 
 
 
+# Espanñol!
 introduction/galaxy-intro-short/slides/es:
   description: |
       TODO
@@ -1258,6 +1259,32 @@ introduction/galaxy-intro-short/tutorial/es:
     link: Kh89__cuDwQ
     speaker: nomadscientist
 
+transcriptomics/scrna-intro/slides/es:
+  description: |
+      T/N Single-cell RNA-seq analysis is a rapidly evolving field at the forefront
+      of transcriptomic research, used in high-throughput developmental studies
+      and rare transcript studies to examine cell heterogeneity within a
+      populations of cells. The cellular resolution and genome wide scope make
+      it possible to draw new conclusions that are not otherwise possible with
+      bulk RNA-seq. *Slides created by Mehmet Tekman*
+  material:
+  - link: topics/transcriptomics/tutorials/scrna-intro/slides_ES.html
+    title: Introducción al análisis de datos de scRNA-seq
+    type: Slides
+  name: Introducción al análisis de datos de scRNA-seq
+  support_channel: "#transcriptomics_single-cell-rnaseq-ES"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
+  type: Lecture
+  tags: [transcriptomics, single-cell]
+  videos:
+  - captions:
+    - mtekman
+    event_name: Smörgåsbord
+    length: 20M
+    link: D3qvYWZMFa0
+    speaker: awspolly
+
 transcriptomics/droplet-quantification-preprocessing/tutorial/es:
   name: Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin
   description: |
@@ -1280,7 +1307,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial/es:
     length: 30M
     speaker: nomadscientist
 
-transcriptomics/scrna-seq-basic-pipeline/tutorial:
+transcriptomics/scrna-seq-basic-pipeline/tutorial/es:
   name: Filtrado, representación y exploración de datos de RNA-seq de células únicas
   description: |
       T/N You've done all the work to make a single cell matrix, with gene counts
@@ -1303,3 +1330,109 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial:
     link: M6iepSJh0EQ
     length: 30M
     speaker: nomadscientist
+
+# Computer Aided Translation (not catalunya)
+introduction/galaxy-intro-short/slides/cat:
+  description: |
+      TODO
+  material:
+  - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Fslides.html&edit-text=&act=url"
+    title: Una breve introducción a Galaxy
+    type: slides
+  name: 'Una breve introducción a Galaxy (Slides)'
+  type: Tutorial
+  support_channel: "#galaxy-intro-short-CAT"
+  support_link: "TODO"
+  faq: "TODO"
+  tags: [gtñ]
+  videos:
+  - captions: [shiltemann, hexylena]
+    event_name: GTÑ
+    length: TODO
+    link: TODO # https://training.galaxyproject.org/training-material/videos/watch.html?v=introduction/tutorials/galaxy-intro-short/slides
+    speaker: awspolly
+
+introduction/galaxy-intro-short/tutorial/cat:
+  description: |
+      TODO
+  material:
+  - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Ftutorial.html&edit-text=&act=url"
+    title: Una breve introducción a Galaxy
+    type: Tutorial
+  name: 'A short introduction to Galaxy (Tutorial)'
+  type: Tutorial
+  support_channel: "#galaxy-intro-short-CAT"
+  support_link: "TODO"
+  faq: "TODO"
+  tags: [gtñ]
+  videos: []
+  #- captions: [nomadscientist]
+    #event_name: GTÑ
+    #length: 50M
+    #link: Kh89__cuDwQ
+    #speaker: nomadscientist
+    #
+transcriptomics/scrna-intro/slides/cat:
+  description: |
+    El análisis de secuencia de ARN de una sola célula es un campo en rápida
+    evolución a la vanguardia de la investigación transcriptómica, que se
+    utiliza en estudios de desarrollo de alto rendimiento y estudios de
+    transcripciones raras para examinar la heterogeneidad celular dentro de una
+    población de células. La resolución celular y el amplio alcance del genoma
+    hacen posible sacar nuevas conclusiones que de otro modo no serían posibles
+    con la secuencia de ARN masiva. * Diapositivas creadas por Mehmet Tekman *
+  material:
+  # TODO: doesn't work.
+  - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Ftranscriptomics%2Ftutorials%2Fscrna-intro%2Fslides.html&edit-text=&act=url"
+    title: Introducción al análisis de datos de scRNA-Seq
+    type: Diapositivas
+  name: Introducción al análisis de datos de scRNA-Seq
+  support_channel: "#transcriptomics_single-cell-rnaseq"
+  support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
+  faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
+  type: Lecture
+  tags: [transcriptomics, single-cell]
+  videos:
+  - captions:
+    - mtekman
+    event_name: Smörgåsbord
+    length: 20M
+    link: D3qvYWZMFa0
+    speaker: awspolly
+
+transcriptomics/droplet-quantification-preprocessing/tutorial:
+  name: 'Generating a single cell matrix using Alevin'
+  description: |
+      Este tutorial lo llevará de archivos FASTQ sin procesar a una matriz de
+      datos de genes de celda x en formato AnnData. ¿Qué es una matriz de datos
+      y qué es el formato AnnData? ¡Bueno, lo descubrirás! Es importante
+      destacar que este es el primer paso en el procesamiento de datos de una
+      sola celda para comenzar a analizarlos.%
+  material:
+  - type: Tutorial
+    link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html&edit-text=&act=url"
+  type: Self-Study with Video Walkthrough
+  support_channel: "#transcriptomics_single-cell-matrix-alevin-CAT"
+  support_link:
+  faq:
+  tags: [gtñ]
+  videos: []
+
+transcriptomics/scrna-seq-basic-pipeline/tutorial:
+  name: Filter, Plot and Explore Single-cell RNA-seq Data
+  description: |
+      You've done all the work to make a single cell matrix, with gene counts
+      and mitochondrial counts and buckets of cell metadata from all your
+      variables of interest, now it’s time to fully process our data, to remove
+      low quality cells, to reduce the many dimensions of data that make it
+      difficult to work with, and ultimately to try to define our clusters and
+      to find our biological meaning and insights!
+  material:
+  - type: Tutorial
+    link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html&edit-text=&act=url"
+  type: Self-Study with Video Walkthrough
+  support_channel: "#transcriptomics_single-cell-filter-plot-explore-CAT"
+  support_link:
+  faq:
+  tags: [gtñ]
+  videos: []
