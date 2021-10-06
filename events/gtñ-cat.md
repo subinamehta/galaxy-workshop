@@ -34,7 +34,7 @@ schedule:
       title: Single Cell
       description: "Here we show you how to analyze your NGS data using Galaxy."
       sessions:
-        - link: transcriptomics-scrna-intro-slides/cat
+        - link: transcriptomics/scrna-intro/slides/cat
         - link: transcriptomics/droplet-quantification-preprocessing/tutorial/cat
         - link: transcriptomics/scrna-seq-basic-pipeline/tutorial/cat
 

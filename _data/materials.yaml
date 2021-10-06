@@ -1400,7 +1400,7 @@ transcriptomics/scrna-intro/slides/cat:
     link: D3qvYWZMFa0
     speaker: awspolly
 
-transcriptomics/droplet-quantification-preprocessing/tutorial:
+transcriptomics/droplet-quantification-preprocessing/tutorial/cat:
   name: 'Generating a single cell matrix using Alevin'
   description: |
       Este tutorial lo llevará de archivos FASTQ sin procesar a una matriz de
@@ -1411,26 +1411,27 @@ transcriptomics/droplet-quantification-preprocessing/tutorial:
   material:
   - type: Tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html&edit-text=&act=url"
-  type: Self-Study with Video Walkthrough
+  type: Autoestudio con tutorial en video
   support_channel: "#transcriptomics_single-cell-matrix-alevin-CAT"
   support_link:
   faq:
   tags: [gtñ]
   videos: []
 
-transcriptomics/scrna-seq-basic-pipeline/tutorial:
+transcriptomics/scrna-seq-basic-pipeline/tutorial/cat:
   name: Filter, Plot and Explore Single-cell RNA-seq Data
   description: |
-      You've done all the work to make a single cell matrix, with gene counts
-      and mitochondrial counts and buckets of cell metadata from all your
-      variables of interest, now it’s time to fully process our data, to remove
-      low quality cells, to reduce the many dimensions of data that make it
-      difficult to work with, and ultimately to try to define our clusters and
-      to find our biological meaning and insights!
+      Ha hecho todo el trabajo para crear una matriz de una sola célula, con
+      recuentos de genes y recuentos de mitocondrias y cubos de metadatos
+      celulares de todas sus variables de interés, ahora es el momento de
+      procesar completamente nuestros datos, eliminar células de baja calidad,
+      reducir el muchas dimensiones de datos que hacen que sea difícil trabajar
+      con ellos y, en última instancia, tratar de definir nuestros grupos y
+      encontrar nuestro significado biológico y conocimientos.
   material:
   - type: Tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html&edit-text=&act=url"
-  type: Self-Study with Video Walkthrough
+  type: Autoestudio con tutorial en video
   support_channel: "#transcriptomics_single-cell-filter-plot-explore-CAT"
   support_link:
   faq:
