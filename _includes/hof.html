@@ -4,9 +4,15 @@
 {% endfor %}
 {% assign n = inst_keys | size %}
 {% assign inst_keys2 = inst_keys | sample: n %}
+{% if page.instructors %}
+  {% assign instructors = page.instructors %}
+{% else %}
+  {% assign instructors = inst_keys2 %}
+{% endif %}
+
 
 <div class="hall-of-fame">
-	{% for username in inst_keys2 %}
+	{% for username in instructors %}
 		{% assign instructor = site.data.instructors[username] %}
 		{% if username != "awspolly" %}
 		<div class="hall-of-fame-hero" id="{{ username }}">
