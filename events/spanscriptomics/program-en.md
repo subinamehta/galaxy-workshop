@@ -1,6 +1,7 @@
 ---
 layout: event
 title: Single cell analysis using Galaxy
+type: track
 site_title: GTÑ
 code_of_conduct_url: "https://galaxyproject.org/community/coc/"
 event_state: 'wip' # 'wip', 'running' or 'done'

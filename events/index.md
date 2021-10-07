@@ -15,13 +15,15 @@ layout: default
 	</thead>
 	<tbody>
 	{% for page in site.pages %}
-		{% if page.layout == 'event' %}
+		{% if page.layout == 'event' or page.type == 'event' %}
+        {% unless page.type == 'track'%}
 		<tr>
 			<td><a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a></td>
 			<td>{{ page.date_start }}</td>
 			<td>{{ page.date_end }}</td>
 			<td>{{ page.format }}</td>
 		</tr>
+        {% endunless %}
 		{% endif %}
 	{% endfor %}
 	</tbody>

@@ -2,6 +2,7 @@
 layout: event
 title: Análisis de células únicas por medio de Galaxy
 site_title: GTÑ
+type: track
 code_of_conduct_url: "https://galaxyproject.org/community/coc/"
 event_state: 'wip' # 'wip', 'running' or 'done'
 contacts: []
