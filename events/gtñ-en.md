@@ -12,7 +12,7 @@ registration_form:
 feedback_form:
 certificates: true
 lang: en
-tiaas_keyword: gtñ
+tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
 
 schedule:
