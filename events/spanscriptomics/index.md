@@ -13,7 +13,7 @@ slack: "TODO"
 
 ---
 
-# Gallantries Asynchronous Workshop/E-learning Platform
+# Course Title
 
 ![Course logo](logo.png){: style="float: right" width="300px"}
 
