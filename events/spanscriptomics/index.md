@@ -50,7 +50,7 @@ Welcome! Click the button below to register your interest
 **Formato:** Virtual y asincrónico. Todas las sesiones de capacitación están pregrabadas, puedes trabajar en ellas a tu propio ritmo, con instructores disponibles en línea para brindar asistencia durante el período de 2 días. \\
 **Soporte:** Canal de Slack ([enlace de invitación]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel) \\
 **Contacto:** [Wendi Bacon](mailto:Wendi.Bacon@gmail.com) \\
-**Organizado por:** [The Open University](https://www.openuniversity.edu/), [EMBL-EBI](https://www.ebi.ac.uk/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame).
+**Organizado por:** [The Open University](https://www.openuniversity.edu/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame).
 
 
 ## Registro
