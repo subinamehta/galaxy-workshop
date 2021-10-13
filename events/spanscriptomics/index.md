@@ -8,7 +8,7 @@ instructors:
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
   - shiltemann
   - hexylena
-interestform: "https://TODO"
+interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-plaza-para-el-taller-analisis-de-celulas-unica"
 slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-BA~Kht6N86JBhDq0uTIVdQ"
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
@@ -32,11 +32,10 @@ Como parte del estudio de investigación, te enviaremos una encuesta que tomará
 Recuerda que habrá un equipo capacitado y experto durante el curso dedicado a guiarte, responder tus preguntas y asegurarse de que aprendas no solo a tu propio ritmo sino que al finalizar hayas adquirido las habilidades objetivo de este taller. Si estás atorado, confundido o requieres una asesoría ¡Entra en contacto! ¡Estaremos encantados de ayudarte y saber de ti durante el curso!
 
 
-## Register your interest!
+## Registrar tu interés!
 
-Welcome! Click the button below to register your interest
 
-<a href="page.interestform"><button type="button" class="btn btn-success btn-lg">I'm interested!!</button></a>
+<a href="page.interestform"><button type="button" class="btn btn-success btn-lg">registrar tu interésa</button></a>
 
 
 <br/>
@@ -54,6 +53,7 @@ Welcome! Click the button below to register your interest
 
 
 ## Registro
+
 Completa el formulario de registro para inscribirte en este taller.
 
 
