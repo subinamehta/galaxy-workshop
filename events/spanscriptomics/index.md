@@ -35,7 +35,7 @@ Recuerda que habrá un equipo capacitado y experto durante el curso dedicado a g
 ## Registrar tu interés!
 
 
-<a href="page.interestform"><button type="button" class="btn btn-success btn-lg">registrar tu interésa</button></a>
+<a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">registrar tu interésa</button></a>
 
 
 <br/>
@@ -94,6 +94,17 @@ We hope you remember that there is a trained, expert team during the course dedi
 **Support:** Slack Channel  ([invite link]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel)  \\
 **Contact:** [Wendi Bacon](mailto:Wendi.Bacon@gmail.com)  \\
 **Organized by:** [The Open University](https://www.openuniversity.edu/), [EMBL-EBI](https://www.ebi.ac.uk/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame). \\
+
+
+## Register your interest!
+
+
+<a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Register your interest</button></a>
+
+You will be notified when final registration opens.
+
+<br/>
+
 
 
 ## Program
