@@ -32,7 +32,7 @@ Como parte del estudio de investigación, te enviaremos una encuesta que tomará
 Recuerda que habrá un equipo capacitado y experto durante el curso dedicado a guiarte, responder tus preguntas y asegurarse de que aprendas no solo a tu propio ritmo sino que al finalizar hayas adquirido las habilidades objetivo de este taller. Si estás atorado, confundido o requieres una asesoría ¡Entra en contacto! ¡Estaremos encantados de ayudarte y saber de ti durante el curso!
 
 
-## Registrar tu interés!
+## ¡Registrar tu interés!
 
 
 <a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">registrar tu interésa</button></a>
