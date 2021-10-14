@@ -1,13 +1,26 @@
 ---
 layout: default
-title: Spanscriptomics Training Study
+title:Análisis de células únicas por medio de Galaxy | Single cell analysis using Galaxy
+
 type: event
 format: async
 date_start: 2021-11-29
 instructors:
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
-  - shiltemann
+  - shiltemann 
   - hexylena
+  - Beatriz Serrano-Solano
+  - Grisel Alejandra Escobar Zepeda
+  - Irelka Colina
+  - Jolene Ramsey
+  - Lorena Gallego-Villar
+  - María Bernardi
+  - Melissa Black
+  - Nicolás Palopoli
+  - Patricia Carvajal-López
+  - Stefana Dreptate
+
+
 interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"
 slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-BA~Kht6N86JBhDq0uTIVdQ"
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
@@ -37,6 +50,8 @@ Recuerda que habrá un equipo capacitado y experto durante el curso dedicado a g
 
 <a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Registra tu interés</button></a>
 
+Por favor deja tu dirección de correo electrónico para notificarte cuando el registro esté abierto
+
 
 <br/>
 
@@ -57,20 +72,15 @@ Recuerda que habrá un equipo capacitado y experto durante el curso dedicado a g
 Completa el formulario de registro para inscribirte en este taller.
 
 
-## Program
-
-Welcome! We will have 3 programs, click below to jump to the right page.
-
-<a href="{{site.baseurl}}/events/spanscriptomics/program-es"><button type="button" class="btn btn-warning btn-info">Español</button></a>
 
 
-<a href="{{site.baseurl}}/events/spanscriptomics/program-en"><button type="button" class="btn btn-warning btn-info">English</button></a>
 
 
-<a href="{{site.baseurl}}/events/spanscriptomics/program-cat"><button type="button" class="btn btn-warning btn-info">Computer-aided translation</button></a>
 
 
-<br><br>
+
+
+
 
 # English Version
 
@@ -109,17 +119,6 @@ You will be notified when final registration opens.
 
 ## Program
 
-Welcome! We will have 3 programs, click below to jump to the right page.
-
-<a href="{{site.baseurl}}/events/spanscriptomics/program-es"><button type="button" class="btn btn-warning btn-info">Español</button></a>
-
-
-<a href="{{site.baseurl}}/events/spanscriptomics/program-en"><button type="button" class="btn btn-warning btn-info">English</button></a>
-
-
-<a href="{{site.baseurl}}/events/spanscriptomics/program-cat"><button type="button" class="btn btn-warning btn-info">Computer-aided translation</button></a>
-
-<br>
 
 
 ## Acknowledgements
