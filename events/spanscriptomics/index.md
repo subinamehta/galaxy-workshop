@@ -7,8 +7,10 @@ format: async
 date_start: 2021-11-29
 instructors:
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
-  - Beatriz Serrano-Solano
-  - Grisel Alejandra Escobar Zepeda
+  - shiltemann
+  - hexylena
+  - beatrizserrano
+#  - Grisel Alejandra Escobar Zepeda
   - Irelka Colina
   - Jolene Ramsey
   - Lorena Gallego-Villar
@@ -17,8 +19,6 @@ instructors:
   - Nicolás Palopoli
   - Patricia Carvajal-López
   - Stefana Dreptate
-  - shiltemann
-  - hexylena
 
 
 interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"
