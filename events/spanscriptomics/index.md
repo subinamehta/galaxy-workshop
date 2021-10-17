@@ -1,14 +1,12 @@
 ---
 layout: default
-title:Análisis de células únicas por medio de Galaxy | Single cell analysis using Galaxy
+title: Análisis de células únicas por medio de Galaxy | Single cell analysis using Galaxy
 
 type: event
 format: async
 date_start: 2021-11-29
 instructors:
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
-  - shiltemann 
-  - hexylena
   - Beatriz Serrano-Solano
   - Grisel Alejandra Escobar Zepeda
   - Irelka Colina
@@ -19,6 +17,8 @@ instructors:
   - Nicolás Palopoli
   - Patricia Carvajal-López
   - Stefana Dreptate
+  - shiltemann
+  - hexylena
 
 
 interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"
@@ -132,6 +132,3 @@ This workshop is only possible thanks to our awesome team and their and institut
 ### Institutions
 
  ![image](https://user-images.githubusercontent.com/88791681/137364558-991bcc5c-5b2b-4759-bf12-15b83c9e2134.png)![image](https://user-images.githubusercontent.com/88791681/137365481-1d6c5499-7bc6-44b0-9c8d-d305d7571673.png)
-
-
-
