@@ -6,6 +6,8 @@ format: async
 date_start: 2021-11-29
 instructors:
   - nomadscientist # TODO: add everybody to CONTRIBUTORS.yaml and here
+  - ales-ibt
+  - pclo
   - shiltemann
   - hexylena
 interestform: "https://TODO"
