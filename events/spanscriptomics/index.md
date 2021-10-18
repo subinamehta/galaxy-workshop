@@ -66,7 +66,7 @@ Como parte del estudio de investigación, te enviaremos una encuesta que tomará
 **Costo:** Gratis \\
 **Formato:** Virtual y asincrónico. Todas las sesiones de capacitación están pregrabadas, puedes trabajar en ellas a tu propio ritmo, con instructores disponibles en línea para brindar asistencia durante el período de 2 días. \\
 **Soporte:** Canal de Slack ([enlace de invitación]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel) \\
-**Contacto:** [Stefana Dreptate](mailto:stefana.dreptate@gmail.com) \\ [Wendi Bacon](mailto:Wendi.Bacon@gmail.com) \\
+**Contacto:** [Stefana Dreptate](mailto:stefana.dreptate@gmail.com),[Wendi Bacon](mailto:Wendi.Bacon@gmail.com) \\
 **Organizado por:** [The Open University](https://www.openuniversity.edu/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame).
 
 ## Program
@@ -119,7 +119,7 @@ As part of the research study, we will send out a survey that will take five to 
 **Cost:** Free \\
 **Format:** Virtual and asynchronous. All training sessions are pre-recorded, you can work through these at your own pace, with instructors available online for support for the 2 days period. \\
 **Support:** Slack Channel  ([invite link]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel)  \\
-**Contact:** [Wendi Bacon](mailto:Wendi.Bacon@gmail.com)  \\
+**Contact:**[Stefana Dreptate](mailto:stefana.dreptate@gmail.com), [Wendi Bacon](mailto:Wendi.Bacon@gmail.com)  \\
 **Organized by:** [The Open University](https://www.openuniversity.edu/), [EMBL-EBI](https://www.ebi.ac.uk/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame). \\
 
 ## Program
