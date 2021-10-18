@@ -18,7 +18,7 @@ instructors:
   - Lorena Gallego-Villar
   - María Bernardi
   - Melissa Black
-  - Nicolás Palopoli
+#  - Nicolás Palopoli
   - Patricia Carvajal-López
   - Stefana Dreptate
 
@@ -35,27 +35,28 @@ slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
 [Please see below for English version]()
 
-Los días 29 y 30 de noviembre de 2021, organizaremos un taller global de sobre el análisis de datos Single Cell (o de Célula Única) utilizando tutoriales de la Red de Entrenamiento de Galaxy (o GTN por sus siglas en inglés: Galaxy Training Network). Este será un **evento en línea que abarcará todas las zonas horarias**. Todas las sesiones de entrenamiento están pregrabadas, por lo que puedes trabajar en ellas **a tu propio ritmo** administrando tu tiempo como más te convenga.
-¡Estaremos encantados de trabajar contigo durante estos dos días de aprendizaje, diversión y desafíos que superaremos juntos mientras adquieres algunas de las habilidades más buscadas en bioinformática!
+Los días 29 y 30 de noviembre de 2021, organizaremos un taller global sobre el análisis de datos Single Cell (o de Célula Única) utilizando tutoriales de la Red de Entrenamiento de Galaxy (o GTN por sus siglas en inglés: Galaxy Training Network). Este será un **evento en línea que abarcará todas las zonas horarias**. Todas las sesiones de entrenamiento están pregrabadas, por lo que puedes trabajar en ellas **a tu propio ritmo** administrando tu tiempo como más te convenga.
 
-**¿Qué es el análisis de datos de Single Cell?** Aquí nos enfocamos específicamente en la secuenciación de ARN, donde se identifican todas (¡o un subconjunto!) de los transcritos generados por una sola célula. Aunque computacionalmente es complicado, biólogos de todo el mundo están utilizando esta poderosa técnica para identificar tipos de células en diferentes organismos y su asociación con enfermedades, envejecimiento y más. En este taller, se te proveerá de un conjunto de datos reales para que los analices como un caso de estudio, con el que podrás experimentar todas los retos y tribulaciones del procesamiento de datos desordenados y tomar decisiones a lo largo del análisis. Además, tendrás la oportunidad de visualizar los datos después de cada tarea, para que puedas comprender mejor el papel de los parámetros y su efecto en el resultado final.
 
-Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre el impacto de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.
+ **¿Qué es el análisis de datos de Single Cell?** Aquí nos enfocamos específicamente en la secuenciación de ARN, donde se identifican todas (¡o un subconjunto!) de los transcritos generados por una sola célula. Aunque computacionalmente es complicado, biólogos de,<a href="https://www.frontiersin.org/articles/10.3389/feduc.2021.710971/full#h1"target="_blank">todo el mundo!</a> están utilizando esta poderosa técnica para identificar tipos de células en diferentes organismos y su asociación con enfermedades, envejecimiento y más.
 
-Como parte del estudio de investigación, te enviaremos una encuesta que tomará de cinco a diez minutos al final del taller, que incluirá una pregunta sobre si hiciste uso del material en distintas versiones al que te fue asignado al inicio.
 
-Recuerda que habrá un equipo capacitado y experto durante el curso dedicado a guiarte, responder tus preguntas y asegurarse de que aprendas no solo a tu propio ritmo sino que al finalizar hayas adquirido las habilidades objetivo de este taller. Si estás atorado, confundido o requieres una asesoría ¡Entra en contacto! ¡Estaremos encantados de ayudarte y saber de ti durante el curso!
+ Habrá un equipo capacitado y experto durante el curso dedicado a guiarte, responder tus preguntas y asegurarse de que aprendas no solo a tu propio ritmo sino que al finalizar hayas adquirido las habilidades objetivo de este taller. Si estás atorado, confundido o requieres una asesoría ¡Entra en contacto en Slack! ¡Estaremos encantados de ayudarte y saber de ti durante el curso!  
 
 
 ## ¡Registra tu interes!
-
 
 <a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Registra tu interés</button></a>
 
 Por favor deja tu dirección de correo electrónico para notificarte cuando el registro esté abierto
 
-
 <br/>
+
+
+Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">el impacto!</a> de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.
+
+Como parte del estudio de investigación, te enviaremos una encuesta que tomará de cinco a diez minutos al final del taller, que incluirá una pregunta sobre si hiciste uso del material en distintas versiones al que te fue asignado al inicio.
+
 
 
 ## Información práctica
@@ -65,18 +66,18 @@ Por favor deja tu dirección de correo electrónico para notificarte cuando el r
 **Costo:** Gratis \\
 **Formato:** Virtual y asincrónico. Todas las sesiones de capacitación están pregrabadas, puedes trabajar en ellas a tu propio ritmo, con instructores disponibles en línea para brindar asistencia durante el período de 2 días. \\
 **Soporte:** Canal de Slack ([enlace de invitación]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel) \\
-**Contacto:** [Wendi Bacon](mailto:Wendi.Bacon@gmail.com) \\
+**Contacto:** [Stefana Dreptate](mailto:stefana.dreptate@gmail.com) \\ [Wendi Bacon](mailto:Wendi.Bacon@gmail.com) \\
 **Organizado por:** [The Open University](https://www.openuniversity.edu/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame).
 
+## Program
 
-## Registro
-
-Completa el formulario de registro para inscribirte en este taller.
-
-
-
-
-
+|   | Actividad                                                                         |       Recursos                                 |Duración|              Autor original                     |
+|---|--------------------
+| 1 | Introducción a Galaxy                                                             |  Lección/ Diapositivas                         | 30 min | Saskia Hiltemann, Helena Rasche, Nicola Soranzo |
+| 2 | Breve introducción a Galaxy                                                       |  Material guiado/ Flujo de trabajo y historial | 30 min | Anna Syme                                       |
+| 3 | Introducción al análisis de RNA-seq de células únicas                             |  Lección/ Diapositivas                         | 30 min | Mehmet Tekman                                   |
+| 4 | Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin  | Material guiado/ Flujo de trabajo y historial  |  3 h   | Wendi Bacon, Jonathan  Manning                  |
+| 5 | Filtrado, representación y exploración de datos de RNA-seq de células únicas      | Material guiado/ Flujo de trabajo y historia   |  3h    | Wendi Bacon                                     |
 
 
 
@@ -87,15 +88,29 @@ Completa el formulario de registro para inscribirte en este taller.
 # English Version
 
 On November 29th & 30th, 2021, we will organize a global 2-day Galaxy Training event on single cell analysis using GTN (Galaxy Training Network) tutorials. This will be an **online event**, spanning **all time zones.** All training sessions are pre-recorded, so you can work through them **at your own pace** and manage your own time.
-We are delighted to have you for two days of learning, fun and challenges that we will overcome together while you get to acquire some of the most wanted skills in bioinformatics!
 
-**What is single cell analysis?** Specifically, here we specifically focus on single cell RNA-seq, where all (or a subset!) of the transcripts of a cell are identified. While computationally tricky, this powerful technique is being used by biologists around the world to identify all the cell types within organisms, across disease, age, and more. In this workshop, you will be given a real dataset to follow as a case study for single cell analysis, to experience all the trials and tribulations of analysing messy data and making decisions throughout analysis. You will have the opportunity to visualise the data after each task, so that you can better understand the role of the parameters and each of their effect on your data.
 
-This workshop is **aimed at native Spanish** speakers around the world. The Galaxy Training Ñetwork of native Spanish speaking bioinformaticians has developed Spanish translated materials. This workshop forms part of a wider study on the impact of translating materials from English into Spanish. While you will be given the option of whether to use English, auto-translated Spanish, or human-translated Spanish resources throughout the workshop, we will randomly assign you to a language-stream to start you off. To be clear, you can change at any time!
+**What is single cell analysis?** Specifically, here we specifically focus on single cell RNA-seq, where all (or a subset!) of the transcripts of a cell are identified. While computationally tricky, this powerful technique is being used by biologists <a href="https://www.frontiersin.org/articles/10.3389/feduc.2021.710971/full#h1"target="_blank">around the world!</a> to identify all the cell types within organisms, across disease, age, and more.
+
+
+We hope you remember that there is a trained, expert team during the course dedicated to guiding you, answering your questions and making sure you learn not only at your own pace but that you leave with the skills you have signed up to learn. Reach out! Whether you are stuck, confused or need clarification. We look forward to hearing from you during the course!
+
+
+## Register your interest!
+
+<a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Register your interest</button></a>
+
+You will be notified when final registration opens.
+
+<br/>
+
+
+
+
+This workshop is **aimed at native Spanish** speakers around the world. The Galaxy Training Ñetwork of native Spanish speaking bioinformaticians has developed Spanish translated materials. This workshop forms part of a wider study on the  <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">impact of translating materials!</a> from English into Spanish. While you will be given the option of whether to use English, auto-translated Spanish, or human-translated Spanish resources throughout the workshop, we will randomly assign you to a language-stream to start you off. To be clear, you can change at any time!
 
 As part of the research study, we will send out a survey that will take five to ten minutes at the end of the workshop, which will include a question on whether you swapped language-streams or not.
 
-We hope you remember that there is a trained, expert team during the course dedicated to guiding you, answering your questions and making sure you learn not only at your own pace but that you leave with the skills you have signed up to learn. Reach out! Whether you are stuck, confused or need clarification. We look forward to hearing from you during the course!
 
 ## Practical Information
 
@@ -107,19 +122,18 @@ We hope you remember that there is a trained, expert team during the course dedi
 **Contact:** [Wendi Bacon](mailto:Wendi.Bacon@gmail.com)  \\
 **Organized by:** [The Open University](https://www.openuniversity.edu/), [EMBL-EBI](https://www.ebi.ac.uk/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame). \\
 
-
-## Register your interest!
-
-
-<a href="{{page.interestform}}"><button type="button" class="btn btn-success btn-lg">Register your interest</button></a>
-
-You will be notified when final registration opens.
-
-<br/>
-
-
-
 ## Program
+
+|   | Activity                                          |    Resources                              |Time    |              Original author                    |
+|---|--------------------
+| 1 | Introduction to Galaxy                            | Lecture slides                            | 30 min | Saskia Hiltemann, Helena Rasche, Nicola Soranzo |
+| 2 | Short introduction to Galaxy                      | Tutorial Walkthrough/ Workflow & history  | 30 min | Anna Syme                                       |
+| 3 | Introduction to single cell RNA-seq analysis      | Lecture slides                            | 30 min | Mehmet Tekman                                   |
+| 4 | Generating a single cell matrix using Alevin      | Tutorial Walkthrough/ Workflow & history  |  3h    | Wendi Bacon, Jonathan  Manning                  |
+| 5 | Filter, Plot and Explore Single-cell RNA-seq Data | Tutorial Walkthrough/ Workflow & history  |  3h    | Wendi Bacon                                     |
+
+
+
 
 
 
