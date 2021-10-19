@@ -53,12 +53,6 @@ Por favor deja tu dirección de correo electrónico para notificarte cuando el r
 <br/>
 
 
-Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">el impacto!</a> de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.
-
-Como parte del estudio de investigación, te enviaremos una encuesta que tomará de cinco a diez minutos al final del taller, que incluirá una pregunta sobre si hiciste uso del material en distintas versiones al que te fue asignado al inicio.
-
-
-
 ## Información práctica
 
 **Cuándo:** del 29 al 30 de noviembre de 2021 (todas las zonas horarias) \\
@@ -79,6 +73,13 @@ Como parte del estudio de investigación, te enviaremos una encuesta que tomará
 | 4 | Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin  | Material guiado/ Flujo de trabajo y historial  |  3 h   | Wendi Bacon, Jonathan  Manning                  |
 | 5 | Filtrado, representación y exploración de datos de RNA-seq de células únicas      | Material guiado/ Flujo de trabajo y historia   |  3h    | Wendi Bacon                                     |
 
+
+
+Spanscriptomics: "?Porqué?"
+
+Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">el impacto!</a> de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.
+
+Como parte del estudio de investigación, te enviaremos una encuesta que tomará de cinco a diez minutos al final del taller, que incluirá una pregunta sobre si hiciste uso del material en distintas versiones al que te fue asignado al inicio.
 
 
 
@@ -105,13 +106,6 @@ You will be notified when final registration opens.
 <br/>
 
 
-
-
-This workshop is **aimed at native Spanish** speakers around the world. The Galaxy Training Ñetwork of native Spanish speaking bioinformaticians has developed Spanish translated materials. This workshop forms part of a wider study on the  <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">impact of translating materials!</a> from English into Spanish. While you will be given the option of whether to use English, auto-translated Spanish, or human-translated Spanish resources throughout the workshop, we will randomly assign you to a language-stream to start you off. To be clear, you can change at any time!
-
-As part of the research study, we will send out a survey that will take five to ten minutes at the end of the workshop, which will include a question on whether you swapped language-streams or not.
-
-
 ## Practical Information
 
 **When:** 29th- 30th of November 2021 (all time zones) \\
@@ -133,6 +127,13 @@ As part of the research study, we will send out a survey that will take five to 
 | 5 | Filter, Plot and Explore Single-cell RNA-seq Data | Tutorial Walkthrough/ Workflow & history  |  3h    | Wendi Bacon                                     |
 
 
+
+Spanscriptomics: "Why?"
+
+This workshop is **aimed at native Spanish** speakers around the world. The Galaxy Training Ñetwork of native Spanish speaking bioinformaticians has developed Spanish translated materials. This workshop forms part of a wider study on the  <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">impact of translating materials!</a> from English into Spanish. While you will be given the option of whether to use English, auto-translated Spanish, or human-translated Spanish resources throughout the workshop, we will randomly assign you to a language-stream to start you off. To be clear, you can change at any time!
+The language survey within this workshop forms part of a larger project on decolonisation of science education, which may lead to large-scale translation of learning materials both from and into English. We appreciate your participation in this study!
+
+As part of the research study, we will send out a survey that will take five to ten minutes at the end of the workshop, which will include a question on whether you swapped language-streams or not.
 
 
 
