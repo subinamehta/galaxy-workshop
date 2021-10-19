@@ -38,7 +38,7 @@ slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 Los días 29 y 30 de noviembre de 2021, organizaremos un taller global sobre el análisis de datos Single Cell (o de Célula Única) utilizando tutoriales de la Red de Entrenamiento de Galaxy (o GTN por sus siglas en inglés: Galaxy Training Network). Este será un **evento en línea que abarcará todas las zonas horarias**. Todas las sesiones de entrenamiento están pregrabadas, por lo que puedes trabajar en ellas **a tu propio ritmo** administrando tu tiempo como más te convenga.
 
 
- **¿Qué es el análisis de datos de Single Cell?** Aquí nos enfocamos específicamente en la secuenciación de ARN, donde se identifican todas (¡o un subconjunto!) de los transcritos generados por una sola célula. Aunque computacionalmente es complicado, biólogos de,<a href="https://www.frontiersin.org/articles/10.3389/feduc.2021.710971/full#h1"target="_blank">todo el mundo!</a> están utilizando esta poderosa técnica para identificar tipos de células en diferentes organismos y su asociación con enfermedades, envejecimiento y más.
+ **¿Qué es el análisis de datos de Single Cell?** Aquí nos enfocamos específicamente en la secuenciación de ARN, donde se identifican todas (¡o un subconjunto!) de los transcritos generados por una sola célula. Aunque computacionalmente es complicado, biólogos de, <a href="https://www.frontiersin.org/articles/10.3389/feduc.2021.710971/full#h1"target="_blank">todo el mundo!</a> están utilizando esta poderosa técnica para identificar tipos de células en diferentes organismos y su asociación con enfermedades, envejecimiento y más.
 
 
  Habrá un equipo capacitado y experto durante el curso dedicado a guiarte, responder tus preguntas y asegurarse de que aprendas no solo a tu propio ritmo sino que al finalizar hayas adquirido las habilidades objetivo de este taller. Si estás atorado, confundido o requieres una asesoría ¡Entra en contacto en Slack! ¡Estaremos encantados de ayudarte y saber de ti durante el curso!  
@@ -65,17 +65,17 @@ Por favor deja tu dirección de correo electrónico para notificarte cuando el r
 
 ## Program
 
-|   | Actividad                                                                         |       Recursos                                 |Duración|              Autor original                     |
-|---|--------------------
-| 1 | Introducción a Galaxy                                                             |  Lección/ Diapositivas                         | 30 min | Saskia Hiltemann, Helena Rasche, Nicola Soranzo |
-| 2 | Breve introducción a Galaxy                                                       |  Material guiado/ Flujo de trabajo y historial | 30 min | Anna Syme                                       |
-| 3 | Introducción al análisis de RNA-seq de células únicas                             |  Lección/ Diapositivas                         | 30 min | Mehmet Tekman                                   |
-| 4 | Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin  | Material guiado/ Flujo de trabajo y historial  |  3 h   | Wendi Bacon, Jonathan  Manning                  |
-| 5 | Filtrado, representación y exploración de datos de RNA-seq de células únicas      | Material guiado/ Flujo de trabajo y historia   |  3h    | Wendi Bacon                                     |
+|   |                           Actividad                                               |             Recursos                 |Duración|                   Autor/a original                        |
+|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Introducción a Galaxy                                                             | Lección, Diapositivas & Video        | 30 min | Saskia Hiltemann, Helena Rasche, Nicola Soranzo           |
+| 2 | Breve introducción a Galaxy                                                       | Material guiado & Flujo de trabajo   | 30 min | Anna Syme                                                 |
+| 3 | Introducción al análisis de RNA-seq de células únicas                             | Lección, Diapositivas & Video        | 30 min | Mehmet Tekman                                             |
+| 4 | Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin  | Material guiado & Flujo de trabajo   |  3 h   | Wendi Bacon, Jonathan  Manning                            |
+| 5 | Filtrado, representación y exploración de datos de RNA-seq de células únicas      | Material guiado & Flujo de trabajo   |  3h    | Wendi Bacon                                               |
 
 
 
-Spanscriptomics: "¿Porqué?"
+## Spanscriptomics: "¿Porqué?"
 
 Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">el impacto!</a> de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.
 
@@ -118,19 +118,19 @@ You will be notified when final registration opens.
 
 ## Program
 
-|   | Activity                                          |    Resources                              |Time    |              Original author                    |
-|---|--------------------
-| 1 | Introduction to Galaxy                            | Lecture slides                            | 30 min | Saskia Hiltemann, Helena Rasche, Nicola Soranzo |
-| 2 | Short introduction to Galaxy                      | Tutorial Walkthrough/ Workflow & history  | 30 min | Anna Syme                                       |
-| 3 | Introduction to single cell RNA-seq analysis      | Lecture slides                            | 30 min | Mehmet Tekman                                   |
-| 4 | Generating a single cell matrix using Alevin      | Tutorial Walkthrough/ Workflow & history  |  3h    | Wendi Bacon, Jonathan  Manning                  |
-| 5 | Filter, Plot and Explore Single-cell RNA-seq Data | Tutorial Walkthrough/ Workflow & history  |  3h    | Wendi Bacon                                     |
+|   |                  Activity                         |             Resources             |  Time  |              Original author                    |
+|---|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Introduction to Galaxy                            | Lecture slides & video            | 30 min | Saskia Hiltemann, Helena Rasche, Nicola Soranzo |
+| 2 | Short introduction to Galaxy                      | Tutorial & Walkthrough video      | 30 min | Anna Syme                                       |
+| 3 | Introduction to single cell RNA-seq analysis      | Lecture slides & video            | 30 min | Mehmet Tekman                                   |
+| 4 | Generating a single cell matrix using Alevin      | Tutorial & Walkthrough video      |  3h    | Wendi Bacon, Jonathan  Manning                  |
+| 5 | Filter, Plot and Explore Single-cell RNA-seq Data | Tutorial & Walkthrough video      |  3h    | Wendi Bacon                                     |
 
 
 
-Spanscriptomics: "Why?"
+## Spanscriptomics: "Why?"
 
-This workshop is **aimed at native Spanish** speakers around the world. The Galaxy Training Ñetwork of native Spanish speaking bioinformaticians has developed Spanish translated materials. This workshop forms part of a wider study on the  <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">impact of translating materials!</a> from English into Spanish. While you will be given the option of whether to use English, auto-translated Spanish, or human-translated Spanish resources throughout the workshop, we will randomly assign you to a language-stream to start you off. To be clear, you can change at any time!
+This workshop is **aimed at native Spanish** speakers around the world. The Galaxy Training Ñetwork of native Spanish speaking bioinformaticians has developed Spanish translated materials. This workshop forms part of a wider study on the <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">impact of translating materials!</a> from English into Spanish. While you will be given the option of whether to use English, auto-translated Spanish, or human-translated Spanish resources throughout the workshop, we will randomly assign you to a language-stream to start you off. To be clear, you can change at any time!
 The language survey within this workshop forms part of a larger project on decolonisation of science education, which may lead to large-scale translation of learning materials both from and into English. We appreciate your participation in this study!
 
 As part of the research study, we will send out a survey that will take five to ten minutes at the end of the workshop, which will include a question on whether you swapped language-streams or not.
