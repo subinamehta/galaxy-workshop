@@ -75,7 +75,7 @@ Por favor deja tu dirección de correo electrónico para notificarte cuando el r
 
 
 
-Spanscriptomics: "?Porqué?"
+Spanscriptomics: "¿Porqué?"
 
 Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">el impacto!</a> de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.
 
