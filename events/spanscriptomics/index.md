@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spanscriptomics Training Study
+title: Spanscriptomics: Análisis de células únicas por medio de Galaxy | Single cell analysis using Galaxy
 type: event
 format: async
 date_start: 2021-11-29
@@ -16,11 +16,11 @@ slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
 ---
 
-# Spanscriptomics
+# Spanscriptomics: Análisis de células únicas por medio de Galaxy
 
 ![Course logo](logo.png){: style="float: right" width="300px"}
 
-[Please see below for English version]()
+[Please see below for English version](https://github.com/gallantries/galaxy-workshop/blob/5498767ed0a2fef33f32c6b60c0697a745ffb35b/events/spanscriptomics/index.md#Spanscriptomics:-Single-cell-analysis-using-Galaxy)
 
 Los días 29 y 30 de noviembre de 2021, organizaremos un taller global de sobre el análisis de datos Single Cell (o de Célula Única) utilizando tutoriales de la Red de Entrenamiento de Galaxy (o GTN por sus siglas en inglés: Galaxy Training Network). Este será un **evento en línea que abarcará todas las zonas horarias**. Todas las sesiones de entrenamiento están pregrabadas, por lo que puedes trabajar en ellas **a tu propio ritmo** administrando tu tiempo como más te convenga.
 ¡Estaremos encantados de trabajar contigo durante estos dos días de aprendizaje, diversión y desafíos que superaremos juntos mientras adquieres algunas de las habilidades más buscadas en bioinformática!
@@ -74,7 +74,7 @@ Welcome! We will have 3 programs, click below to jump to the right page.
 
 <br><br>
 
-# English Version
+# Spanscriptomics: Single cell analysis using Galaxy
 
 On November 29th & 30th, 2021, we will organize a global 2-day Galaxy Training event on single cell analysis using GTN (Galaxy Training Network) tutorials. This will be an **online event**, spanning **all time zones.** All training sessions are pre-recorded, so you can work through them **at your own pace** and manage your own time.
 We are delighted to have you for two days of learning, fun and challenges that we will overcome together while you get to acquire some of the most wanted skills in bioinformatics!
