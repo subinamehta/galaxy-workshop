@@ -84,7 +84,7 @@ Como parte del estudio de investigación, te enviaremos una encuesta que tomará
 ## Agredecimientos
 
 Este taller ha sido posible solo gracias a nuestro fabuloso equipo y sus Instituciones colaboradoras. .
-Estamos agradecidos por la donación hecha por parte de <a href="https://www.biologists.com/"target="_blank">The company of Biologists!</a>
+Estamos agradecidos por la donación hecha por parte de [The Company of Biologists](https://www.biologists.com/)
 
 ### Presentadores, instructoras/es, facilitadoras/es, organizadoras/es y el resto del personal
 
@@ -133,7 +133,7 @@ You will be notified when final registration opens.
 **Format:** Virtual and asynchronous. All training sessions are pre-recorded, you can work through these at your own pace, with instructors available online for support for the 2 days period. \\
 **Support:** Slack Channel  ([invite link]({{page.slack_invite}}), [#spanscriptomics]({{page.slack_channel}}) channel)  \\
 **Contact:**[Stefana Dreptate](mailto:stefana.dreptate@gmail.com), [Wendi Bacon](mailto:Wendi.Bacon@gmail.com)  \\
-**Organized by:** [The Open University](https://www.openuniversity.edu/), [EMBL-EBI](https://www.ebi.ac.uk/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame). \\
+**Organized by:** [The Open University](https://www.openuniversity.edu/), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame). \\
 
 ## Program
 
@@ -159,8 +159,8 @@ As part of the research study, we will send out a survey that will take five to 
 
 ## Acknowledgements
 
-This workshop is only possible thanks to our awesome team and their and institutes.
-We are thankful for the donation made by <a href="https://www.biologists.com/"target="_blank">The company of Biologists!</a>
+This workshop is only possible thanks to our awesome team and their institutes.
+We are thankful for the donation made by [The Company of Biologists](https://www.biologists.com/)
 
 ### Presenters & Instructors & Facilitators & Organizers & Staff
 
