@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Análisis de células únicas por medio de Galaxy | Single cell analysis using Galaxy
-
+title: Spanscriptomics: Análisis de células únicas por medio de Galaxy | Single cell analysis using Galaxy
 type: event
 format: async
 date_start: 2021-11-29
@@ -33,7 +32,7 @@ slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
 ![Course logo](logo.png){: style="float: right" width="300px"}
 
-[Please see below for English version]()
+[In English](https://github.com/gallantries/galaxy-workshop/blob/5498767ed0a2fef33f32c6b60c0697a745ffb35b/events/spanscriptomics/index.md#Spanscriptomics:-Single-cell-analysis-using-Galaxy)
 
 Los días 29 y 30 de noviembre de 2021, organizaremos un taller global sobre el análisis de datos Single Cell (o de Célula Única) utilizando tutoriales de la Red de Entrenamiento de Galaxy (o GTN por sus siglas en inglés: Galaxy Training Network). Este será un **evento en línea que abarcará todas las zonas horarias**. Todas las sesiones de entrenamiento están pregrabadas, por lo que puedes trabajar en ellas **a tu propio ritmo** administrando tu tiempo como más te convenga.
 
@@ -100,7 +99,11 @@ Estamos agradecidos por la donación hecha por parte de <a href="https://www.bio
 
 
 
-# English Version
+# Spanscriptomics: Single cell analysis using Galaxy
+
+![Course logo](logo.png){: style="float: right" width="300px"}
+
+[En Español](https://github.com/gallantries/galaxy-workshop/blob/5498767ed0a2fef33f32c6b60c0697a745ffb35b/events/spanscriptomics/index.md#Spanscriptomics:-Análisis-de-células-únicas-por-medio-de-Galaxy)
 
 ## Spanscriptomics: Single cell analysis using Galaxy
 
@@ -110,7 +113,7 @@ On November 29th & 30th, 2021, we will organize a global 2-day Galaxy Training e
 **What is single cell analysis?** Specifically, here we specifically focus on single cell RNA-seq, where all (or a subset!) of the transcripts of a cell are identified. While computationally tricky, this powerful technique is being used by biologists <a href="https://www.frontiersin.org/articles/10.3389/feduc.2021.710971/full#h1"target="_blank">around the world!</a> to identify all the cell types within organisms, across disease, age, and more.
 
 
-We hope you remember that there is a trained, expert team during the course dedicated to guiding you, answering your questions and making sure you learn not only at your own pace but that you leave with the skills you have signed up to learn. Reach out! Whether you are stuck, confused or need clarification. We look forward to hearing from you during the course!
+There will be a trained, expert team during the course dedicated to guiding you, answering your questions and making sure you learn not only at your own pace but that you leave with the skills you have signed up to learn. Reach out! Whether you are stuck, confused or need clarification. We look forward to hearing from you during the course!
 
 
 ## Register your interest!
