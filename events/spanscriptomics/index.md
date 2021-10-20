@@ -90,7 +90,7 @@ Estamos agradecidos por la donación hecha por parte de <a href="https://www.bio
 
 {% include hof.html %}
 
-### Institutciones
+### Instituciones
 
  ![image](https://user-images.githubusercontent.com/88791681/137364558-991bcc5c-5b2b-4759-bf12-15b83c9e2134.png)![image](https://user-images.githubusercontent.com/88791681/137365481-1d6c5499-7bc6-44b0-9c8d-d305d7571673.png)
 
