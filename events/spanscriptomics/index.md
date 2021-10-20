@@ -29,7 +29,7 @@ slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
 ---
 
-# Spanscriptomics
+# Spanscriptomics: Análisis de células únicas por medio de Galaxy
 
 ![Course logo](logo.png){: style="float: right" width="300px"}
 
@@ -77,9 +77,23 @@ Por favor deja tu dirección de correo electrónico para notificarte cuando el r
 
 ## Spanscriptomics: "¿Porqué?"
 
-Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">el impacto!</a> de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.
+Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">el impacto!</a> de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.La encuesta de idiomas dentro de este taller forma parte de un proyecto más amplio sobre la descolonización de la educación científica, que puede conducir a la traducción a gran escala de materiales educativos, tanto de otros idiomas al Inglés como del Inglés a otros idiomas. Agradecemos su participación en este estudio.
 
 Como parte del estudio de investigación, te enviaremos una encuesta que tomará de cinco a diez minutos al final del taller, que incluirá una pregunta sobre si hiciste uso del material en distintas versiones al que te fue asignado al inicio.
+
+
+## Agredecimientos
+
+Este taller ha sido posible solo gracias a nuestro fabuloso equipo y sus Instituciones colaboradoras. .
+Estamos agradecidos por la donación hecha por parte de <a href="https://www.biologists.com/"target="_blank">The company of Biologists!</a>
+
+### Presentadores, instructoras/es, facilitadoras/es, organizadoras/es y el resto del personal
+
+{% include hof.html %}
+
+### Institutciones
+
+ ![image](https://user-images.githubusercontent.com/88791681/137364558-991bcc5c-5b2b-4759-bf12-15b83c9e2134.png)![image](https://user-images.githubusercontent.com/88791681/137365481-1d6c5499-7bc6-44b0-9c8d-d305d7571673.png)
 
 
 
@@ -87,6 +101,8 @@ Como parte del estudio de investigación, te enviaremos una encuesta que tomará
 
 
 # English Version
+
+## Spanscriptomics: Single cell analysis using Galaxy
 
 On November 29th & 30th, 2021, we will organize a global 2-day Galaxy Training event on single cell analysis using GTN (Galaxy Training Network) tutorials. This will be an **online event**, spanning **all time zones.** All training sessions are pre-recorded, so you can work through them **at your own pace** and manage your own time.
 
@@ -141,6 +157,7 @@ As part of the research study, we will send out a survey that will take five to 
 ## Acknowledgements
 
 This workshop is only possible thanks to our awesome team and their and institutes.
+We are thankful for the donation made by <a href="https://www.biologists.com/"target="_blank">The company of Biologists!</a>
 
 ### Presenters & Instructors & Facilitators & Organizers & Staff
 
