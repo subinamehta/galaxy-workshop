@@ -1218,7 +1218,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial:
 
 
 
-# Espanñol!
+# ¡Español!
 introduction/galaxy-intro-short/slides/es:
   description: |
       TODO
@@ -1253,11 +1253,11 @@ introduction/galaxy-intro-short/tutorial/es:
   faq: "TODO"
   tags: [gtñ]
   videos:
-  - captions: [nomadscientist]
+  - captions: [nomadscientist, Maria Bernardi]
     event_name: GTÑ
-    length: 50M
-    link: Kh89__cuDwQ
-    speaker: nomadscientist
+    length: 5M
+    link: ij01h_CAodA
+    speaker: ales-ibt
 
 transcriptomics/scrna-intro/slides/es:
   description: |
@@ -1301,11 +1301,11 @@ transcriptomics/droplet-quantification-preprocessing/tutorial/es:
   faq: TODO
   tags: [gtñ]
   videos:
-  - captions: [nomadscientist]
+  - captions: [ales-ibt, Maria Bernardi]
     event_name: GTÑ
-    link: 3ytm2AU6QUc
+    link: -K9ue--46Lg
     length: 30M
-    speaker: nomadscientist
+    speaker: ales-ibt
 
 transcriptomics/scrna-seq-basic-pipeline/tutorial/es:
   name: Filtrado, representación y exploración de datos de RNA-seq de células únicas
@@ -1319,17 +1319,17 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial/es:
   material:
   - type: Tutorial
     link: topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html
-  type: Self-Study with Video Walkthrough
+  type: Tutorial
   support_channel: "#transcriptomics_single-cell-filter-plot-explore-ES"
   support_link: TODO
   faq: TODO
   tags: [gtñ]
   videos:
-  - captions: [nomadscientist]
+  - captions: [Melissa Black, Maria Bernardi]
     event_name: GTÑ
-    link: M6iepSJh0EQ
+    link: sG7nvtVaTHw
     length: 30M
-    speaker: nomadscientist
+    speaker: ales-ibt
 
 # Computer Aided Translation (not catalunya)
 introduction/galaxy-intro-short/slides/cat:
