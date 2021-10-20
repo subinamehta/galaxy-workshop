@@ -11,6 +11,10 @@ aheikema:
     affiliation: erasmusmc
     photo: astrid.jpeg
 
+ales-ibt:
+    name: Alejandra Escobar-Zepeda
+    affiliation: ebi
+
 andrewr:
     name: Andrew Rajczewski
     affiliation: minnesotauni
@@ -216,6 +220,10 @@ nomadscientist:
     name: Wendi Bacon
     affiliation: ebi
 
+pclo:
+    name: Patricia Carvajal López
+    affiliation: ebi
+
 pratikdjagtap:
     name: Pratik Jagtap
     affiliation: minnesotauni
@@ -274,3 +282,11 @@ yvesvdb:
 ic4f:
     name: Sergey Golitsynskiy
     affiliation: johnshopkins
+
+npalopoli:
+    name: Nicolás Palopoli
+    affiliation: UniQuilmes
+
+melibleq:
+    name: Melissa Black
+    affiliation: 
