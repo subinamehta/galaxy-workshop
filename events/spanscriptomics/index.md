@@ -86,7 +86,7 @@ Como parte del estudio de investigación, te enviaremos una encuesta que tomará
 
 ## Agredecimientos
 
-Este taller ha sido posible solo gracias a nuestro fabuloso equipo y sus Instituciones colaboradoras. .
+Este taller ha sido posible solo gracias a nuestro fabuloso equipo y sus Instituciones colaboradoras.
 Estamos agradecidos por la donación hecha por parte de [The Company of Biologists](https://www.biologists.com/)
 
 ### Presentadores, instructoras/es, facilitadoras/es, organizadoras/es y el resto del personal
