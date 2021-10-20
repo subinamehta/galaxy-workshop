@@ -94,4 +94,4 @@ We are thankful for the donation made by [The Company of Biologists](https://www
 
 ### Institutions
 
-![image](https://user-images.githubusercontent.com/88791681/137364558-991bcc5c-5b2b-4759-bf12-15b83c9e2134.png)![image](https://user-images.githubusercontent.com/88791681/137365481-1d6c5499-7bc6-44b0-9c8d-d305d7571673.png)
+![company of biologists logo]({{ site.baseurl }}{% link assets/images/logos/CoBiologists_logo.png %}) ![Open University Logo]({{ site.baseurl }}{% link assets/images/logos/OU.logo.png %})
