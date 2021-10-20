@@ -16,6 +16,7 @@ instructors:
   - Lorena Gallego-Villar
   - María Bernardi
   - Melissa Black
+  - npalopoli
   - Patricia Carvajal-López
   - Stefana Dreptate
 #  - Grisel Alejandra Escobar Zepeda
@@ -77,7 +78,7 @@ You will be notified when final registration opens.
 
 ## Spanscriptomics: "Why?"
 
-This workshop is **aimed at native Spanish** speakers around the world. The Galaxy Training Ñetwork of native Spanish speaking bioinformaticians has developed Spanish translated materials. This workshop forms part of a wider study on the <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">impact of translating materials!</a> from English into Spanish. While you will be given the option of whether to use English, auto-translated Spanish, or human-translated Spanish resources throughout the workshop, we will randomly assign you to a language-stream to start you off. To be clear, you can change at any time!
+This workshop is **aimed at native Spanish** speakers around the world. The Galaxy Training Ñetwork of native Spanish speaking bioinformaticians has developed Spanish translated materials. This workshop forms part of a wider study on the [impact of translating materials!](https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature) from English into Spanish. While you will be given the option of whether to use English, auto-translated Spanish, or human-translated Spanish resources throughout the workshop, we will randomly assign you to a language-stream to start you off. To be clear, you can change at any time!
 The language survey within this workshop forms part of a larger project on decolonisation of science education, which may lead to large-scale translation of learning materials both from and into English. We appreciate your participation in this study!
 
 As part of the research study, we will send out a survey that will take five to ten minutes at the end of the workshop, which will include a question on whether you swapped language-streams or not.

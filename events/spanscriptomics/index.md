@@ -16,6 +16,7 @@ instructors:
   - Lorena Gallego-Villar
   - María Bernardi
   - Melissa Black
+  - npalopoli
   - Patricia Carvajal-López
   - Stefana Dreptate
 #  - Grisel Alejandra Escobar Zepeda
@@ -76,7 +77,7 @@ Por favor deja tu dirección de correo electrónico para notificarte cuando el r
 
 ## Spanscriptomics: "¿Porqué?"
 
-Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre <a href="https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature"target="_blank">el impacto!</a> de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.La encuesta de idiomas dentro de este taller forma parte de un proyecto más amplio sobre la descolonización de la educación científica, que puede conducir a la traducción a gran escala de materiales educativos, tanto de otros idiomas al Inglés como del Inglés a otros idiomas. Agradecemos su participación en este estudio.
+Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre [el impacto!](https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature) de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.La encuesta de idiomas dentro de este taller forma parte de un proyecto más amplio sobre la descolonización de la educación científica, que puede conducir a la traducción a gran escala de materiales educativos, tanto de otros idiomas al Inglés como del Inglés a otros idiomas. Agradecemos su participación en este estudio.
 
 Como parte del estudio de investigación, te enviaremos una encuesta que tomará de cinco a diez minutos al final del taller, que incluirá una pregunta sobre si hiciste uso del material en distintas versiones al que te fue asignado al inicio.
 
