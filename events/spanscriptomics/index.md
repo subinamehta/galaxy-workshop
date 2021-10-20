@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Spanscriptomics: Análisis de células únicas por medio de Galaxy"
+description: "Los días 29 y 30 de noviembre de 2021, organizaremos un taller global sobre el análisis de datos Single Cell (o de Célula Única) utilizando tutoriales de la Red de Entrenamiento de Galaxy"
 type: event
 format: async
 date_start: 2021-11-29
@@ -21,6 +22,7 @@ instructors:
   - Stefana Dreptate
 #  - Grisel Alejandra Escobar Zepeda
 #  - Nicolás Palopoli
+image: /events/spanscriptomics/logo.png
 
 
 interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"

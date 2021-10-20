@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Spanscriptomics: Single cell analysis using Galaxy"
+description: "On November 29th & 30th, 2021, we will organize a global 2-day Galaxy Training event on single cell analysis using GTN (Galaxy Training Network) tutorials."
 type: event
 format: async
 date_start: 2021-11-29
@@ -21,6 +22,7 @@ instructors:
   - Stefana Dreptate
 #  - Grisel Alejandra Escobar Zepeda
 #  - Nicolás Palopoli
+image: /events/spanscriptomics/logo.png
 
 
 interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"
