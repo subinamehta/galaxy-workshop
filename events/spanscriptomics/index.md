@@ -81,10 +81,10 @@ Este taller está dirigido a hablantes nativos de español de todo el mundo. El 
 Como parte del estudio de investigación, te enviaremos una encuesta que tomará de cinco a diez minutos al final del taller, que incluirá una pregunta sobre si hiciste uso del material en distintas versiones al que te fue asignado al inicio.
 
 
-## Agredecimientos
+## Agradecimientos
 
-Este taller ha sido posible solo gracias a nuestro fabuloso equipo y sus Instituciones colaboradoras. .
-Estamos agradecidos por la donación hecha por parte de [The Company of Biologists](https://www.biologists.com/)
+Este taller sólo ha sido posible gracias a nuestro fabuloso equipo y sus Instituciones colaboradoras.
+¡Agradecemos por la donación de [The Company of Biologists](https://www.biologists.com/)!
 
 ### Presentadores, instructoras/es, facilitadoras/es, organizadoras/es y el resto del personal
 
