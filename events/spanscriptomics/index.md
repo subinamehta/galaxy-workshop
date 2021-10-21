@@ -86,7 +86,6 @@ Como parte del estudio de investigación, te enviaremos una encuesta que tomará
 
 ## Agradecimientos
 
-patch-7
 Este taller sólo ha sido posible gracias a nuestro fabuloso equipo y sus Instituciones colaboradoras.
 ¡Agradecemos por la donación de [The Company of Biologists](https://www.biologists.com/)!
 
