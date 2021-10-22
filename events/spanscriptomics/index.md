@@ -67,10 +67,10 @@ Por favor deja tu dirección de correo electrónico para notificarte cuando el r
 |   |                           Actividad                                               |             Recursos                 |Duración|                   Autor/a original                        |
 |---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Introducción a Galaxy                                                             | Lección, Diapositivas & Video        | 30 min | Saskia Hiltemann, Helena Rasche, Nicola Soranzo           |
-| 2 | Breve introducción a Galaxy                                                       | Material guiado & Flujo de trabajo   | 30 min | Anna Syme                                                 |
+| 2 | Breve introducción a Galaxy                                                       | Tutorial y Video guiado              | 30 min | Anna Syme                                                 |
 | 3 | Introducción al análisis de RNA-seq de células únicas                             | Lección, Diapositivas & Video        | 30 min | Mehmet Tekman                                             |
-| 4 | Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin  | Material guiado & Flujo de trabajo   |  3 h   | Wendi Bacon, Jonathan  Manning                            |
-| 5 | Filtrado, representación y exploración de datos de RNA-seq de células únicas      | Material guiado & Flujo de trabajo   |  3h    | Wendi Bacon                                               |
+| 4 | Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin  | Tutorial y Video guiado              |  3 h   | Wendi Bacon, Jonathan  Manning                            |
+| 5 | Filtrado, representación y exploración de datos de RNA-seq de células únicas      | Tutorial y Video guiado              |  3h    | Wendi Bacon                                               |
 
 
 
