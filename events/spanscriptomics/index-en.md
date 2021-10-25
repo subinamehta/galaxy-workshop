@@ -69,7 +69,7 @@ You will be notified when final registration opens.
 ## Program
 
 |   |                  Activity                         |             Resources             |  Time  |              Original author                    |
-|---|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---------------------------------------------------|-----------------------------------|--------|-------------------------------------------------|
 | 1 | Introduction to Galaxy                            | Lecture slides & video            | 30 min | Saskia Hiltemann, Helena Rasche, Nicola Soranzo |
 | 2 | Short introduction to Galaxy                      | Tutorial & Walkthrough video      | 30 min | Anna Syme                                       |
 | 3 | Introduction to single cell RNA-seq analysis      | Lecture slides & video            | 30 min | Mehmet Tekman                                   |
