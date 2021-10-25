@@ -68,7 +68,7 @@ Por favor, deja tu dirección de correo electrónico para notificarte cuando el 
 ## Program
 
 |   |                           Actividad                                               |             Recursos                 |Duración|                   Autor/a original                        |
-|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|-----------------------------------------------------------------------------------|--------------------------------------|--------|-----------------------------------------------------------|
 | 1 | Introducción a Galaxy                                                             | Lección, Diapositivas & Video        | 30 min | Saskia Hiltemann, Helena Rasche, Nicola Soranzo           |
 | 2 | Breve introducción a Galaxy                                                       | Tutorial y Video guiado              | 30 min | Anna Syme                                                 |
 | 3 | Introducción al análisis de RNA-seq de células únicas                             | Lección, Diapositivas & Video        | 30 min | Mehmet Tekman                                             |
