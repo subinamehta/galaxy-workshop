@@ -12,7 +12,7 @@ instructors:
   - shiltemann
   - hexylena
   - beatrizserrano
-  - Irelka Colina
+  # IrelCM
   - Jolene Ramsey
   - Lorena Gallego-Villar
   - María Bernardi
