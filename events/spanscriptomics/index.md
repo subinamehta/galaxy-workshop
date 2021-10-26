@@ -23,13 +23,12 @@ instructors:
 #  - Grisel Alejandra Escobar Zepeda
 #  - Nicolás Palopoli
 image: /events/spanscriptomics/logo.png
-
-
 interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"
 slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-BA~Kht6N86JBhDq0uTIVdQ"
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
-
 ---
+
+Something new!
 
 # Spanscriptomics: Análisis de células únicas usando Galaxy
 
