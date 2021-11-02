@@ -503,6 +503,7 @@ metatranscriptomics-rnaseq:
     - link: EMaos5u1_a8
       length: 1H30M
       captions: [EngyNasr,shiltemann]
+      speaker: [pratikdjagtap, timothygriffin, subinamehta, shiltemann]
   material:
     - type: Slides from video
       link: "https://drive.google.com/file/d/11TOrL7Kxgel71AT1rBc4DqjaUh3QB2G_/view?usp=sharing"
