@@ -19,6 +19,7 @@ instructors:
   - timothygriffin
   - subinamehta
   - shiltemann
+  - bebatut
 organizers:
   - name: CSIR-IMTech
     url: "https://www.csir.res.in/institute-microbial-technology-chandigarh"
