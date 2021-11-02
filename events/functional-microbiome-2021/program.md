@@ -36,6 +36,15 @@ schedule:
         - link: shortintro
         - link: firstanalysis
 
+    day1-extra:
+      subday: true
+      title: "Optional: Want to learn more?"
+      description: "Have some extra time? Try these tutorials as well"
+      sessions:
+        - link: sequence-analysis-quality-control-slides
+        - link: sequence-analysis-quality-control-tutorial
+        - link: sequence-analysis-mapping-slides
+        - link: sequence-analysis-mapping-tutorial
     day2:
       title: "Day 2 Tutorials: Metagenomics of the Microbiome"
       description: "Today we will perform taxonomic analysis of microbiome data using 16S amplicon sequencing, and analyze the microbiome for antibiotic resistance using Nanopore data"
@@ -43,10 +52,17 @@ schedule:
         - link: metagenomics-mothur-miseq-sop-short-slides
         - link: metagenomics-mothur-miseq-sop-short-tutorial
 
+    day2-extra:
+      title: "Optional: Want to learn more?"
+      description: "Can't get enough? Have some extra time? We recommend the following optional tutorials."
+      subday: true
+      sessions:
+        - link: slides-clinical-nanopore-microbiomics
+        - link: metagenomics-plasmid-metagenomics-nanopore
 
     day3:
       title: "Day 3 Tutorials: Metatranscriptomics"
-      description:
+      description: "Today we dive into the analysis on the transcriptiomics level"
       sessions:
         - link: metatranscriptomics-rnaseq
 
@@ -62,8 +78,6 @@ schedule:
       sessions:
         - link: variant-analysis-m-tuberculosis-intro
         - link: variant-analysis-tb-variant-analysis
-        - link: slides-clinical-nanopore-microbiomics
-        - link: metagenomics-plasmid-metagenomics-nanopore
 
 
     done:
