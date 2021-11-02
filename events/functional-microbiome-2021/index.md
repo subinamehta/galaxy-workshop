@@ -29,6 +29,8 @@ slack_channel_url: "https://gtnsmrgsbord.slack.com/archives/C02KYANR1T6"
 slack_channel_name: "event-functional-microbiome"
 ---
 
+# Analysis of Functions Expressed by Microbiomes
+
 ![Course logo]({{site.baseurl}}{{site.logo_dir}}/{{page.logo}}){: style="float: right" width="300px"}
 
 {{ page.description }}
