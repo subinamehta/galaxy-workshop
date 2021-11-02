@@ -40,7 +40,7 @@ slack_channel_name: "event-functional-microbiome"
 **When:** 15th-24th of November 2021 \\
 **Support:** Slack Channel  ([invite link]({{page.slack_invite}})), channel: [{{page.slack_channel_name}}]({{page.slack_channel_url}})  \\
 **Contact:** {% for c in page.contact %} [{{c.name}}](mailto:{{c.email}}){%unless for.last%},{%endunless%}{% endfor %} \\
-**Organized by:** {% for o in page.organizers %} [{{o.name}}]({{o.url}}){% endfor %}, [The Gallantries Project](https://gallantries.github.io), [The Galaxy Training Network (GTN) Project](https://training.galaxyproject.org/training-material/hall-of-fame).
+**Organized by:** {% for o in page.organizers %} [{{o.name}}]({{o.url}}){% endfor %}, [The Gallantries Project](https://gallantries.github.io), [The Galaxy Training Network (GTN)](https://training.galaxyproject.org/training-material/hall-of-fame).
 
 <br>
 
