@@ -144,7 +144,6 @@ Practical Session: <a href="program.html" class="btn btn-warning btn-lg">Video T
 | 10:05 - 11:00 AM| Results, conclusion and feedback form            |                                   |
 
 
-## Video Tutorials
 
 ## Acknowledgements
 
