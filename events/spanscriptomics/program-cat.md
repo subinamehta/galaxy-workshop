@@ -15,6 +15,7 @@ certificates: true
 lang: es-cat
 tiaas_keyword: spanscriptomics
 tiaas_servers: [eu]
+tracking: spanscriptomics
 
 schedule:
     day1:
