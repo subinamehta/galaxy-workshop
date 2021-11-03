@@ -72,17 +72,31 @@ schedule:
       sessions:
         - link: proteomics-metaproteomics
 
-    furtherlearning:
-      title: "Want to learn more?"
-      description: Can't get enough? Have some extra time? We recommend the following optional tutorials:"
+    day4-extra:
+      title: "Optional: Want to learn more?"
+      description: Can't get enough? Have some extra time? We recommend the following optional tutorials.
+      subday: true
       sessions:
-        - link: variant-analysis-m-tuberculosis-intro
-        - link: variant-analysis-tb-variant-analysis
-
+        - name: Metaquantome Analysis
+          material:
+            - link: topics/proteomics/tutorials/metaquantome-data-creation/tutorial.html
+              type: Tutorial
+              title: "Metaquantome 1: Data Creation"
+            - link: topics/proteomics/tutorials/metaquantome-function/tutorial.html
+              type: Tutorial
+              title: "Metaquantome 2: Function"
+            - link: topics/proteomics/tutorials/metaquantome-taxonomy/tutorial.html
+              type: Tutorial
+              title: "Metaquantome3: Taxonomy"
 
     done:
       title: "All done?"
-      description: "Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks for joining!!"
+      description: |
+        Please feel free to hang around in Slack and talk to us and the rest of the Galaxy community! Thanks for joining!!
+
+        For further learning, please see our full set of video tutorials below.
+        <br><br>
+        <a href="https://galaxyproject.org/events/gcc2021/training//science-track" class="btn btn-warning btn-lg">All GTN Video Tutorials</a>
       sessions:
 
     post-course:
