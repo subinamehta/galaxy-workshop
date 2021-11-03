@@ -151,6 +151,8 @@ Practical Session: <a href="program.html" class="btn btn-warning btn-lg">Video T
 
 Online Workshop at CSIR-IMTech - funded by American Society of Microbiology (ASM) and Indo-United States Science and Technology Forum (IUSSTF)
 
+![](sponsors-hosts.png)
+
 Organized with support from the Gallantries project and the Galaxy Training Network (GTN).
 
 ### Presenters & Instructors & Facilitators & Organizers & Staff

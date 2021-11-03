@@ -4,7 +4,7 @@ title: Analysis of Functions Expressed by Microbiomes
 type: track
 site_title: Functional Microbiome
 code_of_conduct_url: "https://galaxyproject.org/community/coc/"
-event_state: 'wip' # 'wip', 'running' or 'done'
+event_state: upcoming # 'wip', 'running' or 'done'
 contacts: []
 description:
 date_start: 2021-11-15
@@ -107,4 +107,6 @@ schedule:
         on the <a href="https://gitter.im/Galaxy-Training-Network/Lobby">GTN Gitter channel</a>, instead of Slack.
 ---
 
-Welcome to the Workshop!
+
+![](sponsors-hosts.png)
+
