@@ -79,6 +79,9 @@
      <strong>{{ locale['slack-what'] }}</strong>
      <ul>
       <li><a href="{{site.support.join_link}}">{{ locale['slack-link'] }}</a></li>
+      {% if page.slack_event_channel %}
+      <li>Chat channel: <a href="{{page.slack_event_link}}">#{{ page.slack_event_channel }}</a></li>
+      {% endif %}
      </ul>
      {{ locale['slack-why'] }}
     </p>

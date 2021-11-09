@@ -23,8 +23,9 @@ galaxy_servers:
 tiaas: true
 tiaas_servers: in
 tiaas_keyword: fun-micro
-slack_link: "https://gtnsmrgsbord.slack.com/archives/C02KYANR1T6"
-slack_chanel: event_functional_microbiome
+slack_event_link: "https://gtnsmrgsbord.slack.com/archives/C02KYANR1T6"
+slack_event_channel: event_functional_microbiome
+slack_override_all: true
 
 schedule:
     intro:
