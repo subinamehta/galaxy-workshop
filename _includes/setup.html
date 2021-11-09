@@ -11,9 +11,15 @@
     <p class="card-text">
      <br/><strong>{{ locale['create'] }}</strong>
      <ul>
+      {% if page.galaxy_servers %}
+      {% for s in page.galaxy_servers %}
+        <li><a href="{{s.url}}">{{s.name}}</a></li>
+      {% endfor %}
+      {% else %}
       <li><a href="https://usegalaxy.eu">🌍 UseGalaxy.eu (Europe)</a></li>
       <li><a href="https://usegalaxy.org.au">🌏 UseGalaxy.org.au (Australia) </a></li>
       <li><a href="https://usegalaxy.org">🌎 UseGalaxy.org (USA)</a></li>
+      {% endif %}
      </ul>
     {{ locale['create-pick'] }}
     </p>

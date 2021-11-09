@@ -17,6 +17,14 @@ registration_form:
 feedback_form:
 certificates: false
 lang: en
+galaxy_servers:
+  - name: "GalaxyEU India"
+    url: "https://india.usegalaxy.eu"
+tiaas: true
+tiaas_servers: in
+tiaas_keyword: fun-micro
+slack_link: "https://gtnsmrgsbord.slack.com/archives/C02KYANR1T6"
+slack_chanel: event_functional_microbiome
 
 schedule:
     intro:
@@ -109,4 +117,6 @@ schedule:
 
 
 ![](sponsors-hosts.png)
+
+<a href="index.html" class="btn btn-warning btn-lg">See Course Overview</a>
 
