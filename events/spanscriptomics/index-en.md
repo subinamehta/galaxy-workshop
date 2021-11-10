@@ -20,8 +20,7 @@ instructors:
   - npalopoli
   - Patricia Carvajal-López
   - Stefana Dreptate
-#  - Grisel Alejandra Escobar Zepeda
-#  - Nicolás Palopoli
+
 image: /events/spanscriptomics/logo.png
 
 
@@ -30,8 +29,6 @@ slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-B
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
 ---
-
-# Spanscriptomics: Single cell analysis using Galaxy
 
 ![Course logo](logo.png){: style="float: right" width="300px"}
 

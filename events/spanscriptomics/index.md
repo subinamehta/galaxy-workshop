@@ -18,10 +18,7 @@ instructors:
   - María Bernardi
   - Melissa Black
   - npalopoli
-  - Patricia Carvajal-López
   - Stefana Dreptate
-#  - Grisel Alejandra Escobar Zepeda
-#  - Nicolás Palopoli
 image: /events/spanscriptomics/logo.png
 
 
@@ -78,6 +75,8 @@ Por favor deja tu dirección de correo electrónico para notificarte cuando el r
 
 
 ## Spanscriptomics: "¿Porqué?"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YE_QLodIe_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Este taller está dirigido a hablantes nativos de español de todo el mundo. El Galaxy Training Ñetwork de bioinformáticos **nativos de habla hispana** ha desarrollado materiales traducidos al español. Este taller forma parte de un estudio más amplio sobre [el impacto!](https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature) de la traducción de materiales del inglés al español. Durante el taller, estarán disponibles todos los materiales en tres versiones distintas: originales en inglés, traducidos al español automáticamente o traducidos al español por humano. Al inicio, el tipo de material con el que arrancarás los tutoriales será asignado aleatoriamente, pero podrás cambiar entre versiones en cualquier momento que lo desees.La encuesta de idiomas dentro de este taller forma parte de un proyecto más amplio sobre la descolonización de la educación científica, que puede conducir a la traducción a gran escala de materiales educativos, tanto de otros idiomas al Inglés como del Inglés a otros idiomas. Agradecemos su participación en este estudio.
 
