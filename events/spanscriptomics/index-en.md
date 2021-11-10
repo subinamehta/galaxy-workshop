@@ -24,6 +24,7 @@ instructors:
 image: /events/spanscriptomics/logo.png
 
 
+tracking: spanscriptomics
 interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"
 slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-BA~Kht6N86JBhDq0uTIVdQ"
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
@@ -66,7 +67,7 @@ You will be notified when final registration opens.
 ## Program
 
 |   |                  Activity                         |             Resources             |  Time  |              Original author                    |
-|---|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---------------------------------------------------|-----------------------------------|--------|-------------------------------------------------|
 | 1 | Introduction to Galaxy                            | Lecture slides & video            | 30 min | Saskia Hiltemann, Helena Rasche, Nicola Soranzo |
 | 2 | Short introduction to Galaxy                      | Tutorial & Walkthrough video      | 30 min | Anna Syme                                       |
 | 3 | Introduction to single cell RNA-seq analysis      | Lecture slides & video            | 30 min | Mehmet Tekman                                   |

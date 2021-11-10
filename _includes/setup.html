@@ -11,9 +11,15 @@
     <p class="card-text">
      <br/><strong>{{ locale['create'] }}</strong>
      <ul>
+      {% if page.galaxy_servers %}
+      {% for s in page.galaxy_servers %}
+        <li><a href="{{s.url}}">{{s.name}}</a></li>
+      {% endfor %}
+      {% else %}
       <li><a href="https://usegalaxy.eu">🌍 UseGalaxy.eu (Europe)</a></li>
       <li><a href="https://usegalaxy.org.au">🌏 UseGalaxy.org.au (Australia) </a></li>
       <li><a href="https://usegalaxy.org">🌎 UseGalaxy.org (USA)</a></li>
+      {% endif %}
      </ul>
     {{ locale['create-pick'] }}
     </p>
@@ -73,6 +79,9 @@
      <strong>{{ locale['slack-what'] }}</strong>
      <ul>
       <li><a href="{{site.support.join_link}}">{{ locale['slack-link'] }}</a></li>
+      {% if page.slack_event_channel %}
+      <li>Chat channel: <a href="{{page.slack_event_link}}">#{{ page.slack_event_channel }}</a></li>
+      {% endif %}
      </ul>
      {{ locale['slack-why'] }}
     </p>

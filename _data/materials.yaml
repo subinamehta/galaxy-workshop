@@ -492,6 +492,27 @@ metagenomics-plasmid-metagenomics-nanopore:
     length: 45M
     link: ECIl8ZU1Wko
     speaker: willemdek11
+
+metatranscriptomics-rnaseq:
+  name: "Metatranscriptomics analysis using microbiome RNA-seq data"
+  speaker: [pratikdjagtap, timothygriffin, subinamehta, shiltemann]
+  instructors: [pratikdjagtap, timothygriffin, subinamehta, shiltemann, jj-umn, andrewr, ddan, emmaleith]
+  type: Tutorial
+  description: Metatranscriptomics analysis examines how the microbiome responds to the environment by studying the taxonomic composition and functional analysis of genes expressed by the microbiome, using microbial community RNASeq data and subsequent metatranscriptomics workflows. This workshop will introduce researchers to the basic concepts and tools from the ASaiM-MT workflow. ASaiM-MT provides a curated collection of tools to explore and visualize taxonomic and functional information from metatranscriptomic sequences.
+  videos:
+    - link: EMaos5u1_a8
+      length: 1H30M
+      captions: [EngyNasr,shiltemann]
+      speaker: [pratikdjagtap, timothygriffin, subinamehta, shiltemann]
+  material:
+    - type: Slides from video
+      link: "https://drive.google.com/file/d/11TOrL7Kxgel71AT1rBc4DqjaUh3QB2G_/view?usp=sharing"
+      external: true
+    - type: Related Slides
+      link: topics/metagenomics/tutorials/metatranscriptomics/slides.html
+      title: Introduction to Metatranscriptomics
+    - type: Tutorial
+      link: topics/metagenomics/tutorials/metatranscriptomics/tutorial.html
 proteogenomics-intro:
   description: |
       In this opening presentation, the basic components of proteogenomics are
