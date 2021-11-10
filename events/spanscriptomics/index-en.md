@@ -18,7 +18,6 @@ instructors:
   - María Bernardi
   - Melissa Black
   - npalopoli
-  - Patricia Carvajal-López
   - Stefana Dreptate
 
 image: /events/spanscriptomics/logo.png
