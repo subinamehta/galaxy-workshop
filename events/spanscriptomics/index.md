@@ -19,6 +19,12 @@ instructors:
   - Melissa Black
   - npalopoli
   - Stefana Dreptate
+  #
+  - Pablo Moreno
+  - Vinicius
+  - Montserrat Ve Go
+  - Veronica Olivo Pimentel
+
 image: /events/spanscriptomics/logo.png
 
 tracking: spanscriptomics
