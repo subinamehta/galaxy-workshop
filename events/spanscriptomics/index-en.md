@@ -30,12 +30,11 @@ slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-B
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
 ---
+# Spanscriptomics: Single cell analysis using Galaxy
 
 ![Course logo](logo.png){: style="float: right" width="300px"}
 
 [En Español]({{ site.baseurl }}{% link events/spanscriptomics/index.md %})
-
-## Spanscriptomics: Single cell analysis using Galaxy
 
 On November 29th & 30th, 2021, we will organize a global 2-day Galaxy Training event on single cell analysis using GTN (Galaxy Training Network) tutorials. This will be an **online event**, spanning **all time zones.** All training sessions are pre-recorded, so you can work through them **at your own pace** and manage your own time.
 
