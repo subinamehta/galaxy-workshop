@@ -1257,8 +1257,8 @@ introduction/galaxy-intro-short/slides/es:
   - captions: []
     event_name: GTÑ
     length: TODO
-    link: TODO # https://training.galaxyproject.org/training-material/videos/watch.html?v=introduction/tutorials/galaxy-intro-short/slides_ES
-    speaker: awspolly
+    link: https://training.galaxyproject.org/training-material/videos/watch.html?v=introduction/tutorials/galaxy-intro-short/slides_ES
+    speaker: Lupe
 
 introduction/galaxy-intro-short/tutorial/es:
   description: |
@@ -1293,7 +1293,7 @@ transcriptomics/scrna-intro/slides/es:
     title: Introducción al análisis de datos de scRNA-seq
     type: Slides
   name: Introducción al análisis de datos de scRNA-seq
-  support_channel: "#transcriptomics_single-cell-rnaseq-ES"
+  support_channel: "#span-single-cell-rnaseq-HES"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C01M17R4YA1"
   faq: "https://docs.google.com/document/d/e/2PACX-1vSVFOV1C6hqMPGIpZ1qeOo6t-ubjaWbtsGSTMH9TwNlvfqZrP48i0_7_Xk5rxmY7g2CroOF1dNIyfMY/pub"
   type: Lecture
@@ -1301,9 +1301,9 @@ transcriptomics/scrna-intro/slides/es:
   videos:
   - captions:
     - mtekman
-    event_name: Smörgåsbord
+    event_name: GTÑ
     length: 20M
-    link: D3qvYWZMFa0
+    link: https://training.galaxyproject.org/training-material/videos/watch.html?v=transcriptomics/tutorials/scrna-intro/slides_ES
     speaker: awspolly/es
 
 transcriptomics/droplet-quantification-preprocessing/tutorial/es:
@@ -1339,7 +1339,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial/es:
       to find our biological meaning and insights!
   material:
   - type: Tutorial
-    link: topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html
+    link: https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial_ES.html
   type: Tutorial
   support_channel: "#transcriptomics_single-cell-filter-plot-explore-ES"
   support_link: TODO
