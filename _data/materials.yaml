@@ -1257,8 +1257,8 @@ introduction/galaxy-intro-short/slides/es:
   - captions: []
     event_name: GTÑ
     length: TODO
-    link: https://training.galaxyproject.org/training-material/videos/watch.html?v=introduction/tutorials/galaxy-intro-short/slides_ES
-    speaker: Lupe
+    link: TODO # https://training.galaxyproject.org/training-material/videos/watch.html?v=introduction/tutorials/galaxy-intro-short/slides_ES
+    speaker: awspolly
 
 introduction/galaxy-intro-short/tutorial/es:
   description: |
@@ -1303,8 +1303,8 @@ transcriptomics/scrna-intro/slides/es:
     - mtekman
     event_name: GTÑ
     length: 20M
-    link: https://training.galaxyproject.org/training-material/videos/watch.html?v=transcriptomics/tutorials/scrna-intro/slides_ES
-    speaker: awspolly/es
+    link: TODO # https://training.galaxyproject.org/training-material/videos/watch.html?v=transcriptomics/tutorials/scrna-intro/slides_ES
+    speaker: awspolly
 
 transcriptomics/droplet-quantification-preprocessing/tutorial/es:
   name: Generación de una matriz de datos de RNA-seq de células únicas utilizando Alevin
@@ -1371,7 +1371,7 @@ introduction/galaxy-intro-short/slides/cat:
     event_name: GTÑ
     length: TODO
     link: TODO # https://training.galaxyproject.org/training-material/videos/watch.html?v=introduction/tutorials/galaxy-intro-short/slides
-    speaker: awspolly/escat
+    speaker: awspolly
 
 introduction/galaxy-intro-short/tutorial/cat:
   description: |
@@ -1419,7 +1419,7 @@ transcriptomics/scrna-intro/slides/cat:
     event_name: Smörgåsbord
     length: 20M
     link: D3qvYWZMFa0
-    speaker: awspolly/escat
+    speaker: awspolly
 
 transcriptomics/droplet-quantification-preprocessing/tutorial/cat:
   name: Generando una matriz de una sola célula usando Alevin
