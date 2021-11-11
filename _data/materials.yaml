@@ -955,6 +955,12 @@ transcriptomics-scrna-intro-slides:
   videos:
   - captions:
     - mtekman
+    event_name: Spanscriptomics
+    length: 20M
+    link: hR4SpWSNUSY
+    speaker: awspolly
+  - captions:
+    - mtekman
     event_name: Smörgåsbord
     length: 20M
     link: D3qvYWZMFa0
@@ -1168,7 +1174,7 @@ introduction/galaxy-intro-short/slides:
   - captions: [shiltemann, hexylena]
     event_name: GTÑ
     length: TODO
-    link: TODO # https://training.galaxyproject.org/training-material/videos/watch.html?v=introduction/tutorials/galaxy-intro-short/slides
+    link: IRdlOcVgjRY
     speaker: awspolly
 
 introduction/galaxy-intro-short/tutorial:
@@ -1256,8 +1262,8 @@ introduction/galaxy-intro-short/slides/es:
   videos:
   - captions: []
     event_name: GTÑ
-    length: TODO
-    link: TODO # https://training.galaxyproject.org/training-material/videos/watch.html?v=introduction/tutorials/galaxy-intro-short/slides_ES
+    length: 6M
+    link: oMjSiURJxLg
     speaker: awspolly
 
 introduction/galaxy-intro-short/tutorial/es:
@@ -1303,7 +1309,7 @@ transcriptomics/scrna-intro/slides/es:
     - mtekman
     event_name: GTÑ
     length: 20M
-    link: TODO # https://training.galaxyproject.org/training-material/videos/watch.html?v=transcriptomics/tutorials/scrna-intro/slides_ES
+    link: XlmVQzZHY60
     speaker: awspolly
 
 transcriptomics/droplet-quantification-preprocessing/tutorial/es:
@@ -1370,7 +1376,7 @@ introduction/galaxy-intro-short/slides/cat:
   - captions: [shiltemann, hexylena]
     event_name: GTÑ
     length: TODO
-    link: TODO # https://training.galaxyproject.org/training-material/videos/watch.html?v=introduction/tutorials/galaxy-intro-short/slides
+    link: IRdlOcVgjRY
     speaker: awspolly
 
 introduction/galaxy-intro-short/tutorial/cat:
