@@ -18,10 +18,13 @@ instructors:
   - María Bernardi
   - Melissa Black
   - npalopoli
-  - Patricia Carvajal-López
   - Stefana Dreptate
-#  - Grisel Alejandra Escobar Zepeda
-#  - Nicolás Palopoli
+  #
+  - Pablo Moreno
+  - Vinicius
+  - Montserrat Ve Go
+  - Veronica Olivo Pimentel
+
 image: /events/spanscriptomics/logo.png
 
 
@@ -31,14 +34,11 @@ slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-B
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
 ---
-
 # Spanscriptomics: Single cell analysis using Galaxy
 
 ![Course logo](logo.png){: style="float: right" width="300px"}
 
 [En Español]({{ site.baseurl }}{% link events/spanscriptomics/index.md %})
-
-## Spanscriptomics: Single cell analysis using Galaxy
 
 On November 29th & 30th, 2021, we will organize a global 2-day Galaxy Training event on single cell analysis using GTN (Galaxy Training Network) tutorials. This will be an **online event**, spanning **all time zones.** All training sessions are pre-recorded, so you can work through them **at your own pace** and manage your own time.
 
@@ -80,6 +80,8 @@ You will be notified when final registration opens.
 
 
 ## Spanscriptomics: "Why?"
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PmEXcwjmhho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This workshop is **aimed at native Spanish** speakers around the world. The Galaxy Training Ñetwork of native Spanish speaking bioinformaticians has developed Spanish translated materials. This workshop forms part of a wider study on the [impact of translating materials!](https://www.nature.com/articles/d41586-021-02218-x?utm_source=twt_nat&utm_medium=social&utm_campaign=nature) from English into Spanish. While you will be given the option of whether to use English, auto-translated Spanish, or human-translated Spanish resources throughout the workshop, we will randomly assign you to a language-stream to start you off. To be clear, you can change at any time!
 The language survey within this workshop forms part of a larger project on decolonisation of science education, which may lead to large-scale translation of learning materials both from and into English. We appreciate your participation in this study!
