@@ -27,13 +27,13 @@ instructors:
 
 image: /events/spanscriptomics/logo.png
 
-
 tracking: spanscriptomics
 interestform: "https://openuniversity.onlinesurveys.ac.uk/reserva-tu-lugar-en-el-taller-analisis-de-datos-single-ce"
 slack_invite: "https://join.slack.com/t/gtnsmrgsbord/shared_invite/zt-x7vinbs1-BA~Kht6N86JBhDq0uTIVdQ"
 slack_channel: "https://gtnsmrgsbord.slack.com/archives/C02HEN1RMA8"
 
 ---
+
 # Spanscriptomics: Single cell analysis using Galaxy
 
 ![Course logo](logo.png){: style="float: right" width="300px"}
