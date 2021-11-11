@@ -62,7 +62,7 @@ Some days will feature practical sessions, with video tutorials you can follow. 
 |-----------------|--------------------------------------------------|-----------------------------------|
 | 8:30 - 8:40 AM  | Welcome                                     | Manoj Kumar (CSIR-IMTech, Chandigarh)                   |
 | 8:40 - 8:50 AM  | Inauguration | Dr. Sanjeev Khosla (Director CSIR-IMTech, Chandigarh) |
-| 8:50 - 8:50 AM  | Introduction to the Course                       | Pratik Jagtap (University of Minnesota)       |
+| 8:50 - 9:00 AM  | Introduction to the Course                       | Pratik Jagtap (University of Minnesota)       |
 | 9:05 - 10:00 AM | Introduction to Microbiome Research.             | Robert Hettich (Oak Ridge National Laboratory)             |
 | 10:05 - 11:00 AM | Introduction to Galaxy Video Tutorials          | Dave Clements & Pratik Jagtap     |
 | 11:15 AM - 3:00 PM |  [Galaxy Video Tutorials](program.html)       | GTN Instructors on Slack          |
