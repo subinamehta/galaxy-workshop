@@ -83,7 +83,7 @@ Practical Session: <a href="program.html" class="btn btn-warning btn-lg">Video T
 | 10:05-11:00 AM  | Introduction to the Metagenomics video tutorials | Galaxy Australia Team             |
 | 11:15 AM-3:00 PM|  [Galaxy Video Tutorials](program.html)          | GTN Instructors on Slack          |
 | 3:30-4:00 PM    | Introduce Talks for Week 2                       |                                   |
-| 4:30-5:30 PM    | Lecture                                          | Srikrishna Subramaniam            |
+| 4:30-5:30 PM    | Lecture                                          | Manoj Kumar (CSIR-IMTech, Chandigarh)            |
 | 5:30-6:30 PM    | Q&A for Metagenomics Tutorials                   | Bérénice Batut & Saskia Hiltemann |
 
 
